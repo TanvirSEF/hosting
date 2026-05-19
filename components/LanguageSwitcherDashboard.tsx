@@ -3,7 +3,11 @@
 import { Globe } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 
-export function LanguageSwitcherDashboard() {
+type LanguageSwitcherDashboardProps = {
+  storageKey?: string;
+};
+
+export function LanguageSwitcherDashboard(_props: LanguageSwitcherDashboardProps) {
   return (
     <Button variant="ghost" size="sm" className="gap-2" disabled>
       <Globe className="h-4 w-4" />
