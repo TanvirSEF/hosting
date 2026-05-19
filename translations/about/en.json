@@ -8,17 +8,17 @@
       {
         "heading": "Enterprise-Grade Infrastructure Built for Speed",
         "description": "Our data centers feature the latest NVMe SSD storage, high-frequency processors, and redundant network connections. Every server is optimized for maximum performance, ensuring your website loads in milliseconds. With strategically located servers across multiple continents, we deliver content to your visitors faster than ever before.",
-        "image": "/datacenter.jpg"
+        "image": "https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/datacenter.webp"
       },
       {
         "heading": "24/7 Expert Support That Actually Understands Hosting",
         "description": "Our support team isn't just reading from scripts—they're experienced hosting professionals who understand the technology inside and out. Whether you're migrating a complex WordPress site or troubleshooting a configuration issue, we're here to help. Average response time: under 5 minutes.",
-        "image": "/images/about/support-team.png"
+        "image": "https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/about/support-team.webp"
       },
       {
         "heading": "Security-First Approach to Protect Your Business",
         "description": "Every hosting account includes free SSL certificates, automated daily backups, DDoS protection, and real-time malware scanning. Our security infrastructure runs 24/7, monitoring for threats and automatically blocking attacks before they reach your site. Your data and your visitors are protected at all times.",
-        "image": "/images/about/security.png"
+        "image": "https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/about/security.webp"
       }
     ]
   },
@@ -47,7 +47,7 @@
         "name": "Sarah Jenkins",
         "position": "CEO",
         "company": "TechStart Inc",
-        "image": "/images/about/testimonial-1.png",
+        "image": "https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/about/reviewer-1.webp",
         "rating": 5
       },
       {
@@ -55,7 +55,7 @@
         "name": "David Chen",
         "position": "E-commerce Director",
         "company": "Global Retail",
-        "image": "/images/about/testimonial-2.png",
+        "image": "https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/about/reviewer-2.webp",
         "rating": 5
       },
       {
@@ -63,7 +63,7 @@
         "name": "Elena Rodriguez",
         "position": "Founder",
         "company": "Creative Digital",
-        "image": "/images/about/testimonial-3.png",
+        "image": "https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/about/reviewer-3.webp",
         "rating": 5
       }
     ]

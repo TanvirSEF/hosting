@@ -335,19 +335,19 @@
           "id": 1,
           "title": "NVMe SSD storage",
           "description": "Direct-attached solid state drives eliminate the bottleneck of older spinning disks. Every request moves at wire speed.",
-          "image": "/images/home/features/performance.png"
+          "image": "https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/home/features/performance.webp"
         },
         {
           "id": 2,
           "title": "Global CDN and compression",
           "description": "HTTP/2 and GZIP compression shrink files before they travel. Content delivery network puts your site closer to every visitor.",
-          "image": "/images/home/features/performance.png"
+          "image": "https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/home/features/performance.webp"
         },
         {
           "id": 3,
           "title": "Uptime you can trust",
           "description": "99.9% uptime backed by real monitoring and SLA. We watch the servers so you don't have to.",
-          "image": "/images/home/features/performance.png"
+          "image": "https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/home/features/performance.webp"
         }
       ]
     },
@@ -360,19 +360,19 @@
           "id": 1,
           "title": "WordPress made simple",
           "description": "Install WordPress with a single click. Automatic core updates keep your site secure without the fuss.",
-          "image": "/images/home/features/development.png"
+          "image": "https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/home/features/development.webp"
         },
         {
           "id": 2,
           "title": "Developer control",
           "description": "SSH access, Git deployment, and PHP version selector give you the keys to the kingdom. Database manager included.",
-          "image": "/images/home/features/development.png"
+          "image": "https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/home/features/development.webp"
         },
         {
           "id": 3,
           "title": "Staging and testing",
           "description": "Clone your site to a staging environment and test changes safely. Push to live when you're ready.",
-          "image": "/images/home/features/development.png"
+          "image": "https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/home/features/development.webp"
         }
       ]
     },
@@ -385,19 +385,19 @@
           "id": 1,
           "title": "SSL and encryption",
           "description": "Every site gets a free SSL certificate. Visitors see the lock icon, search engines rank you higher.",
-          "image": "/images/home/features/security.png"
+          "image": "https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/home/features/security.webp"
         },
         {
           "id": 2,
           "title": "Backups and DDoS",
           "description": "Daily automated backups protect against data loss. DDoS protection and malware scanning run 24/7.",
-          "image": "/images/home/features/security.png"
+          "image": "https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/home/features/security.webp"
         },
         {
           "id": 3,
           "title": "Two-factor authentication",
           "description": "Secure your account with 2FA. Optional automatic updates keep WordPress and plugins patched.",
-          "image": "/images/home/features/security.png"
+          "image": "https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/home/features/security.webp"
         }
       ]
     }

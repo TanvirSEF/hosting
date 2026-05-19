@@ -41,7 +41,7 @@ export default function SharedWhyChoose() {
                     <div className="w-full max-w-[400px] lg:w-[450px] aspect-square flex-none relative rounded-[20px] overflow-hidden bg-gradient-to-br from-[#8C52FF]/10 to-[#5CE1E6]/10 shadow-lg">
                         <div className="relative w-full h-full">
                             <Image
-                                src={`/images/shared-hosting/tab-${activeTab}.png`}
+                                src={`https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/shared-hosting/tab-${activeTab}.webp`}
                                 alt={t(`tabs.${activeTab}.title`)}
                                 fill
                                 className="object-cover"

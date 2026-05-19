@@ -67,7 +67,7 @@ async function uploadFile(localPath: string, key: string): Promise<string> {
     Bucket: R2_BUCKET_NAME,
     Key: finalKey,
     Body: body,
-    ContentType: isImage ? 'image/webp' : undefined,
+    ContentType: isImage ? 'image/webp' : ext === '.svg' ? 'image/svg+xml' : ext === '.ico' ? 'image/x-icon' : undefined,
   }));
 
   return `${R2_PUBLIC_URL}/${finalKey}`;

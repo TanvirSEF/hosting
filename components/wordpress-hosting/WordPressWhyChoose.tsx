@@ -41,7 +41,7 @@ export default function WordPressWhyChoose() {
                     <div className="w-[300px] h-[300px] lg:w-[400px] lg:h-[400px] flex-none relative rounded-[20px] overflow-hidden bg-[#E3E3E3] shadow-sm">
                         <div className="relative w-full h-full">
                             <Image
-                                src={`/images/wordpress-hosting/tab-${activeTab}.png`}
+                                src={`https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/wordpress-hosting/tab-${activeTab}.webp`}
                                 alt={t(`tabs.${activeTab}.title`)}
                                 fill
                                 className="object-cover"
