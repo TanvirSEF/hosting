@@ -4,7 +4,7 @@ import { whmcsApi, getCurrencies } from '@/lib/whmcs';
 import { formatCurrencyWithSymbol } from '@/lib/currency-utils';
 import { getHostingOrdersCollection, getInvoicesCollection } from '@/lib/db';
 import { HOSTING_PLANS } from '@/lib/config/hosting-plans';
-import type { ProductGroupKey } from '@/lib/product-plans-tina';
+import type { ProductGroupKey } from '@/lib/product-plans';
 import { cookies } from 'next/headers';
 import { jwtVerify } from 'jose';
 import { syncInvoiceToMongoDB } from '@/lib/invoice-sync';
@@ -172,7 +172,7 @@ export async function getProductsAction(groupId?: number) {
   }
 }
 
-/** Map WHMCS group ID (gid) to Tina product-plans group key */
+/** Map WHMCS group ID (gid) to product-plans group key */
 function getGroupKeyFromGid(gid: number): ProductGroupKey | null {
   const gidStr = String(gid);
   if (HOSTING_PLANS.shared?.gid === gidStr) return 'shared';
@@ -291,7 +291,7 @@ export async function checkProductFreeDomainAction(
 
 /**
  * Get single product details. If locale is provided, name/tagline/description/features
- * are overridden from Tina CMS (translations/product-plans/{group}/{locale}.json).
+ * are overridden from translations (translations/product-plans/{group}/{locale}.json).
  */
 export async function getProductDetailsAction(
   productId: number,
@@ -338,14 +338,14 @@ export async function getProductDetailsAction(
       if (locale) {
         const groupKey = getGroupKeyFromGid(groupId);
         if (groupKey) {
-          const { getTinaTranslationMap } = await import('@/lib/product-plans-tina');
-          const tinaMap = await getTinaTranslationMap(groupKey, locale);
-          const tinaPlan = tinaMap.get(productId);
-          if (tinaPlan) {
-            if (tinaPlan.name) name = tinaPlan.name;
-            if (tinaPlan.tagline != null) tagline = tinaPlan.tagline;
-            if (tinaPlan.description != null) description = tinaPlan.description;
-            if (tinaPlan.features?.length) features = tinaPlan.features;
+          const { getTranslationMap } = await import('@/lib/product-plans');
+          const planMap = await getTranslationMap(groupKey, locale);
+          const translatedPlan = planMap.get(productId);
+          if (translatedPlan) {
+            if (translatedPlan.name) name = translatedPlan.name;
+            if (translatedPlan.tagline != null) tagline = translatedPlan.tagline;
+            if (translatedPlan.description != null) description = translatedPlan.description;
+            if (translatedPlan.features?.length) features = translatedPlan.features;
           }
         }
       }
@@ -992,7 +992,7 @@ export async function generateInvoiceAction() {
 
 /**
  * Get shared hosting plans for home page pricing section.
- * Pricing comes from WHMCS; text content can be overridden by Tina translations.
+ * Pricing comes from WHMCS; text content can be overridden by plan translations.
  */
 export async function getSharedHostingPlansForHomeAction(
   currencyCode: string = 'USD',
@@ -1092,14 +1092,14 @@ export async function getSharedHostingPlansForHomeAction(
         };
       });
 
-    const withTina = await applyTinaTranslations(
+    const withTranslations = await applyTranslations(
       sharedPlans,
       'shared',
       locale
     );
     return {
       success: true,
-      data: withTina.length > 0 ? withTina : null,
+      data: withTranslations.length > 0 ? withTranslations : null,
     };
   } catch (error: any) {
     return { success: false, data: null };
@@ -1129,7 +1129,7 @@ function parseFeatures(description: string, skipFirstLine = false): string[] {
 
 /**
  * Get WordPress hosting plans.
- * Pricing comes from WHMCS; text content can be overridden by Tina translations.
+ * Pricing comes from WHMCS; text content can be overridden by plan translations.
  */
 export async function getWordPressPlansAction(
   currencyCode: string = 'USD',
@@ -1201,12 +1201,12 @@ export async function getWordPressPlansAction(
       return priceA - priceB;
     });
 
-    const withTina = await applyTinaTranslations(
+    const withTranslations = await applyTranslations(
       wpPlans,
       'wordpress',
       locale
     );
-    return { success: true, data: withTina };
+    return { success: true, data: withTranslations };
   } catch (error: any) {
     return { success: false, error: error.message };
   }
@@ -1214,7 +1214,7 @@ export async function getWordPressPlansAction(
 
 /**
  * Get VPS hosting plans.
- * Pricing comes from WHMCS; text content can be overridden by Tina translations.
+ * Pricing comes from WHMCS; text content can be overridden by plan translations.
  */
 export async function getVpsPlansAction(
   currencyCode: string = 'USD',
@@ -1286,8 +1286,8 @@ export async function getVpsPlansAction(
       return priceA - priceB;
     });
 
-    const withTina = await applyTinaTranslations(vpsPlans, 'vps', locale);
-    return { success: true, data: withTina };
+    const withTranslations = await applyTranslations(vpsPlans, 'vps', locale);
+    return { success: true, data: withTranslations };
   } catch (error: any) {
     return { success: false, error: error.message };
   }
@@ -1295,7 +1295,7 @@ export async function getVpsPlansAction(
 
 /**
  * Get E-commerce hosting plans.
- * Pricing comes from WHMCS; text content can be overridden by Tina translations.
+ * Pricing comes from WHMCS; text content can be overridden by plan translations.
  */
 export async function getEcommercePlansAction(
   currencyCode: string = 'USD',
@@ -1367,25 +1367,25 @@ export async function getEcommercePlansAction(
       return priceA - priceB;
     });
 
-    const withTina = await applyTinaTranslations(
+    const withTranslations = await applyTranslations(
       ecommercePlans,
       'ecommerce',
       locale
     );
-    return { success: true, data: withTina };
+    return { success: true, data: withTranslations };
   } catch (error: any) {
     return { success: false, error: error.message };
   }
 }
 
-async function applyTinaTranslations(
+async function applyTranslations(
   plans: any[],
   groupKey: 'shared' | 'wordpress' | 'vps' | 'ecommerce',
   locale?: string
 ) {
   if (!locale) return plans;
-  const { getTinaTranslationMap } = await import('@/lib/product-plans-tina');
-  const map = await getTinaTranslationMap(groupKey, locale);
+  const { getTranslationMap } = await import('@/lib/product-plans');
+  const map = await getTranslationMap(groupKey, locale);
   return plans.map((plan) => {
     const t = map.get(Number(plan.id));
     if (!t) return plan;

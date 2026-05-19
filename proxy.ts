@@ -31,27 +31,8 @@ export async function proxy(request: NextRequest) {
 
   // Admin routes (now under /spike)
   const isAdminRoute = pathname.startsWith('/spike');
-  // TinaCMS is now at /admin (rewritten)
-  const isTinaCMSRoute = pathname.startsWith('/admin') || pathname.startsWith('/tina-admin');
   const isClientAuthRoute =
     pathname.startsWith('/dashboard') || pathname === '/login';
-
-  // TinaCMS routes - require SUPER_ADMIN
-  if (isTinaCMSRoute) {
-    if (!adminSession) {
-      return NextResponse.redirect(new URL('/spike/login', request.url));
-    }
-
-    try {
-      const { payload } = await jwtVerify(adminSession, ADMIN_JWT_SECRET);
-      if (payload.role !== 'SUPER_ADMIN') {
-        return NextResponse.redirect(new URL('/spike/login', request.url));
-      }
-      return NextResponse.next();
-    } catch {
-      return NextResponse.redirect(new URL('/spike/login', request.url));
-    }
-  }
 
   // Admin routes
   if (isAdminRoute) {
@@ -108,7 +89,7 @@ export async function proxy(request: NextRequest) {
   }
 
   // i18n for public routes only
-  if (!isAdminRoute && !isClientAuthRoute && !isTinaCMSRoute) {
+  if (!isAdminRoute && !isClientAuthRoute) {
     return intlMiddleware(request);
   }
 

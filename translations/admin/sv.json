@@ -12,7 +12,6 @@
       "billing": "Fakturering",
       "staff": "Personal",
       "blog": "Webbly Insights",
-      "tinaCms": "Tina CMS",
       "serverStatus": "Serverstatus",
       "systemLogs": "Systemloggar"
     },
@@ -51,10 +50,6 @@
       "english": "English",
       "swedish": "Svenska"
     }
-  },
-  "tinaCms": {
-    "title": "Tina CMS",
-    "description": "Hantera webbplatsens innehåll direkt från adminpanelen."
   },
   "productPlans": {
     "title": "Produktplaner (WHMCS → DB)",

@@ -41,12 +41,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# TinaCMS
-tina/__generated__
-.tina/__generated__
-.tina/local_content_store
-public/tina-admin
-
 # WHMCS Module (local reference only)
 /module
 git-commit.txt

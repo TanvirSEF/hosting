@@ -80,9 +80,9 @@ async function getOrderServiceData() {
           );
         });
 
-        // Initialize Tina data mapping
-        const { getTinaTranslationMap } = await import(
-          '@/lib/product-plans-tina'
+        // Initialize plan translation mapping
+        const { getTranslationMap } = await import(
+          '@/lib/product-plans'
         );
         const locales = ['en']; // Default to English for now
 
@@ -91,8 +91,8 @@ async function getOrderServiceData() {
         const translationsByGroup = new Map<string, Map<number, any>>();
 
         for (const groupKey of groupsToFetch) {
-          const tinaMap = await getTinaTranslationMap(groupKey, 'en');
-          translationsByGroup.set(groupKey, tinaMap);
+          const planMap = await getTranslationMap(groupKey, 'en');
+          translationsByGroup.set(groupKey, planMap);
         }
 
         // Apply overrides to products
@@ -107,16 +107,16 @@ async function getOrderServiceData() {
           };
 
           if (groupInfo) {
-            const tinaMap = translationsByGroup.get(groupInfo.key);
-            const tinaPlan = tinaMap?.get(parseInt(product.pid));
+            const planMap = translationsByGroup.get(groupInfo.key);
+            const translatedPlan = planMap?.get(parseInt(product.pid));
 
-            if (tinaPlan) {
+            if (translatedPlan) {
               return {
                 ...baseProduct,
-                name: tinaPlan.name || product.name,
-                tagline: tinaPlan.tagline || '',
-                description: tinaPlan.description || product.description,
-                features: tinaPlan.features || [],
+                name: translatedPlan.name || product.name,
+                tagline: translatedPlan.tagline || '',
+                description: translatedPlan.description || product.description,
+                features: translatedPlan.features || [],
               };
             }
           }

@@ -13,7 +13,6 @@ import {
   BookOpen,
   ScrollText,
   Activity,
-  Settings,
 } from 'lucide-react';
 
 import { NavMain } from '@/components/nav-main';
@@ -97,12 +96,6 @@ const getAdminNavMain = (role: string, t: (key: string) => string) => {
       title: t('sidebar.navigation.staff'),
       url: '/spike/staff',
       icon: UserCog,
-    });
-    items.push({
-      title: t('sidebar.navigation.tinaCms'),
-      url: '/admin',
-      newTab: true,
-      icon: Settings,
     });
   }
 

@@ -1,7 +1,0 @@
-# TinaCMS
-tina/__generated__
-.tina/__generated__
-public/admin
-
-# Ignore TinaCMS local data
-.tina/local_content_store

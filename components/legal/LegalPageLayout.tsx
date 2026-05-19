@@ -3,7 +3,50 @@
 import { motion } from 'framer-motion';
 import Link from 'next/link';
 import { ChevronRight } from 'lucide-react';
-import { TinaMarkdown } from 'tinacms/dist/rich-text';
+import React from 'react';
+
+// Rich-text AST node types (formerly rendered by TinaMarkdown)
+type TinaNode = {
+  type: string;
+  text?: string;
+  url?: string;
+  children?: TinaNode[];
+  [key: string]: unknown;
+};
+
+function renderTinaNode(node: TinaNode, key: number): React.ReactNode {
+  if (node.type === 'text') {
+    let el: React.ReactNode = node.text || '';
+    if ((node as any).bold) el = <strong key={key}>{el}</strong>;
+    if ((node as any).italic) el = <em key={key}>{el}</em>;
+    if ((node as any).underline) el = <u key={key}>{el}</u>;
+    return el;
+  }
+  const children = node.children?.map((c, i) => renderTinaNode(c, i));
+  switch (node.type) {
+    case 'root': return <React.Fragment key={key}>{children}</React.Fragment>;
+    case 'p': return <p key={key}>{children}</p>;
+    case 'ul': return <ul key={key}>{children}</ul>;
+    case 'ol': return <ol key={key}>{children}</ol>;
+    case 'li': return <li key={key}>{children}</li>;
+    case 'lic': return <React.Fragment key={key}>{children}</React.Fragment>;
+    case 'a': return <a key={key} href={node.url} className="text-[#8C52FF] underline hover:text-[#7340DB]">{children}</a>;
+    case 'strong': return <strong key={key}>{children}</strong>;
+    case 'em': return <em key={key}>{children}</em>;
+    case 'blockquote': return <blockquote key={key}>{children}</blockquote>;
+    case 'br': return <br key={key} />;
+    default: return <React.Fragment key={key}>{children}</React.Fragment>;
+  }
+}
+
+function TinaRichText({ content }: { content: any }) {
+  if (!content) return null;
+  if (typeof content === 'string') return <>{content}</>;
+  if (content.type === 'root') {
+    return <>{content.children?.map((c: TinaNode, i: number) => renderTinaNode(c, i))}</>;
+  }
+  return <>{String(content)}</>;
+}
 
 interface Section {
   title: string;
@@ -63,7 +106,7 @@ export default function LegalPageLayout({
     transition: { duration: 0.5 },
   };
 
-  // renderContent function removed as we now use TinaMarkdown
+  // renderContent function removed as we now use TinaRichText
 
   return (
     <main className="min-h-screen bg-[#FAFAFA]">
@@ -159,7 +202,7 @@ export default function LegalPageLayout({
                 <div className="text-[clamp(0.9rem,1.8vw,1.0625rem)] leading-relaxed text-[#667085]">
                   {introduction && (
                     <div className="font-dm-sans [&>p]:mb-4 [&>p:last-child]:mb-0 [&>ul]:mb-6 [&>ul]:list-disc [&>ul]:space-y-2 [&>ul]:pl-6 [&>ul]:marker:text-[#8C52FF] [&>ul>li]:pl-2">
-                      <TinaMarkdown content={introduction} />
+                      <TinaRichText content={introduction} />
                     </div>
                   )}
                 </div>
@@ -184,7 +227,7 @@ export default function LegalPageLayout({
 
                     {/* Content */}
                     <div className="text-[clamp(1rem,1.5vw,1.125rem)] leading-relaxed text-[#4A4C51] font-dm-sans [&>p]:mb-4 [&>p:last-child]:mb-0 [&>ul]:mb-6 [&>ul]:list-disc [&>ul]:space-y-2 [&>ul]:pl-6 [&>ul]:marker:text-[#8C52FF] [&>ul>li]:pl-2">
-                      {section.content && <TinaMarkdown content={section.content} />}
+                      {section.content && <TinaRichText content={section.content} />}
                     </div>
 
                     {/* Subsections */}
@@ -196,7 +239,7 @@ export default function LegalPageLayout({
                               {sub.title}
                             </h3>
                             <div className="text-[clamp(0.9375rem,1.5vw,1rem)] leading-relaxed text-[#667085] font-dm-sans [&>p]:mb-4 [&>p:last-child]:mb-0 [&>ul]:mb-6 [&>ul]:list-disc [&>ul]:space-y-2 [&>ul]:pl-6 [&>ul]:marker:text-[#8C52FF] [&>ul>li]:pl-2">
-                              {sub.content && <TinaMarkdown content={sub.content} />}
+                              {sub.content && <TinaRichText content={sub.content} />}
                             </div>
                           </div>
                         ))}

@@ -11,7 +11,6 @@ services:
       context: .
       dockerfile: Dockerfile
       args:
-        - NEXT_PUBLIC_TINA_CLIENT_ID=${NEXT_PUBLIC_TINA_CLIENT_ID}
         - NEXT_PUBLIC_SHARED_HOSTING_GID=${NEXT_PUBLIC_SHARED_HOSTING_GID}
         - NEXT_PUBLIC_WORDPRESS_HOSTING_GID=${NEXT_PUBLIC_WORDPRESS_HOSTING_GID}
         - NEXT_PUBLIC_VPS_HOSTING_GID=${NEXT_PUBLIC_VPS_HOSTING_GID}
@@ -25,7 +24,6 @@ services:
         - NEXT_PUBLIC_NORDVPN=${NEXT_PUBLIC_NORDVPN}
         - NEXT_PUBLIC_SSL=${NEXT_PUBLIC_SSL}
         - NEXT_PUBLIC_WEBBUILDER=${NEXT_PUBLIC_WEBBUILDER}
-        - TINA_TOKEN=${TINA_TOKEN}
     image: webblyhost:latest
     container_name: webblyhost-app
     restart: unless-stopped
@@ -70,12 +68,7 @@ services:
       
       # Resend Transactional Emails
       - RESEND_API_KEY=${RESEND_API_KEY}
-      
-      # TinaCMS Configuration
-      - NEXT_PUBLIC_TINA_CLIENT_ID=${NEXT_PUBLIC_TINA_CLIENT_ID}
-      - TINA_TOKEN=${TINA_TOKEN}
-      - GITHUB_BRANCH=${GITHUB_BRANCH:-main}
-      
+
       # MongoDB Direct Connection (Development)
       - MONGODB_DIRECT_CONNECTION=${MONGODB_DIRECT_CONNECTION:-false}
       

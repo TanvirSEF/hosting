@@ -61,10 +61,6 @@ CHANGELOG.md
 LICENSE
 docs/
 
-# TinaCMS development files
-.tina
-tina/__generated__
-
 # Debug files
 debug_*.json
 *.js.map

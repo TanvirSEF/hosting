@@ -54,20 +54,6 @@ const nextConfig: NextConfig = {
     };
     return config;
   },
-  async rewrites() {
-    return [
-      {
-        source: '/admin',
-        destination: '/tina-admin/index.html',
-      },
-      {
-        source: '/tina/admin/:path*',
-        destination: '/tina-admin/:path*',
-      },
-      // Keep legacy /tina/admin working just in case, or we can remove it. 
-      // User request "update tinacms admin route like localhost:3000/admin" implies specific change.
-    ];
-  },
 };
 
 export default withSentryConfig(withNextIntl(nextConfig), {

@@ -12,7 +12,6 @@
       "billing": "Billing",
       "staff": "Staff",
       "blog": "Webbly Insights",
-      "tinaCms": "Tina CMS",
       "serverStatus": "Server Status",
       "systemLogs": "System Logs"
     },
@@ -51,10 +50,6 @@
       "english": "English",
       "swedish": "Svenska"
     }
-  },
-  "tinaCms": {
-    "title": "Tina CMS",
-    "description": "Manage public website content directly from the admin dashboard."
   },
   "productPlans": {
     "title": "Product Plans (WHMCS → DB)",

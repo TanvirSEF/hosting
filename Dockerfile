@@ -58,7 +58,6 @@ ENV SKIP_ENV_VALIDATION=true
 
 # Add build arguments for public environment variables
 # This ensures they are baked into the client-side bundle
-ARG NEXT_PUBLIC_TINA_CLIENT_ID
 ARG NEXT_PUBLIC_SHARED_HOSTING_GID
 ARG NEXT_PUBLIC_WORDPRESS_HOSTING_GID
 ARG NEXT_PUBLIC_VPS_HOSTING_GID
@@ -72,11 +71,9 @@ ARG NEXT_PUBLIC_MARKETGO
 ARG NEXT_PUBLIC_NORDVPN
 ARG NEXT_PUBLIC_SSL
 ARG NEXT_PUBLIC_WEBBUILDER
-ARG TINA_TOKEN
 ARG WHMCS_FREE_DOMAIN_CONFIG
 ARG WHMCS_ADDORDER_DOMAIN_FORMAT
 
-ENV NEXT_PUBLIC_TINA_CLIENT_ID=$NEXT_PUBLIC_TINA_CLIENT_ID
 ENV NEXT_PUBLIC_SHARED_HOSTING_GID=$NEXT_PUBLIC_SHARED_HOSTING_GID
 ENV NEXT_PUBLIC_WORDPRESS_HOSTING_GID=$NEXT_PUBLIC_WORDPRESS_HOSTING_GID
 ENV NEXT_PUBLIC_VPS_HOSTING_GID=$NEXT_PUBLIC_VPS_HOSTING_GID
@@ -90,14 +87,8 @@ ENV NEXT_PUBLIC_MARKETGO=$NEXT_PUBLIC_MARKETGO
 ENV NEXT_PUBLIC_NORDVPN=$NEXT_PUBLIC_NORDVPN
 ENV NEXT_PUBLIC_SSL=$NEXT_PUBLIC_SSL
 ENV NEXT_PUBLIC_WEBBUILDER=$NEXT_PUBLIC_WEBBUILDER
-ENV TINA_TOKEN=$TINA_TOKEN
 ENV WHMCS_FREE_DOMAIN_CONFIG=$WHMCS_FREE_DOMAIN_CONFIG
 ENV WHMCS_ADDORDER_DOMAIN_FORMAT=$WHMCS_ADDORDER_DOMAIN_FORMAT
-
-# Build TinaCMS first (required for Next.js build)
-# We use --skip-cloud-checks to prevent race conditions during Dokploy deployments.
-# Dokploy builds the image instantly on push, while TinaCloud needs a minute or two to index the schema.
-RUN pnpm exec tinacms build --skip-cloud-checks
 
 # Build Next.js application
 RUN pnpm exec next build
@@ -123,7 +114,7 @@ RUN apk add --no-cache \
     curl \
     && rm -rf /var/cache/apk/*
 
-# Copy public assets (includes tina-admin from TinaCMS build)
+# Copy public assets
 COPY --from=builder /app/public ./public
 
 # Set up standalone directory structure
@@ -133,9 +124,6 @@ COPY --from=builder --chown=nextjs:nodejs /app/.next/static ./.next/static
 
 # Copy translations for i18n (required at runtime)
 COPY --from=builder --chown=nextjs:nodejs /app/translations ./translations
-
-# Copy tina config directory (required for CMS)
-COPY --from=builder --chown=nextjs:nodejs /app/tina ./tina
 
 # Expose port
 EXPOSE 3000
