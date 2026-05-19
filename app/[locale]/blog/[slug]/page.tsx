@@ -236,7 +236,7 @@ export default function BlogPostPage() {
                   title: p.title,
                   excerpt: p.excerpt,
                   image:
-                    p.featuredImage?.url || '/images/blog/hosting-guide.png',
+                    p.featuredImage?.url || 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/blog/hosting-guide.webp',
                   category: catName,
                   date: format(new Date(p.publishedAt), 'MMMM d, yyyy'),
                 };

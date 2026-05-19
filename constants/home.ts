@@ -155,7 +155,7 @@ export const BLOG_CONTENT = {
       id: 1,
       title: 'Web Hosting Without Any Limits',
       description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
-      image: '/images/home/blog/blog1.png',
+      image: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/home/blog/blog1.webp',
       large: true,
     },
     {
@@ -163,7 +163,7 @@ export const BLOG_CONTENT = {
       title: 'Launch WordPress Like A Pro',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet.',
-      image: '/images/home/blog/blog2.png',
+      image: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/home/blog/blog2.webp',
       large: false,
     },
   ],
@@ -173,21 +173,21 @@ export const BLOG_CONTENT = {
       title: 'Sub Heading Goes Here',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet.',
-      image: '/images/home/blog/blogrest.png',
+      image: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/home/blog/blogrest.webp',
     },
     {
       id: 4,
       title: 'Sub Heading Goes Here',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet.',
-      image: '/images/home/blog/blogrest.png',
+      image: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/home/blog/blogrest.webp',
     },
     {
       id: 5,
       title: 'Sub Heading Goes Here',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet.',
-      image: '/images/home/blog/blogrest.png',
+      image: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/home/blog/blogrest.webp',
     },
   ],
 };
@@ -292,21 +292,21 @@ export const FEATURES_TABS_CONTENT = {
       title: 'NVMe SSD storage',
       description:
         'Direct-attached solid state drives eliminate the bottleneck of older spinning disks. Every request moves at wire speed.',
-      image: '/images/home/sideimage1.png',
+      image: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/home/sideimage1.webp',
     },
     {
       id: 1,
       title: 'Global CDN and compression',
       description:
         'HTTP/2 and GZIP compression shrink files before they travel. Content delivery network puts your site closer to every visitor.',
-      image: '/images/home/sideimage1.png',
+      image: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/home/sideimage1.webp',
     },
     {
       id: 2,
       title: 'Uptime you can trust',
       description:
         "99.9% uptime backed by real monitoring and SLA. We watch the servers so you don't have to.",
-      image: '/images/home/sideimage1.png',
+      image: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/home/sideimage1.webp',
     },
   ],
 };
@@ -322,21 +322,21 @@ export const DEVELOPMENT_TABS_CONTENT = {
       title: 'WordPress made simple',
       description:
         'Install WordPress with a single click. Automatic core updates keep your site secure without the fuss.',
-      image: '/images/home/sideimage2.png',
+      image: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/home/sideimage2.webp',
     },
     {
       id: 1,
       title: 'Developer control',
       description:
         'SSH access, Git deployment, and PHP version selector give you the keys to the kingdom. Database manager included.',
-      image: '/images/home/sideimage2.png',
+      image: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/home/sideimage2.webp',
     },
     {
       id: 2,
       title: 'Staging and testing',
       description:
         "Clone your site to a staging environment and test changes safely. Push to live when you're ready.",
-      image: '/images/home/sideimage2.png',
+      image: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/home/sideimage2.webp',
     },
   ],
 };
@@ -352,21 +352,21 @@ export const SECURITY_TABS_CONTENT = {
       title: 'SSL and encryption',
       description:
         'Every site gets a free SSL certificate. Visitors see the lock icon, search engines rank you higher.',
-      image: '/images/home/sideimage3.png',
+      image: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/home/sideimage3.webp',
     },
     {
       id: 1,
       title: 'Backups and DDoS',
       description:
         'Daily automated backups protect against data loss. DDoS protection and malware scanning run 24/7.',
-      image: '/images/home/sideimage3.png',
+      image: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/home/sideimage3.webp',
     },
     {
       id: 2,
       title: 'Two-factor authentication',
       description:
         'Secure your account with 2FA. Optional automatic updates keep WordPress and plugins patched.',
-      image: '/images/home/sideimage3.png',
+      image: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/home/sideimage3.webp',
     },
   ],
 };

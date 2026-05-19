@@ -41,8 +41,8 @@ export default function LatestPosts({ posts, title }: LatestPostsProps) {
       <div className="grid gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-3">
         {posts.map((post, index) => {
           const BlogPostImage = ({ imageSrc, alt }: { imageSrc: string; alt: string }) => {
-            const [imgSrc, setImgSrc] = useState(imageSrc || '/images/blog/hosting-guide.png');
-            const fallbackImage = '/images/blog/hosting-guide.png';
+            const [imgSrc, setImgSrc] = useState(imageSrc || 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/blog/hosting-guide.webp');
+            const fallbackImage = 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/blog/hosting-guide.webp';
 
             return (
               <img
@@ -70,7 +70,7 @@ export default function LatestPosts({ posts, title }: LatestPostsProps) {
                 <div className="mb-4 overflow-hidden rounded-xl">
                   <div className="relative aspect-[16/10] overflow-hidden bg-gray-100">
                     <BlogPostImage 
-                      imageSrc={post.image || '/images/blog/hosting-guide.png'} 
+                      imageSrc={post.image || 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/blog/hosting-guide.webp'} 
                       alt={post.title} 
                     />
                   </div>

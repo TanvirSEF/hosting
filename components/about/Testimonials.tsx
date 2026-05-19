@@ -10,7 +10,7 @@ import { useState, useRef, useEffect } from 'react';
 const QuoteIcon = () => (
   <div className="relative h-12 w-12">
     <Image
-      src="/images/about/quote-icon.png"
+      src="https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/about/quote-icon.webp"
       alt="Quote"
       fill
       className="object-contain"

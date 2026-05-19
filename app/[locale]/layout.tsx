@@ -24,7 +24,7 @@ export async function generateMetadata({
     title: t('title'),
     description: t('description'),
     icons: {
-      icon: '/images/favicon.ico',
+      icon: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/favicon.ico',
     },
   };
 }

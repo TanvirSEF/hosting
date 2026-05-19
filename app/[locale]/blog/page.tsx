@@ -46,7 +46,7 @@ export default function BlogPage() {
   const [total, setTotal] = useState(0);
 
   const postsPerPage = 10;
-  const fallbackImage = t('fallbackImage') || '/images/blog/hosting-guide.png';
+  const fallbackImage = t('fallbackImage') || 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/blog/hosting-guide.webp';
   const defaultReadTime = t('defaultReadTime') || '5 min read';
   const fallbackCategoryIcon = t('fallbackCategoryIcon') || '📄';
   const blogPostBase = t('routes.postBase') || '/blog';

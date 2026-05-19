@@ -19,7 +19,7 @@ export default function PricingPhilosophySection() {
           <div className="w-full lg:w-1/2 flex justify-center">
             <div className="relative w-full max-w-[550px] aspect-[4/3] sm:aspect-video lg:aspect-[1.1/1] rounded-[2rem] overflow-hidden shadow-md">
               <Image
-                src="/images/pricing-philosophy.svg"
+                src="https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/pricing-philosophy.svg"
                 alt="Pricing Philosophy"
                 fill
                 className="object-cover"

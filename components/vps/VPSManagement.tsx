@@ -42,7 +42,7 @@ export default function VPSManagement() {
                         <div className="mt-auto relative w-full h-[300px] sm:h-[400px] lg:h-[503px] bg-[#E3E3E3] overflow-hidden">
                             <div className="relative w-full h-full transition-transform duration-500 ease-out group-hover:scale-105">
                                 <Image
-                                    src="/images/vps-hosting/monitor.png"
+                                    src="https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/vps-hosting/monitor.webp"
                                     alt="Monitoring Preview"
                                     fill
                                     className="object-cover object-top"
@@ -67,7 +67,7 @@ export default function VPSManagement() {
                             <div className="relative w-full md:w-1/2 h-[300px] md:h-full bg-[#E3E3E3] overflow-hidden">
                                 <div className="relative w-full h-full transition-transform duration-500 ease-out group-hover:scale-105">
                                     <Image
-                                        src="/images/vps-hosting/patch.png"
+                                        src="https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/vps-hosting/patch.webp"
                                         alt="Patch and Update"
                                         fill
                                         className="object-cover object-center"

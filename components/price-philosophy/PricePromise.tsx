@@ -11,20 +11,20 @@ export default function PricePromise() {
 
   const cards = [
     {
-      image: '/images/price-philosophy/growth.png',
+      image: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/price-philosophy/growth.webp',
       title: t('cards.0.title'),
       description1: t('cards.0.description1'),
       description2: t('cards.0.description2'),
       footer: t('cards.0.footer'),
     },
     {
-      image: '/images/price-philosophy/dashboard-2.png',
+      image: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/price-philosophy/dashboard-2.webp',
       title: t('cards.1.title'),
       bullets: t.raw('cards.1.bullets') as string[],
       footer: t('cards.1.footer'),
     },
     {
-      image: '/images/price-philosophy/dashboard-1.png',
+      image: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/price-philosophy/dashboard-1.webp',
       title: t('cards.2.title'),
       description1: t('cards.2.description1'),
       footer: t('cards.2.footer'),

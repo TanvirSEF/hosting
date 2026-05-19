@@ -8,7 +8,7 @@ import { usePathname } from 'next/navigation';
 
 export default function Hero() {
   const t = useTranslations('vps.hero');
-  const imageSrc = '/images/vps-hosting/vpshero.png';
+  const imageSrc = 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/vps-hosting/vpshero.webp';
   const pathname = usePathname();
   const ctaLink = t('ctaLink') || '#pricing';
   return (

@@ -47,7 +47,7 @@ export default function BlogCategoryPage() {
   const [total, setTotal] = useState(0);
 
   const postsPerPage = 10;
-  const fallbackImage = t('fallbackImage') || '/images/blog/hosting-guide.png';
+  const fallbackImage = t('fallbackImage') || 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/blog/hosting-guide.webp';
 
   useEffect(() => {
     loadData();

@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: "Client Dashboard - WebblyHosting",
   description: "Manage your hosting services and domains",
   icons: {
-    icon: '/images/favicon.ico',
+    icon: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/favicon.ico',
   },
 };
 

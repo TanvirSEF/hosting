@@ -58,7 +58,7 @@ async function sendToDiscord(data: {
       description: `**From:** ${data.firstName} ${data.lastName}\n**Email:** [${data.email}](mailto:${data.email})`,
       color: 9196287, // #8C52FF (Brand Color)
       thumbnail: {
-        url: 'https://webblyhosting.com/images/webblymediablack.svg', // Using the logo found in public/images
+        url: 'https://webblyhosting.comhttps://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/webblymediablack.svg', // Using the logo found in public/images
       },
       fields: [
         ...(data.phone ? [{ name: '📞 Phone', value: data.phone, inline: true }] : []),
@@ -71,7 +71,7 @@ async function sendToDiscord(data: {
       timestamp: new Date().toISOString(),
       footer: {
         text: 'WebblyHost Contact System',
-        icon_url: 'https://webblyhosting.com/images/favicon.png',
+        icon_url: 'https://webblyhosting.comhttps://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/favicon.webp',
       },
     };
 
@@ -82,7 +82,7 @@ async function sendToDiscord(data: {
       },
       body: JSON.stringify({
         username: 'WebblyHost Bot',
-        avatar_url: 'https://webblyhosting.com/images/webblymediablack.svg',
+        avatar_url: 'https://webblyhosting.comhttps://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/webblymediablack.svg',
         embeds: [embed],
       }),
     });

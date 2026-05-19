@@ -60,7 +60,7 @@ export default function HeroIllustration() {
         className={`h-full w-full transition-opacity duration-700 ${mounted ? 'opacity-100' : 'opacity-0'}`}
       >
         <Image
-          src="/images/home/hero-illustration.svg"
+          src="https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/home/hero-illustration.svg"
           alt="Hero Illustration"
           width={1006}
           height={651}

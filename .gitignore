@@ -45,6 +45,9 @@ next-env.d.ts
 /module
 git-commit.txt
 
+# Images served from R2 CDN
+public/images/
+
 
 /discord-bot/
 # Sentry Config File

@@ -459,7 +459,7 @@ function UnlockModal({
             {/* Reference Image */}
             <div className="relative h-48 w-full overflow-hidden rounded-xl border border-gray-200 bg-gray-100 md:h-64">
               <Image
-                src="/images/domain-transfer-unlock.png"
+                src="https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-transfer-unlock.webp"
                 alt="Domain Lock Settings Example"
                 fill
                 className="object-contain"

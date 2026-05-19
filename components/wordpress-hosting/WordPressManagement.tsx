@@ -42,7 +42,7 @@ export default function WordPressManagement() {
                         <div className="mt-auto relative w-full h-[300px] sm:h-[400px] lg:h-[503px] bg-[#E3E3E3] overflow-hidden">
                             <div className="relative w-full h-full transition-transform duration-500 ease-out group-hover:scale-105">
                                 <Image
-                                    src="/images/wordpress-hosting/core-update.png"
+                                    src="https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/wordpress-hosting/core-update.webp"
                                     alt="Monitoring Preview"
                                     fill
                                     className="object-cover object-top"
@@ -67,7 +67,7 @@ export default function WordPressManagement() {
                             <div className="relative w-full md:w-1/2 h-[300px] md:h-full bg-[#E3E3E3] overflow-hidden">
                                 <div className="relative w-full h-full transition-transform duration-500 ease-out group-hover:scale-105">
                                     <Image
-                                        src="/images/wordpress-hosting/backups.png"
+                                        src="https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/wordpress-hosting/backups.webp"
                                         alt="Patch and Update"
                                         fill
                                         className="object-cover object-center"

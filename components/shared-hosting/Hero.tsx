@@ -108,7 +108,7 @@ export default function Hero() {
         <div className="relative hidden w-full flex-1 items-center justify-end lg:flex">
           <div className="relative h-[365px] w-[420px] xl:h-[435px] xl:w-[500px] 2xl:h-[609px] 2xl:w-[700px]">
             <Image
-              src="/images/shared-hosting/sharedhostingv5.png"
+              src="https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/shared-hosting/sharedhostingv5.webp"
               alt="Shared Hosting Infrastructure"
               fill
               className="object-contain"

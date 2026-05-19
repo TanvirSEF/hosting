@@ -42,7 +42,7 @@ export default function ProblemWithOthers({ namespace = 'pricePhilosophy.problem
               {/* Main Image */}
               <div className="relative h-full w-full overflow-hidden rounded-2xl bg-[#0044E4] shadow-2xl">
                 <Image
-                  src="/images/price-philosophy/container.svg"
+                  src="https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/price-philosophy/container.svg"
                   alt="Problem with other hosting companies"
                   fill
                   className="object-cover"

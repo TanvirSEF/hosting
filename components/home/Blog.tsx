@@ -50,7 +50,7 @@ export default function Blog() {
   }, [locale]);
 
   const getImageUrl = (post: BlogPost) => {
-    return post.featuredImage?.url || '/images/blog/hosting-guide.png';
+    return post.featuredImage?.url || 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/blog/hosting-guide.webp';
   };
 
   return (

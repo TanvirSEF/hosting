@@ -103,7 +103,7 @@ export default function LoginPage() {
           <div className="flex justify-center">
             <div className="flex h-[clamp(72px,14vw,160px)] w-[clamp(72px,14vw,160px)] items-center justify-center">
               <Image
-                src="/images/favicon.png"
+                src="https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/favicon.webp"
                 alt="WebblyHosting"
                 width={160}
                 height={160}

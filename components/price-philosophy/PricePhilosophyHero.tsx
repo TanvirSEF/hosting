@@ -79,7 +79,7 @@ export default function PricePhilosophyHero({ namespace = 'pricePhilosophy.hero'
         <div className="relative hidden w-full flex-1 justify-end lg:flex">
           <div className="relative aspect-square w-full max-w-[400px] sm:max-w-[450px] md:max-w-[500px] lg:max-w-[550px] xl:max-w-[650px] 2xl:max-w-[850px]">
             <Image 
-              src="/images/price-philosophy/hero.svg" 
+              src="https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/price-philosophy/hero.svg" 
               alt="Pricing Philosophy Illustration" 
               fill
               className="object-contain"

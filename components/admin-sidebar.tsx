@@ -119,12 +119,12 @@ export function AdminSidebar({
               <a href="/spike/dashboard">
                 <div className="flex h-16 w-full items-center justify-start overflow-hidden px-1">
                   <img
-                    src="/images/webblymediablack.svg"
+                    src="https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/webblymediablack.svg"
                     alt="Logo"
                     className="h-10 w-auto object-contain dark:hidden lg:h-12"
                   />
                   <img
-                    src="/images/webblymediawhite.svg"
+                    src="https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/webblymediawhite.svg"
                     alt="Logo"
                     className="hidden h-10 w-auto object-contain dark:block lg:h-12"
                   />

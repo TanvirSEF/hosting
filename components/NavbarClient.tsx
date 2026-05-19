@@ -181,8 +181,8 @@ export default function NavbarClient({ user, admin }: NavbarClientProps) {
               <img
                 src={
                   showSolidNavbar
-                    ? '/images/webblymediablack.svg'
-                    : '/images/webblymediawhite.svg'
+                    ? 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/webblymediablack.svg'
+                    : 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/webblymediawhite.svg'
                 }
                 alt="Logo"
                 className="h-10 w-auto lg:h-9 xl:h-12"

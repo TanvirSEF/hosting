@@ -10,55 +10,55 @@ import styles from '@/components/home/CTA.module.css';
 // 20 unique website preview images
 const WEBSITE_IMAGES = [
   {
-    src: '/images/ecommerce-hosting/cta-ecommerce.png',
+    src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/ecommerce-hosting/cta-ecommerce.webp',
     alt: 'E-commerce Website',
   },
-  { src: '/images/ecommerce-hosting/cta-saas.png', alt: 'SaaS Website' },
+  { src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/ecommerce-hosting/cta-saas.webp', alt: 'SaaS Website' },
   {
-    src: '/images/ecommerce-hosting/cta-restaurant.png',
+    src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/ecommerce-hosting/cta-restaurant.webp',
     alt: 'Restaurant Website',
   },
   {
-    src: '/images/ecommerce-hosting/cta-portfolio.png',
+    src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/ecommerce-hosting/cta-portfolio.webp',
     alt: 'Portfolio Website',
   },
-  { src: '/images/ecommerce-hosting/cta-blog.png', alt: 'Blog Website' },
-  { src: '/images/ecommerce-hosting/cta-fitness.png', alt: 'Fitness Website' },
+  { src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/ecommerce-hosting/cta-blog.webp', alt: 'Blog Website' },
+  { src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/ecommerce-hosting/cta-fitness.webp', alt: 'Fitness Website' },
   {
-    src: '/images/ecommerce-hosting/cta-realestate.png',
+    src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/ecommerce-hosting/cta-realestate.webp',
     alt: 'Real Estate Website',
   },
-  { src: '/images/ecommerce-hosting/cta-agency.png', alt: 'Agency Website' },
+  { src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/ecommerce-hosting/cta-agency.webp', alt: 'Agency Website' },
   {
-    src: '/images/ecommerce-hosting/cta-photography.png',
+    src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/ecommerce-hosting/cta-photography.webp',
     alt: 'Photography Website',
   },
-  { src: '/images/ecommerce-hosting/cta-law.png', alt: 'Law Firm Website' },
+  { src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/ecommerce-hosting/cta-law.webp', alt: 'Law Firm Website' },
   {
-    src: '/images/ecommerce-hosting/cta-medical.png',
+    src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/ecommerce-hosting/cta-medical.webp',
     alt: 'Medical Clinic Website',
   },
   {
-    src: '/images/ecommerce-hosting/cta-education.png',
+    src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/ecommerce-hosting/cta-education.webp',
     alt: 'Education Website',
   },
-  { src: '/images/ecommerce-hosting/cta-travel.png', alt: 'Travel Website' },
-  { src: '/images/ecommerce-hosting/cta-music.png', alt: 'Music Website' },
+  { src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/ecommerce-hosting/cta-travel.webp', alt: 'Travel Website' },
+  { src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/ecommerce-hosting/cta-music.webp', alt: 'Music Website' },
   {
-    src: '/images/ecommerce-hosting/cta-nonprofit.png',
+    src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/ecommerce-hosting/cta-nonprofit.webp',
     alt: 'Nonprofit Website',
   },
   {
-    src: '/images/ecommerce-hosting/cta-beauty.png',
+    src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/ecommerce-hosting/cta-beauty.webp',
     alt: 'Beauty Spa Website',
   },
   {
-    src: '/images/ecommerce-hosting/cta-architecture.png',
+    src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/ecommerce-hosting/cta-architecture.webp',
     alt: 'Architecture Website',
   },
-  { src: '/images/ecommerce-hosting/cta-gaming.png', alt: 'Gaming Website' },
-  { src: '/images/ecommerce-hosting/cta-pet.png', alt: 'Pet Store Website' },
-  { src: '/images/ecommerce-hosting/cta-bakery.png', alt: 'Bakery Website' },
+  { src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/ecommerce-hosting/cta-gaming.webp', alt: 'Gaming Website' },
+  { src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/ecommerce-hosting/cta-pet.webp', alt: 'Pet Store Website' },
+  { src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/ecommerce-hosting/cta-bakery.webp', alt: 'Bakery Website' },
 ];
 
 export default function EcommerceCTA() {

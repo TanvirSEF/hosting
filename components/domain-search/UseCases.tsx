@@ -91,7 +91,7 @@ export default function UseCases() {
             >
               <div className="relative h-[171px] w-full bg-gray-100">
                 <Image
-                  src={cards[0]?.image || '/images/domain-search/image1.png'}
+                  src={cards[0]?.image || 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-search/image1.webp'}
                   alt={cards[0].heading}
                   fill
                   className="object-cover"
@@ -117,7 +117,7 @@ export default function UseCases() {
             >
               <div className="relative h-[171px] w-full bg-gray-100">
                 <Image
-                  src={cards[1]?.image || '/images/domain-search/image2.png'}
+                  src={cards[1]?.image || 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-search/image2.webp'}
                   alt={cards[1].heading}
                   fill
                   className="object-cover"
@@ -143,7 +143,7 @@ export default function UseCases() {
             >
               <div className="relative h-[200px] min-h-[200px] w-full bg-gray-100 md:h-auto md:w-1/2">
                 <Image
-                  src={cards[2]?.image || '/images/domain-search/image3.png'}
+                  src={cards[2]?.image || 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-search/image3.webp'}
                   alt={cards[2].heading}
                   fill
                   className="object-cover"
@@ -172,7 +172,7 @@ export default function UseCases() {
             >
               <div className="relative h-[171px] w-full bg-gray-100">
                 <Image
-                  src={cards[3]?.image || '/images/domain-search/image4.png'}
+                  src={cards[3]?.image || 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-search/image4.webp'}
                   alt={cards[3].heading}
                   fill
                   className="object-cover"
@@ -198,7 +198,7 @@ export default function UseCases() {
             >
               <div className="relative h-[171px] w-full bg-gray-100">
                 <Image
-                  src={cards[4]?.image || '/images/domain-search/image5.png'}
+                  src={cards[4]?.image || 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-search/image5.webp'}
                   alt={cards[4].heading}
                   fill
                   className="object-cover"

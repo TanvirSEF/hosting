@@ -10,52 +10,52 @@ import { usePathname } from 'next/navigation';
 // 20 unique website preview images
 const WEBSITE_IMAGES = [
   {
-    src: '/images/domain-transfer/cta-ecommerce.png',
+    src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-transfer/cta-ecommerce.webp',
     alt: 'E-commerce Website',
   },
-  { src: '/images/domain-transfer/cta-saas.png', alt: 'SaaS Website' },
+  { src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-transfer/cta-saas.webp', alt: 'SaaS Website' },
   {
-    src: '/images/domain-transfer/cta-restaurant.png',
+    src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-transfer/cta-restaurant.webp',
     alt: 'Restaurant Website',
   },
   {
-    src: '/images/domain-transfer/cta-portfolio.png',
+    src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-transfer/cta-portfolio.webp',
     alt: 'Portfolio Website',
   },
-  { src: '/images/domain-transfer/cta-blog.png', alt: 'Blog Website' },
-  { src: '/images/domain-transfer/cta-fitness.png', alt: 'Fitness Website' },
+  { src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-transfer/cta-blog.webp', alt: 'Blog Website' },
+  { src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-transfer/cta-fitness.webp', alt: 'Fitness Website' },
   {
-    src: '/images/domain-transfer/cta-realestate.png',
+    src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-transfer/cta-realestate.webp',
     alt: 'Real Estate Website',
   },
-  { src: '/images/domain-transfer/cta-agency.png', alt: 'Agency Website' },
+  { src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-transfer/cta-agency.webp', alt: 'Agency Website' },
   {
-    src: '/images/domain-transfer/cta-photography.png',
+    src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-transfer/cta-photography.webp',
     alt: 'Photography Website',
   },
-  { src: '/images/domain-transfer/cta-law.png', alt: 'Law Firm Website' },
+  { src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-transfer/cta-law.webp', alt: 'Law Firm Website' },
   {
-    src: '/images/domain-transfer/cta-medical.png',
+    src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-transfer/cta-medical.webp',
     alt: 'Medical Clinic Website',
   },
   {
-    src: '/images/domain-transfer/cta-education.png',
+    src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-transfer/cta-education.webp',
     alt: 'Education Website',
   },
-  { src: '/images/domain-transfer/cta-travel.png', alt: 'Travel Website' },
-  { src: '/images/domain-transfer/cta-music.png', alt: 'Music Website' },
+  { src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-transfer/cta-travel.webp', alt: 'Travel Website' },
+  { src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-transfer/cta-music.webp', alt: 'Music Website' },
   {
-    src: '/images/domain-transfer/cta-nonprofit.png',
+    src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-transfer/cta-nonprofit.webp',
     alt: 'Nonprofit Website',
   },
-  { src: '/images/domain-transfer/cta-beauty.png', alt: 'Beauty Spa Website' },
+  { src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-transfer/cta-beauty.webp', alt: 'Beauty Spa Website' },
   {
-    src: '/images/domain-transfer/cta-architecture.png',
+    src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-transfer/cta-architecture.webp',
     alt: 'Architecture Website',
   },
-  { src: '/images/domain-transfer/cta-gaming.png', alt: 'Gaming Website' },
-  { src: '/images/domain-transfer/cta-pet.png', alt: 'Pet Store Website' },
-  { src: '/images/domain-transfer/cta-bakery.png', alt: 'Bakery Website' },
+  { src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-transfer/cta-gaming.webp', alt: 'Gaming Website' },
+  { src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-transfer/cta-pet.webp', alt: 'Pet Store Website' },
+  { src: 'https://pub-36186a09bf9045098760abadf24720aa.r2.dev/public/images/domain-transfer/cta-bakery.webp', alt: 'Bakery Website' },
 ];
 
 export default function CTA() {
