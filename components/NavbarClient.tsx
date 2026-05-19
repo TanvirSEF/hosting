@@ -7,7 +7,6 @@ import { useTranslations } from 'next-intl';
 import { Link } from '@/i18n/routing';
 import { usePathname } from 'next/navigation';
 
-import { LanguageSwitcher } from './LanguageSwitcher';
 import { CurrencySwitcher } from './CurrencySwitcher';
 import { UserMenu, MobileUserSection } from './UserMenu';
 import type { UserSession } from '@/actions/session';
@@ -443,7 +442,6 @@ export default function NavbarClient({ user, admin }: NavbarClientProps) {
 
           {/* Desktop Buttons - Right Side */}
           <div className="hidden items-center space-x-2 lg:flex xl:space-x-3">
-            <LanguageSwitcher isScrolled={showSolidNavbar} />
             <CurrencySwitcher isScrolled={showSolidNavbar} />
             {user ? (
               <UserMenu
@@ -493,7 +491,6 @@ export default function NavbarClient({ user, admin }: NavbarClientProps) {
 
           {/* Mobile Menu Button - Right Side */}
           <div className="flex items-center lg:hidden">
-            <LanguageSwitcher isScrolled={showSolidNavbar} isMobile={true} />
             <CurrencySwitcher isScrolled={showSolidNavbar} isMobile={true} />
             <button
               onClick={() => setIsOpen(!isOpen)}

@@ -326,7 +326,6 @@ function EditBlogPostContent({ admin, postId }: EditBlogPostContentProps) {
                         required
                       >
                         <option value="en">English</option>
-                        <option value="sv">Swedish</option>
                       </select>
                     </div>
 

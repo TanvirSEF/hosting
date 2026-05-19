@@ -3,18 +3,13 @@
 import {
   createContext,
   useContext,
-  useState,
-  useEffect,
   ReactNode,
 } from 'react';
 import enAdmin from '@/translations/admin/en.json';
-import svAdmin from '@/translations/admin/sv.json';
 
-type Locale = 'en' | 'sv';
+type Locale = 'en';
 
-// Use type inference from English translations but allow flexible structure
-// This ensures both translation files work without strict type checking
- type Messages = typeof enAdmin;
+type Messages = typeof enAdmin;
 
 interface AdminTranslationContextType {
   locale: Locale;
@@ -26,12 +21,6 @@ interface AdminTranslationContextType {
 const AdminTranslationContext =
   createContext<AdminTranslationContextType | null>(null);
 
-const translations: Record<Locale, Messages> = {
-  en: enAdmin,
-  sv: svAdmin,
-};
-
-// Helper to get nested value from object using dot notation
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 function getNestedValue(obj: any, path: string): string {
   const keys = path.split('.');
@@ -43,7 +32,6 @@ function getNestedValue(obj: any, path: string): string {
   return typeof value === 'string' ? value : path;
 }
 
-// Replace placeholders like {name} with actual values
 function interpolate(text: string, params?: Record<string, string | number>): string {
   if (!params) return text;
   return text.replace(/{(\w+)}/g, (_, key) => String(params[key] ?? `{${key}}`));
@@ -56,40 +44,21 @@ interface AdminTranslationProviderProps {
 
 export function AdminTranslationProvider({
   children,
-  storageKey = 'admin-locale',
 }: AdminTranslationProviderProps) {
-  const [locale, setLocaleState] = useState<Locale>('en');
-  const [mounted, setMounted] = useState(false);
+  const locale: Locale = 'en';
 
-  useEffect(() => {
-    // Use requestAnimationFrame to avoid synchronous setState during render
-    requestAnimationFrame(() => {
-      const savedLocale = localStorage.getItem(storageKey) as Locale | null;
-      if (savedLocale && (savedLocale === 'en' || savedLocale === 'sv')) {
-        setLocaleState(savedLocale);
-      }
-      setMounted(true);
-    });
-  }, [storageKey]);
-
-  const setLocale = (newLocale: Locale) => {
-    setLocaleState(newLocale);
-    localStorage.setItem(storageKey, newLocale);
+  const setLocale = (_newLocale: Locale) => {
+    // No-op: only English supported
   };
 
   const t = (key: string, params?: Record<string, string | number>): string => {
-    const text = getNestedValue(translations[locale], key);
+    const text = getNestedValue(enAdmin, key);
     return interpolate(text, params);
   };
 
-  // Prevent hydration mismatch by returning null until mounted
-  if (!mounted) {
-    return null;
-  }
-
   return (
     <AdminTranslationContext.Provider
-      value={{ locale, messages: translations[locale], setLocale, t }}
+      value={{ locale, messages: enAdmin, setLocale, t }}
     >
       {children}
     </AdminTranslationContext.Provider>
@@ -106,7 +75,6 @@ export function useAdminTranslation() {
   return context;
 }
 
-// Shorthand hook for just the t function
 export function useAdminT() {
   const { t } = useAdminTranslation();
   return t;

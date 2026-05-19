@@ -197,7 +197,6 @@ function AdminBlogContent({ admin }: AdminBlogContentProps) {
                 >
                   <option value="all">All Languages</option>
                   <option value="en">English</option>
-                  <option value="sv">Swedish</option>
                 </select>
               </div>
 

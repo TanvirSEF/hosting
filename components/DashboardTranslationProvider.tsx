@@ -3,15 +3,12 @@
 import {
   createContext,
   useContext,
-  useState,
-  useEffect,
   ReactNode,
 } from 'react';
 import enDashboard from '@/translations/dashboard/en.json';
-import svDashboard from '@/translations/dashboard/sv.json';
 
 type Messages = typeof enDashboard;
-type Locale = 'en' | 'sv';
+type Locale = 'en';
 
 interface DashboardTranslationContextType {
   locale: Locale;
@@ -23,12 +20,7 @@ interface DashboardTranslationContextType {
 const DashboardTranslationContext =
   createContext<DashboardTranslationContextType | null>(null);
 
-const translations: Record<Locale, Messages> = {
-  en: enDashboard,
-  sv: svDashboard,
-};
-
-// Helper to get nested value from object using dot notation
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 function getNestedValue(obj: any, path: string): string {
   const keys = path.split('.');
   let value = obj;
@@ -39,7 +31,6 @@ function getNestedValue(obj: any, path: string): string {
   return typeof value === 'string' ? value : path;
 }
 
-// Replace placeholders like {firstname} with actual values
 function interpolate(text: string, params?: Record<string, string | number>): string {
   if (!params) return text;
   return text.replace(/{(\w+)}/g, (_, key) => String(params[key] ?? `{${key}}`));
@@ -52,37 +43,21 @@ interface DashboardTranslationProviderProps {
 
 export function DashboardTranslationProvider({
   children,
-  storageKey = 'dashboard-locale',
 }: DashboardTranslationProviderProps) {
-  const [locale, setLocaleState] = useState<Locale>('en');
-  const [mounted, setMounted] = useState(false);
+  const locale: Locale = 'en';
 
-  useEffect(() => {
-    const savedLocale = localStorage.getItem(storageKey) as Locale | null;
-    if (savedLocale && (savedLocale === 'en' || savedLocale === 'sv')) {
-      setLocaleState(savedLocale);
-    }
-    setMounted(true);
-  }, [storageKey]);
-
-  const setLocale = (newLocale: Locale) => {
-    setLocaleState(newLocale);
-    localStorage.setItem(storageKey, newLocale);
+  const setLocale = (_newLocale: Locale) => {
+    // No-op: only English supported
   };
 
   const t = (key: string, params?: Record<string, string | number>): string => {
-    const text = getNestedValue(translations[locale], key);
+    const text = getNestedValue(enDashboard, key);
     return interpolate(text, params);
   };
 
-  // Prevent hydration mismatch by returning null until mounted
-  if (!mounted) {
-    return null;
-  }
-
   return (
     <DashboardTranslationContext.Provider
-      value={{ locale, messages: translations[locale], setLocale, t }}
+      value={{ locale, messages: enDashboard, setLocale, t }}
     >
       {children}
     </DashboardTranslationContext.Provider>
@@ -99,7 +74,6 @@ export function useDashboardTranslation() {
   return context;
 }
 
-// Shorthand hook for just the t function
 export function useT() {
   const { t } = useDashboardTranslation();
   return t;

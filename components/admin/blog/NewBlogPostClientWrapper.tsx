@@ -240,7 +240,6 @@ function NewBlogPostContent({ admin }: NewBlogPostContentProps) {
                       required
                     >
                       <option value="en">English</option>
-                      <option value="sv">Swedish</option>
                     </select>
                   </div>
 
