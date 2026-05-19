@@ -1,0 +1,94 @@
+# =============================================================================
+# WebblyHost - Docker Ignore File
+# =============================================================================
+# Excludes unnecessary files from Docker build context for faster builds
+# and smaller image sizes
+# =============================================================================
+
+# Dependencies
+node_modules
+.pnpm-store
+.pnpm-debug.log
+
+# Build outputs (will be generated during build)
+.next
+out
+build
+dist
+
+# Development files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE and editor files
+.idea
+.vscode
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Environment files (will be provided at runtime)
+.env
+.env.*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Test files
+coverage
+.nyc_output
+*.test.ts
+*.test.tsx
+*.spec.ts
+*.spec.tsx
+__tests__
+__mocks__
+
+# Documentation
+README.md
+CHANGELOG.md
+LICENSE
+docs/
+
+# TinaCMS development files
+.tina
+tina/__generated__
+
+# Debug files
+debug_*.json
+*.js.map
+
+# Temporary files
+tmp
+temp
+*.tmp
+*.temp
+
+# Docker files (prevent recursive context)
+docker-compose*.yml
+docker-compose*.yaml
+.docker
+
+# CI/CD files
+.github
+.gitlab-ci.yml
+.travis.yml
+Jenkinsfile
+
+# Misc
+*.bak
+*.backup
+*.orig
+.eslintcache
+.prettiercache

@@ -1,0 +1,237 @@
+{
+  "hero": {
+    "badge": "VPS Hosting",
+    "title": "Powerful <span class='text-[#8C52FF]'>VPS Hosting</span>",
+    "subtitle": "Full root access, dedicated resources, and enterprise-grade performance. Deploy your VPS in seconds.",
+    "cta": "Get Started",
+    "moneyBack": "30-Day Money-Back Guarantee",
+    "navigationItems": [
+      {
+        "name": "Web Hosting",
+        "href": "/pricing",
+        "popular": false
+      },
+      {
+        "name": "VPS Hosting",
+        "href": "/pricing/vps-hosting",
+        "popular": false
+      },
+      {
+        "name": "WordPress Hosting",
+        "href": "/pricing/wordpress-hosting",
+        "popular": true
+      },
+      {
+        "name": "Domains",
+        "href": "/pricing/domains",
+        "popular": false
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Choose Your VPS Plan",
+    "subtitle": "Scalable virtual private servers with dedicated resources",
+    "mostPopular": "MOST POPULAR",
+    "cta": "Get Started",
+    "firstYear": "Billed Annually",
+    "standardRate": "Standard Rate",
+    "billedAnnually": "Same price year after year – no surprises",
+    "from": "",
+    "youSave": "You save",
+    "orderLinkBase": "/order/hosting?plan=",
+    "renewAt": "Renews at",
+    "perMonth": "/mo",
+    "selectPlan": "Select Plan",
+    "features": {
+      "storage": "{amount} NVMe Storage",
+      "bandwidth": "{amount} Bandwidth",
+      "vcpu": "{count} vCPU Cores",
+      "ram": "{amount} RAM",
+      "rootAccess": "Full Root Access",
+      "dedicatedIp": "Dedicated IP"
+    }
+  },
+  "hostingTypes": {
+    "title": "Find the right VPS for you",
+    "getStarted": "Get started",
+    "labels": {
+      "websites": "vCPU Cores",
+      "performance": "Performance",
+      "storage": "Storage",
+      "ssl": "Root Access",
+      "unlimited": "Full"
+    },
+    "performanceLevels": {
+      "standard": "Standard",
+      "increased": "Increased",
+      "maximum": "Maximum"
+    },
+    "fallbackValues": {
+      "websites": "4",
+      "storage": "100"
+    }
+  },
+  "comparison": {
+    "title": "Compare our VPS plans",
+    "subtitle": "See at a glance what each VPS plan offers for your needs.",
+    "popular": "Popular",
+    "getStarted": "Get started",
+    "topFeatures": "Top features",
+    "mailboxes": "vCPU cores",
+    "freeDomain": "RAM",
+    "managedWp": "NVMe Storage",
+    "migration": "Bandwidth",
+    "save": "Save {percent}%",
+    "perMonthSuffix": "/mo",
+    "security": "Security",
+    "support": "Service and support",
+    "choose": "Choose",
+    "cancelAnytime": "Cancel anytime",
+    "topFeaturesList": [
+      {
+        "feature": "vCPU Cores",
+        "plan1": "2",
+        "plan2": "4",
+        "plan3": "8"
+      },
+      {
+        "feature": "RAM",
+        "plan1": "4 GB",
+        "plan2": "8 GB",
+        "plan3": "16 GB"
+      },
+      {
+        "feature": "NVMe Storage",
+        "plan1": "100 GB",
+        "plan2": "250 GB",
+        "plan3": "500 GB"
+      },
+      {
+        "feature": "Bandwidth",
+        "plan1": "Unlimited",
+        "plan2": "Unlimited",
+        "plan3": "Unlimited"
+      }
+    ],
+    "securityFeatures": [
+      {
+        "feature": "Dedicated port\t",
+        "plan1": "Shared 1 Gbps",
+        "plan2": "1 Gbps dedicated",
+        "plan3": "1 Gbps + 10 Gbps"
+      },
+      {
+        "feature": "DDoS Protection",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "Cloudflare proxy",
+        "plan1": "false",
+        "plan2": "true",
+        "plan3": "true"
+      }
+    ],
+    "supportFeatures": [
+      {
+        "feature": "1-click WP Toolkit",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "Git integration",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "Real-time monitoring",
+        "plan1": "false",
+        "plan2": "false",
+        "plan3": "true"
+      },
+      {
+        "feature": "24/7 Support",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      }
+    ]
+  },
+  "enjoyAllThis": {
+    "title1": "Enterprise features.",
+    "title2": "At no extra cost.",
+    "features": {
+      "ssl": "DDoS Protection included",
+      "domain": "Full Root Access",
+      "backups": "Automated backups",
+      "email": "24/7 Expert Support",
+      "traffic": "Dedicated IP Address"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "What is VPS hosting?",
+        "answer": "VPS (Virtual Private Server) hosting provides dedicated resources within a virtualized environment. Unlike shared hosting, you get guaranteed CPU, RAM, and storage that aren't shared with other users."
+      },
+      {
+        "question": "Do I get full root access?",
+        "answer": "Yes! All our VPS plans include full root access, giving you complete control over your server environment."
+      },
+      {
+        "question": "Can I upgrade my VPS plan later?",
+        "answer": "Absolutely! You can scale your VPS resources up or down at any time through our control panel."
+      },
+      {
+        "question": "What operating systems are available?",
+        "answer": "We support Ubuntu, Debian, CentOS, AlmaLinux, and more. You can also upload custom ISOs."
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Need Help Choosing the Right Plan?",
+    "subheading": "Get expert advice",
+    "description1": "Book a short call with our team. One of WebblyHosting's specialists will help you choose the right hosting package based on your website, business goals, and budget. We want to make your decision simple and stress-free.",
+    "description2": "By submitting your details, you agree to WebblyHosting contacting you for support and guidance regarding your hosting needs.",
+    "emailLabel": "Email:",
+    "phoneLabel": "",
+    "email": "support@webblyhosting.com",
+    "phone": "",
+    "info": {
+      "social": {
+        "title": "Share"
+      }
+    }
+  },
+  "contactForm": {
+    "nameLabel": "Name",
+    "firstNamePlaceholder": "First Name",
+    "lastNamePlaceholder": "Last Name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Your Email",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Your Message",
+    "submitButton": "Get Started",
+    "sending": "Sending..."
+  },
+  "features": {
+    "title": "Why Choose Our VPS Hosting?",
+    "subtitle": "We provide enterprise-grade features for your servers",
+    "performance": {
+      "title": "Maximum Performance",
+      "description": "AMD EPYC processors and NVMe SSD storage for blazing fast performance."
+    },
+    "security": {
+      "title": "Enhanced Security",
+      "description": "DDoS protection, firewalls, and automated backups keep your server safe."
+    },
+    "support": {
+      "title": "24/7 Support",
+      "description": "Our VPS experts are here to help you round the clock with any issues."
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "hero": {
+    "title": "Kontakta Oss",
+    "subtitle": "Har du frågor om våra hostingtjänster? Behöver du teknisk support? Vi finns här för att hjälpa dig lyckas online."
+  },
+  "info": {
+    "heading": "Kom i Kontakt",
+    "description": "Oavsett om du har frågor om våra tjänster, behöver hjälp med att välja rätt paket eller behöver teknisk assistans, så står vårt team redo att hjälpa dig.",
+    "email": {
+      "title": "Maila Oss",
+      "value": "support@webblyhosting.com",
+      "description": "Vi svarar inom 24 timmar"
+    },
+    "phone": {
+      "title": "",
+      "value": "",
+      "description": ""
+    },
+    "address": {
+      "title": "Besök Oss",
+      "value": "Mijas, Spain",
+      "description": "Endast på tidsbokning"
+    },
+    "hours": {
+      "title": "Öppettider",
+      "value": "Måndag - Fredag, 10:00 - 21:00",
+      "description": "24/7 support för nödsituationer"
+    },
+    "social": {
+      "title": "Dela"
+    }
+  },
+  "form": {
+    "firstName": "Förnamn",
+    "firstNamePlaceholder": "Johan",
+    "lastName": "Efternamn",
+    "lastNamePlaceholder": "Andersson",
+    "email": "E-postadress",
+    "emailPlaceholder": "johan@example.com",
+    "phone": "Telefonnummer",
+    "phonePlaceholder": "+46 70 123 4567",
+    "subject": "Ämne",
+    "subjectPlaceholder": "Välj ett ämne",
+    "subjects": [
+      "Allmän förfrågan",
+      "Försäljningsfråga",
+      "Teknisk support",
+      "Faktureringsproblem",
+      "Partnerskapsmöjlighet",
+      "Övrigt"
+    ],
+    "message": "Ditt Meddelande",
+    "messagePlaceholder": "Berätta hur vi kan hjälpa dig...",
+    "submit": "Skicka Meddelande",
+    "sending": "Skickar...",
+    "successTitle": "Meddelande Skickat!",
+    "successMessage": "Tack för att du kontaktar oss. Vi återkommer så snart som möjligt."
+  },
+  "map": {
+    "heading": "Vår Plats",
+    "subheading": "Besök vårt kontor i Mijas, Spain",
+    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d51237.587824854!2d-4.678737525317771!3d36.60251147551066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd72e161048e47bf%3A0x62913e843640b37!2sMijas%2C%20M%C3%A1laga%2C%20Spain!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus"
+  },
+  "support": {
+    "heading": "Andra Sätt att Få Hjälp",
+    "subheading": "Välj det supportalternativ som passar dig bäst",
+    "email": {
+      "title": "E-postsupport",
+      "description": "Skicka oss ett e-postmeddelande så återkommer vårt supportteam inom 24 timmar med ett detaljerat svar.",
+      "action": "Skicka E-post",
+      "link": "mailto:support@webblyhost.com"
+    },
+    "knowledge": {
+      "title": "Kunskapsbas",
+      "description": "Bläddra i våra omfattande guider, tutorials och vanliga frågor för att hitta svar på vanliga frågor.",
+      "action": "Bläddra Artiklar",
+      "link": "/blog/category/guides"
+    },
+    "ticket": {
+      "title": "Supportärende",
+      "description": "Logga in på din instrumentpanel och skicka in ett supportärende för komplexa problem som kräver utredning.",
+      "action": "Öppna Instrumentpanel",
+      "link": "/dashboard/support"
+    }
+  }
+}

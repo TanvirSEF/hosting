@@ -1,0 +1,65 @@
+{
+  "hosting": {
+    "title": "Hosting",
+    "sharedHosting": "Shared Hosting",
+    "sharedHostingLink": "/shared-hosting",
+    "wordpressHosting": "WordPress Hosting",
+    "wordpressHostingLink": "/wordpress-hosting",
+    "vpsHosting": "VPS Hosting",
+    "vpsHostingLink": "/vps-hosting",
+    "ecommerceHosting": "E-commerce Hosting",
+    "ecommerceHostingLink": "/ecommerce-hosting",
+    "pricing": "Pricing",
+    "pricingLink": "/pricing"
+  },
+  "domains": {
+    "title": "Domains",
+    "domainSearch": "Domain Search",
+    "domainSearchLink": "/domain-search",
+    "domainTransfer": "Domain Transfer",
+    "domainTransferLink": "/domain-transfer"
+  },
+  "ourServices": {
+    "title": "Other Services",
+    "vpn": "",
+    "vpnLink": "#",
+    "seoTool": "SEO Tool",
+    "seoToolLink": "#",
+    "sitebuilder": "Sitebuilder for E-commerce",
+    "sitebuilderLink": "#",
+    "ssl": "SSL Certificates",
+    "sslLink": "#"
+  },
+  "support": {
+    "title": "Company",
+    "about": "About Us",
+    "aboutLink": "/about",
+    "contact": "Contact",
+    "contactLink": "/contact",
+    "blog": "Webbly Insights",
+    "blogLink": "/blog",
+    "pricePhilosophy": "Pricing Philosophy",
+    "pricePhilosophyLink": "/price-philosophy",
+    "guides": "Guides",
+    "guidesLink": "/guides"
+  },
+  "copyright": "@webblyhosting.com {year}",
+  "policy": {
+    "legal": "Legal",
+    "legalLink": "/legal",
+    "privacy": "Privacy Policy",
+    "privacyLink": "/legal/privacy-policy",
+    "terms": "Terms of Service",
+    "termsLink": "/legal/terms-of-service",
+    "cookie": "Cookie Policy",
+    "cookieLink": "/legal/cookie-policy"
+  },
+  "social": {
+    "instagram": "https://instagram.com",
+    "facebook": "https://facebook.com",
+    "twitter": "https://twitter.com",
+    "youtube": "https://youtube.com",
+    "linkedin": "https://linkedin.com",
+    "github": "https://github.com"
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "hero": {
+    "badge": "Shared Hosting",
+    "title": "Fast & Secure <span class='text-[#8C52FF]'>Web Hosting</span>",
+    "subtitle": "Everything you need to create your website. Up to 75% off hosting + free domain.",
+    "cta": "Get Started",
+    "moneyBack": "30-Day Money-Back Guarantee",
+    "navigationItems": [
+      {
+        "name": "Web Hosting",
+        "href": "/pricing",
+        "popular": false
+      },
+      {
+        "name": "VPS Hosting",
+        "href": "/pricing/vps-hosting",
+        "popular": false
+      },
+      {
+        "name": "WordPress Hosting",
+        "href": "/pricing/wordpress-hosting",
+        "popular": true
+      },
+      {
+        "name": "Domains",
+        "href": "/pricing/domains",
+        "popular": false
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Choose Your Web Hosting Plan",
+    "subtitle": "Pick the perfect plan for your needs",
+    "mostPopular": "MOST POPULAR",
+    "cta": "Get Started",
+    "firstYear": "Billed Annually",
+    "standardRate": "Standard Rate",
+    "billedAnnually": "Same price year after year – no surprises",
+    "from": "",
+    "youSave": "You save",
+    "orderLinkBase": "/order/hosting?plan=",
+    "renewAt": "Renews at",
+    "perMonth": "/mo",
+    "selectPlan": "Select Plan",
+    "features": {
+      "websites": "{count, plural, =1 {1 Website} other {# Websites}}",
+      "storage": "{amount} SSD Storage",
+      "bandwidth": "{amount} Bandwidth",
+      "ssl": "Free SSL Unlimited",
+      "backup": "Weekly Backups",
+      "email": "Free Email",
+      "cdn": "Free CDN"
+    }
+  },
+  "hostingTypes": {
+    "title": "Find the right hosting for you",
+    "getStarted": "Get started",
+    "labels": {
+      "websites": "Websites",
+      "performance": "Performance",
+      "storage": "Storage",
+      "ssl": "SSL",
+      "unlimited": "Unlimited"
+    },
+    "performanceLevels": {
+      "standard": "Standard",
+      "increased": "Increased",
+      "maximum": "Maximum"
+    },
+    "fallbackValues": {
+      "websites": "100",
+      "storage": "100"
+    }
+  },
+  "comparison": {
+    "title": "Compare our plans",
+    "subtitle": "See at a glance what each plan costs and what you get for your money.",
+    "popular": "Popular",
+    "getStarted": "Get started",
+    "topFeatures": "Top features",
+    "mailboxes": "Mailboxes per website",
+    "freeDomain": "Free domain",
+    "managedWp": "Managed hosting for WordPress",
+    "migration": "Free automatic website migration",
+    "save": "Save {percent}%",
+    "perMonthSuffix": "/mo",
+    "security": "Security",
+    "support": "Service and support",
+    "choose": "Choose",
+    "cancelAnytime": "Cancel anytime",
+    "topFeaturesList": [
+      {
+        "feature": "Mailboxes per website",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "Free domain",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "1-click WordPress installation",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      }
+    ],
+    "securityFeatures": [
+      {
+        "feature": "Advanced Firewall",
+        "plan1": "false",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "DDoS Protection",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "Malware Scanning",
+        "plan1": "false",
+        "plan2": "true",
+        "plan3": "true"
+      }
+    ],
+    "supportFeatures": [
+      {
+        "feature": "Daily backups",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "Plesk control panel",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "24/7 Support",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      }
+    ]
+  },
+  "enjoyAllThis": {
+    "title1": "Enjoy all this.",
+    "title2": "At no extra cost.",
+    "features": {
+      "ssl": "Unlimited SSL security certificates",
+      "domain": "Free domain (with annual plans)",
+      "backups": "Automatic back-ups and updates",
+      "email": "Email addresses",
+      "traffic": "Unlimited web traffic"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "What is web hosting?",
+        "answer": "Web hosting is a service that allows organizations and individuals to post a website or web page onto the Internet. A web host, or web hosting service provider, is a business that provides the technologies and services needed for the website or webpage to be viewed in the Internet."
+      },
+      {
+        "question": "How do I choose a plan?",
+        "answer": "Consider your website's needs. If you're just starting, the Starter plan is perfect. For businesses or high-traffic sites, our Pro or Business plans offer more resources and features."
+      },
+      {
+        "question": "Can I upgrade my plan later?",
+        "answer": "Absolutely! You can upgrade your hosting plan at any time through our control panel as your website grows."
+      },
+      {
+        "question": "Is SSL included?",
+        "answer": "Yes! All our hosting plans come with unlimited Free SSL certificates to keep your website and visitors secure."
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Need Help Choosing the Right Plan?",
+    "subheading": "Get expert advice",
+    "description1": "Book a short call with our team. One of WebblyHosting's specialists will help you choose the right hosting package based on your website, business goals, and budget. We want to make your decision simple and stress-free.",
+    "description2": "By submitting your details, you agree to WebblyHosting contacting you for support and guidance regarding your hosting needs.",
+    "emailLabel": "Email:",
+    "phoneLabel": "Phone:",
+    "email": "Webblymedia@gmail.se",
+    "phone": "+1-800-123-4567",
+    "info": {
+      "social": {
+        "title": "Share"
+      }
+    }
+  },
+  "contactForm": {
+    "nameLabel": "Name",
+    "firstNamePlaceholder": "First Name",
+    "lastNamePlaceholder": "Last Name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Your Email",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Your Message",
+    "submitButton": "Get Started",
+    "sending": "Sending..."
+  },
+  "features": {
+    "title": "Why Choose Our Web Hosting?",
+    "subtitle": "We provide the best features for your website",
+    "performance": {
+      "title": "Maximum Performance",
+      "description": "Up to 10x faster page loads with our custom-built infrastructure."
+    },
+    "security": {
+      "title": "Enhanced Security",
+      "description": "Keep your website safe with our advanced security features."
+    },
+    "support": {
+      "title": "24/7 Support",
+      "description": "Our team is here to help you round the clock with any issues."
+    }
+  }
+}

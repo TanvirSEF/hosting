@@ -1,0 +1,383 @@
+{
+  "hero": {
+    "brandName": "MANAGED WORDPRESS HOSTING",
+    "mainTitle": "Lightning-Fast & Fully Optimized Web Hosting for WordPress",
+    "pricing": {
+      "from": "From",
+      "price": "€6.99",
+      "unit": "/mo",
+      "offer": ""
+    },
+    "features": {
+      "domain": "WordPress-optimized",
+      "hosting": "Automatic updates & security",
+      "support": "One-click setup",
+      "reliability": "Fast and easy to manage"
+    },
+    "cta": "View Plans & Pricing",
+    "ctaLink": "#pricing",
+    "guarantee": "30-day money-back guarantee"
+  },
+  "stats": {
+    "clients": {
+      "number": "2021",
+      "suffix": "  ",
+      "label": "Founded"
+    },
+    "countries": {
+      "number": "99",
+      "suffix": ".9%",
+      "label": "Uptime"
+    },
+    "experience": {
+      "number": "10",
+      "suffix": "+",
+      "label": "Years of Experience"
+    },
+    "websites": {
+      "number": "30",
+      "suffix": "  ",
+      "label": "Days Money Back Guarantee"
+    }
+  },
+  "pricing": {
+    "heading": "Choose Your WordPress Hosting Plan That Suits Your Brand",
+    "subheading": "Flexible plans designed to grow with your WordPress site",
+    "mostPopular": "Most Popular",
+    "cta": "Get Started",
+    "firstYear": "Billed Annually",
+    "standardRate": "Standard Rate",
+    "billedAnnually": "Same price year after year – no surprises",
+    "from": "",
+    "youSave": "You save",
+    "orderLinkBase": "/order/hosting?plan=",
+    "plans": [
+      {
+        "name": "Starter",
+        "description": "Perfect for personal WordPress sites",
+        "price": "$2.99",
+        "unit": "/mo",
+        "yearly": "$35 yearly",
+        "orLabel": "or",
+        "features": [
+          "1 WordPress Website",
+          "10 GB NVMe Storage",
+          "Free SSL Certificate",
+          "Auto WordPress Updates",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "name": "Business",
+        "description": "Ideal for growing WordPress sites",
+        "price": "$5.99",
+        "unit": "/mo",
+        "yearly": "$59 yearly",
+        "orLabel": "or",
+        "highlight": true,
+        "features": [
+          "Unlimited WordPress Sites",
+          "50 GB NVMe Storage",
+          "Free SSL Certificate",
+          "Staging Environment"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "description": "Maximum power for high-traffic sites",
+        "price": "$11.99",
+        "unit": "/mo",
+        "yearly": "$119 yearly",
+        "orLabel": "or",
+        "features": [
+          "Unlimited WordPress Sites",
+          "Unlimited NVMe Storage",
+          "Free SSL Certificate",
+          "Priority WordPress Support"
+        ]
+      }
+    ]
+  },
+  "features": {
+    "tagline": "Fast, Secure, and WordPress-Optimized",
+    "heading": "Our WordPress Hosting Features",
+    "description": "WebblyHosting WordPress hosting is built for speed, reliability, and ease of use. It's perfect for bloggers, businesses, and creators who want fast-loading websites, strong security, and effortless management. You get WordPress-optimized servers, modern infrastructure, and expert support—all in one simple plan.",
+    "tabs": {
+      "performance": "Performance & Speed",
+      "ease": "Easy WordPress Management",
+      "security": "Security & Reliability"
+    },
+    "content": {
+      "performance": [
+        {
+          "title": "WordPress-optimized Servers",
+          "description": "Servers are tuned specifically for WordPress. Your site runs smoothly without performance drops."
+        },
+        {
+          "title": "NVMe SSD Storage",
+          "description": "Ultra-fast storage ensures quick page loads, rapid file access, and database performance."
+        },
+        {
+          "title": "Built-in WordPress Caching",
+          "description": "Caching tools improve site speed and reduce server load for a better visitor experience."
+        },
+        {
+          "title": "Optimized PHP & Database Stack",
+          "description": "High-performance PHP and database configurations make WordPress run efficiently."
+        },
+        {
+          "title": "Fast-loading Pages",
+          "description": "Optimized server settings and caching deliver consistently fast page loads."
+        },
+        {
+          "title": "Traffic-ready Performance",
+          "description": "Handles daily traffic and spikes effortlessly. Perfect for blogs, business sites, and content-heavy WordPress sites."
+        }
+      ],
+      "ease": [
+        {
+          "title": "One-click WordPress Setup",
+          "description": "Install WordPress instantly and start building your site without manual setup."
+        },
+        {
+          "title": "Automatic WordPress Updates",
+          "description": "Core, plugin, and theme updates run automatically for security and stability."
+        },
+        {
+          "title": "Simple Control Panel",
+          "description": "Manage files, databases, domains, and WordPress settings from one dashboard."
+        },
+        {
+          "title": "Theme & Plugin Support",
+          "description": "Install and manage all WordPress themes and plugins easily."
+        },
+        {
+          "title": "Staging Environment",
+          "description": "Test updates, changes, and customizations safely before going live."
+        },
+        {
+          "title": "Easy Site Migration",
+          "description": "Move your existing WordPress site to WebblyHosting with minimal effort."
+        }
+      ],
+      "security": [
+        {
+          "title": "Free SSL Certificates",
+          "description": "Protect your website and visitors with HTTPS encryption at no extra cost."
+        },
+        {
+          "title": "Malware Scanning & Protection",
+          "description": "Automatic scans detect and remove threats, keeping your WordPress site safe."
+        },
+        {
+          "title": "WordPress Firewall Protection",
+          "description": "Blocks malicious traffic and common web attacks before they reach your site."
+        },
+        {
+          "title": "Daily Server Monitoring",
+          "description": "Servers are monitored 24/7 to ensure smooth and stable operation."
+        },
+        {
+          "title": "Account Isolation",
+          "description": "Each WordPress hosting account is isolated to prevent issues from affecting other sites."
+        },
+        {
+          "title": "High Uptime Guarantee",
+          "description": "Built for reliability so your WordPress site stays online and accessible at all times."
+        }
+      ]
+    }
+  },
+  "creationSteps": {
+    "tagline": "WordPress Hosting Made for Growth",
+    "heading": "Launch Your WordPress Site in Minutes",
+    "steps": [
+      {
+        "title": "Lightning-fast Performance",
+        "description": "Experience blazing-fast load times with WordPress-optimized servers, NVMe storage, and built-in caching designed for smooth daily traffic."
+      },
+      {
+        "title": "Enterprise-grade Security",
+        "description": "Keep your WordPress site protected with free SSL, malware scanning, firewall protection, and continuous server monitoring."
+      },
+      {
+        "title": "Expert WordPress Support",
+        "description": "Get help from WordPress-trained experts whenever you need it. From setup to optimization, our team is here to support you."
+      }
+    ]
+  },
+  "management": {
+    "tagline": "Focus on Content. We Handle the Hosting",
+    "heading": "Hassle-Free WordPress Management",
+    "cards": {
+      "monitoring": {
+        "title": "One-click WordPress Updates",
+        "description": "Keep your WordPress site updated in seconds. Core updates are simple and safe, so your website stays secure and compatible without manual effort."
+      },
+      "patch": {
+        "title": "Daily Website Backups",
+        "description": "Your WordPress data is backed up automatically every day. Restore posts, files, or the full website quickly whenever needed."
+      },
+      "backups": {
+        "title": "Continuous Performance Monitoring",
+        "description": "We monitor your WordPress site around the clock. This ensures smooth operation, stable uptime, and consistent loading speed."
+      },
+      "support": {
+        "title": "Speed Optimization & Caching",
+        "description": "Built-in caching and performance tuning help WordPress pages load faster. Enjoy better speed with no extra configuration or plugins."
+      }
+    }
+  },
+  "whyChoose": {
+    "heading": "Why WebblyHosting",
+    "tagline": "WordPress Hosting You Can Trust",
+    "tabs": {
+      "support": {
+        "title": "Customer Support",
+        "description": "Our WordPress experts are available 24/7 to help you at every step. From setup and updates to performance and plugin issues, you can count on fast, friendly, and knowledgeable support whenever you need it."
+      },
+      "privacy": {
+        "title": "Privacy & Security",
+        "description": "Your WordPress website is protected with advanced security measures. We include free SSL certificates, WordPress-focused firewalls, malware scanning, and continuous monitoring to keep your site and visitor data safe at all times."
+      },
+      "pricing": {
+        "title": "Affordable Pricing",
+        "description": "Get powerful WordPress hosting at a price that fits your budget. Our plans are transparent, easy to understand, and free from hidden costs. So you enjoy premium performance and security without overpaying."
+      }
+    }
+  },
+  "useCases": {
+    "heading": "Top Use Cases for WordPress Hosting",
+    "tagline": "From Blogs to WooCommerce Stores",
+    "description": "WordPress hosting is perfect for a wide range of WordPress websites, from personal blogs to business sites and online stores.",
+    "cards": [
+      {
+        "title": "WordPress Blogs",
+        "description": "WordPress hosting is ideal for bloggers who want fast performance and easy publishing. With WordPress-optimized servers, built-in caching, and automatic updates, blogs load quickly and stay secure."
+      },
+      {
+        "title": "Business WordPress Websites",
+        "description": "Businesses rely on WordPress hosting for professional, reliable websites. Company pages, service sections, and contact forms run smoothly on optimized WordPress environments."
+      },
+      {
+        "title": "WooCommerce Stores",
+        "description": "WordPress hosting works great for WooCommerce stores with small to medium product catalogs. Optimized performance, secure connections, and reliable uptime help keep stores running smoothly."
+      },
+      {
+        "title": "Content Creators & Influencers",
+        "description": "Content creators and influencers benefit from WordPress hosting for blogs, media pages, and personal brands. Fast loading times and optimized performance help deliver content smoothly to audiences."
+      },
+      {
+        "title": "Portfolio Websites",
+        "description": "WordPress hosting is an excellent choice for portfolio websites. Designers, developers, photographers, and freelancers can showcase their work with beautiful themes and galleries."
+      },
+      {
+        "title": "Startup Websites",
+        "description": "Startups use WordPress hosting to launch quickly and scale easily. Landing pages, product pages, and early marketing campaigns run smoothly on optimized WordPress servers."
+      },
+      {
+        "title": "Educational WordPress Sites",
+        "description": "Educational websites built on WordPress perform well on WordPress hosting. Course pages, tutorials, blogs, and learning resources load efficiently and remain stable for daily visitors."
+      },
+      {
+        "title": "Local Business Websites",
+        "description": "Local businesses use WordPress hosting for service pages, booking forms, and location-based content. Fast performance and built-in security keep websites responsive and trustworthy."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "FAQs About WordPress Hosting",
+    "questions": [
+      {
+        "question": "What is WordPress Hosting?",
+        "answer": "WordPress hosting is a hosting solution specially optimized for WordPress websites. It is built to deliver better speed, security, and stability for WordPress. Server settings, caching, and updates are tuned for WordPress performance. It's ideal for blogs, business sites, and content-driven WordPress websites that want smooth operation without technical hassle."
+      },
+      {
+        "question": "What are the benefits of WordPress Hosting?",
+        "answer": "<b>Optimized Performance</b><br/>WordPress hosting uses servers tuned specifically for WordPress. This means faster page loads, better caching, and smoother performance.<br/><br/><b>Easy Management</b><br/>WebblyHosting manages core updates, server maintenance, and performance optimization.<br/><br/><b>Improved Security</b><br/>You get WordPress-focused security features such as SSL certificates, firewalls, malware scanning, and protection against common WordPress threats.<br/><br/><b>Better Reliability</b><br/>WordPress hosting is built to handle daily visitors and traffic spikes smoothly.<br/><br/><b>Scalable Growth</b><br/>As your WordPress site grows, you can easily upgrade your hosting plan."
+      },
+      {
+        "question": "Who should use WordPress Hosting?",
+        "answer": "WordPress hosting is perfect for anyone building or running a WordPress website. It's best for WordPress blogs, business WordPress websites, WooCommerce stores, content creators and influencers, portfolio websites, startup websites, educational WordPress sites, and local business websites. If your website is built on WordPress and you want better speed, security, and ease of use, WordPress hosting is the right choice."
+      },
+      {
+        "question": "Is WordPress Hosting beginner-friendly?",
+        "answer": "Yes, WordPress hosting is very beginner-friendly. You don't need any technical knowledge to get started. WebblyHosting handles server setup, updates, backups, and security. With one-click WordPress installation, a simple control panel, and managed hosting support, beginners can launch and manage a WordPress site with confidence."
+      },
+      {
+        "question": "How do I choose the right WordPress plan for my needs?",
+        "answer": "To choose the right WordPress hosting plan, consider:<br/><br/><b>Website Type:</b> blog, business website, portfolio, or WooCommerce store.<br/><br/><b>Traffic Volume:</b> expected daily visitors and growth.<br/><br/><b>Performance Needs:</b> speed, caching, and database performance.<br/><br/><b>Storage Requirements:</b> media files, themes, plugins, and backups.<br/><br/><b>Future Growth:</b> easy upgrades as your website expands.<br/><br/>WebblyHosting makes it easy to compare WordPress hosting plans."
+      },
+      {
+        "question": "Is WordPress Hosting Secure?",
+        "answer": "Yes, WordPress hosting is secure when properly managed. WebblyHosting provides free SSL certificates, firewalls, malware scanning, account isolation, and daily monitoring. Our servers are protected against common WordPress vulnerabilities, keeping your website and visitor data safe without extra configuration."
+      },
+      {
+        "question": "Can I migrate my existing WordPress site?",
+        "answer": "Yes, you can easily migrate your existing WordPress website to WebblyHosting. We support smooth WordPress migrations with minimal downtime. Your files, database, themes, and plugins are transferred safely so you can continue running your site without interruption."
+      },
+      {
+        "question": "When should I upgrade my WordPress hosting?",
+        "answer": "You should upgrade your WordPress hosting when your site experiences higher traffic, slower loading times, or increased resource needs. If your website grows with more content, plugins, or WooCommerce features, upgrading ensures better speed, stability, and scalability."
+      },
+      {
+        "question": "What's the difference between shared hosting and WordPress hosting?",
+        "answer": "Shared hosting is a general hosting solution where multiple websites share server resources. It works well for many website types. WordPress hosting is optimized specifically for WordPress, offering faster performance, better caching, enhanced security, and WordPress-focused management. If your site runs on WordPress, WordPress hosting delivers a smoother and more reliable experience."
+      },
+      {
+        "question": "How can I get started with WordPress Hosting on your platform?",
+        "answer": "Getting started with WebblyHosting WordPress hosting is easy: Visit Our Website and browse WordPress hosting plans, Choose a Plan that fits your website's needs, Sign Up and create your account and connect a domain, Install WordPress using one-click WordPress installation, Launch Your Site and start building and publishing content. With WebblyHosting, your WordPress website can be live in minutes—backed by optimized servers and 24/7 expert support."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Power Your WordPress Site Today",
+    "subheading": "Experience blazing-fast WordPress hosting with automatic updates, enhanced security, and expert support. Your WordPress site deserves the best.",
+    "button": "Launch Your WordPress Site",
+    "buttonLink": "#pricing"
+  },
+  "contact": {
+    "heading": "Need Help Choosing a WordPress Hosting Plan?",
+    "subheading": "Get expert advice",
+    "description1": "Book a short call with our team. One of WebblyHosting's specialists will help you choose the right WordPress hosting package based on your website, business goals, and budget. We want to make your decision simple and stress-free.",
+    "description2": "By submitting your details, you agree to WebblyHosting contacting you for support and guidance regarding your WordPress hosting needs.",
+    "emailLabel": "Email:",
+    "phoneLabel": "",
+    "email": "support@webblyhosting.com",
+    "phone": "",
+    "info": {
+      "social": {
+        "title": "Share"
+      }
+    }
+  },
+  "contactForm": {
+    "nameLabel": "Name",
+    "firstNamePlaceholder": "First Name",
+    "lastNamePlaceholder": "Last Name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Your Email",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Your Message",
+    "submitButton": "Get Started",
+    "sending": "Sending..."
+  }
+}

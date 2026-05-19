@@ -1,0 +1,86 @@
+{
+  "hero": {
+    "title": "Contact Us",
+    "subtitle": "Have questions about our hosting services? Need technical support? We're here to help you succeed online."
+  },
+  "info": {
+    "heading": "Get in Touch",
+    "description": "Whether you have a question about our services, need help choosing the right plan, or require technical assistance, our team is ready to help.",
+    "email": {
+      "title": "Email Us",
+      "value": "support@webblyhosting.com",
+      "description": "We'll respond within 24 hours"
+    },
+    "phone": {
+      "title": "",
+      "value": "",
+      "description": ""
+    },
+    "address": {
+      "title": "Visit Us",
+      "value": "Mijas, Spain",
+      "description": "By appointment only"
+    },
+    "hours": {
+      "title": "Business Hours",
+      "value": "Monday - Friday, 10:00 AM - 21:00 PM",
+      "description": "24/7 support for emergencies"
+    },
+    "social": {
+      "title": "Share"
+    }
+  },
+  "form": {
+    "firstName": "First Name",
+    "firstNamePlaceholder": "John",
+    "lastName": "Last Name",
+    "lastNamePlaceholder": "Doe",
+    "email": "Email Address",
+    "emailPlaceholder": "john@example.com",
+    "phone": "Phone Number",
+    "phonePlaceholder": "+1 234 567 8900",
+    "subject": "Subject",
+    "subjectPlaceholder": "Select a subject",
+    "subjects": [
+      "General Inquiry",
+      "Sales Question",
+      "Technical Support",
+      "Billing Issue",
+      "Partnership Opportunity",
+      "Other"
+    ],
+    "message": "Your Message",
+    "messagePlaceholder": "Tell us how we can help you...",
+    "submit": "Send Message",
+    "sending": "Sending...",
+    "successTitle": "Message Sent Successfully!",
+    "successMessage": "Thank you for reaching out. We'll get back to you as soon as possible."
+  },
+  "map": {
+    "heading": "Our Location",
+    "subheading": "Visit our office in Mijas, Spain",
+    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d51237.587824854!2d-4.678737525317771!3d36.60251147551066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd72e161048e47bf%3A0x62913e843640b37!2sMijas%2C%20M%C3%A1laga%2C%20Spain!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus"
+  },
+  "support": {
+    "heading": "Other Ways to Get Help",
+    "subheading": "Choose the support option that works best for you",
+    "email": {
+      "title": "Email Support",
+      "description": "Send us an email and our support team will get back to you within 24 hours with a detailed response.",
+      "action": "Send Email",
+      "link": "mailto:support@webblyhost.com"
+    },
+    "knowledge": {
+      "title": "Knowledge Base",
+      "description": "Browse our comprehensive guides, tutorials, and FAQs to find answers to common questions.",
+      "action": "Browse Articles",
+      "link": "/blog/category/guides"
+    },
+    "ticket": {
+      "title": "Support Ticket",
+      "description": "Log in to your dashboard and submit a support ticket for complex issues that require investigation.",
+      "action": "Open Dashboard",
+      "link": "/dashboard/support"
+    }
+  }
+}

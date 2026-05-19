@@ -1,0 +1,73 @@
+{
+  "plans": [
+    {
+      "whmcsProductId": 7,
+      "name": "Starter",
+      "tagline": "",
+      "description": "",
+      "features": [
+        "2 WordPress-webbplatser",
+        "50 GB NVMe SSD-lagring",
+        "Standard sidcache",
+        "Automatiska WP-kärnuppdateringar",
+        "1-klick WordPress-installation",
+        "Obegränsade professionella e-postkonton",
+        "Obegränsad bandbredd (fair use)",
+        "Gratis SSL-certifikat",
+        "Dagliga säkerhetskopior ingår",
+        "Enkel/användarvänlig kontrollpanel",
+        "DDoS-skydd ingår",
+        "99,9% drifttidsgaranti",
+        "Gratis domänregistrering/överföring",
+        "Mänsklig support (ingen AI-bot)"
+      ]
+    },
+    {
+      "whmcsProductId": 8,
+      "name": "Pro Plan",
+      "tagline": "",
+      "description": "",
+      "features": [
+        "4 WordPress-webbplatser",
+        "150 GB NVMe SSD-lagring",
+        "Avancerad objektcache",
+        "Staging + automatiska plugin-uppdateringar",
+        "WP-specifik brandvägg",
+        "1-klick WordPress-installation",
+        "Obegränsade professionella e-postkonton",
+        "Obegränsad bandbredd (fair use)",
+        "Gratis SSL-certifikat",
+        "Dagliga säkerhetskopior ingår",
+        "Enkel/användarvänlig kontrollpanel",
+        "DDoS-skydd ingår",
+        "99,9% drifttidsgaranti",
+        "Gratis domänregistrering/överföring",
+        "Mänsklig support (ingen AI-bot)"
+      ]
+    },
+    {
+      "whmcsProductId": 9,
+      "name": "Business Plan",
+      "tagline": "",
+      "description": "",
+      "features": [
+        "10 WordPress-webbplatser",
+        "300 GB NVMe SSD-lagring",
+        "Ultimat prestanda (global CDN ingår)",
+        "Fullständig staging och snapshots",
+        "Administrerad malware-skanner",
+        "Avancerat WAF-skydd",
+        "1-klick WordPress-installation",
+        "Obegränsade professionella e-postkonton",
+        "Obegränsad bandbredd",
+        "Gratis SSL-certifikat",
+        "Dagliga säkerhetskopior ingår",
+        "Enkel/användarvänlig kontrollpanel",
+        "DDoS-skydd ingår",
+        "99,9% drifttidsgaranti",
+        "Gratis domänregistrering/överföring",
+        "Mänsklig support (ingen AI-bot)"
+      ]
+    }
+  ]
+}

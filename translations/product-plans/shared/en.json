@@ -1,0 +1,86 @@
+{
+  "plans": [
+    {
+      "whmcsProductId": 33,
+      "name": "First Step",
+      "tagline": "",
+      "description": "",
+      "features": [
+        " 2 websites - No Managed Node.js web apps",
+        "20 GB NVMe SSD storage",
+        "2 professional email accounts per website",
+        "Unlimited bandwidth (fair use)",
+        "LiteSpeed Page Cache",
+        "Free SSL certificate",
+        "1-click WordPress installation",
+        "DDoS protection included",
+        "99.9% uptime guarantee",
+        "Free domain registration or transfer",
+        "Human support, no AI bot"
+      ]
+    },
+    {
+      "whmcsProductId": 1,
+      "name": "Starter",
+      "tagline": "",
+      "description": "",
+      "features": [
+        "2 websites",
+        "50 GB NVMe SSD storage",
+        "Unlimited bandwidth (fair use)",
+        "LiteSpeed Page Cache",
+        "Free SSL certificate",
+        "Daily backups included",
+        "Unlimited professional email accounts",
+        "Easy control panel",
+        "1-click WordPress installation",
+        "DDoS protection included",
+        "99.9% uptime guarantee",
+        "Free domain registration or transfer",
+        "Human support, no AI bot"
+      ]
+    },
+    {
+      "whmcsProductId": 2,
+      "name": "Pro Plan",
+      "tagline": "",
+      "description": "",
+      "features": [
+        "4 websites",
+        "100 GB NVMe SSD storage",
+        "Unmetered bandwidth (fair use)",
+        "Redis Object Cache + Staging Tool ",
+        "Free SSL certificate",
+        "Daily backups included",
+        "Unlimited Professional Email Accounts",
+        "Simple control panel",
+        "1-click WordPress installation",
+        "DDoS protection included",
+        "99.9% uptime guarantee",
+        "Free domain registration/transfer ",
+        "Human support, no AI bot"
+      ]
+    },
+    {
+      "whmcsProductId": 3,
+      "name": "Business Plan",
+      "tagline": "",
+      "description": "",
+      "features": [
+        "10 websites",
+        "200 GB NVMe SSD storage",
+        "Unmetered bandwidth",
+        "Malware Scanner (VirusTotal/Imunify Free) + Global CDN (Cloudflare) ",
+        "Free SSL certificate",
+        "Daily backups included",
+        "Unlimited Professional Email Accounts",
+        "Simple control panel",
+        "1-click WordPress installation",
+        "DDoS protection included",
+        "99.9% uptime guarantee",
+        "Free domain registration/transfer",
+        " Human support, no AI bot"
+      ]
+    }
+  ]
+}

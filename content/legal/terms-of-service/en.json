@@ -1,0 +1,950 @@
+{
+  "title": "Terms of Service",
+  "pageLastUpdated": "31 December 2025",
+  "introduction": {
+    "type": "root",
+    "children": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "Welcome to WebblyHosting. These Terms of Service govern your use of our website, products, and services. By accessing or using our services, you agree to be bound by these terms. Please read them carefully before proceeding."
+          }
+        ]
+      }
+    ]
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "legal": "Legal"
+  },
+  "lastUpdated": "Last Updated",
+  "sidebar": {
+    "title": "Legal Documents"
+  },
+  "links": {
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "cookiePolicy": "Cookie Policy"
+  },
+  "contact": {
+    "title": "Questions About These Terms?",
+    "description": "If you have any questions or concerns about these terms or our services, please don't hesitate to reach out to our team.",
+    "button": "Contact Us"
+  },
+  "sections": [
+    {
+      "title": "Subscription",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "A WebblyHosting subscription provides access to the use of WebblyHosting’s servers and related hosting services, and may include a domain name, e‑mail accounts and the right to host one or more websites. The amount of disk space, e‑mail accounts, websites and other resources available depends on the type of subscription chosen."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Unless otherwise stated, subscription periods are 12 months and are automatically renewed at the end of each term, unless the subscription is cancelled in accordance with section"
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "7."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "We offer a 30‑day money‑back guarantee on new hosting subscriptions. If you are not satisfied, you may cancel within 30 days from the initial order date and receive a refund of the hosting fee you paid for that subscription period, excluding domain registration or other non‑refundable third‑party fees."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Free or trial subscriptions (if offered) are automatically renewed or converted to a paid plan at the end of the free period unless cancelled in accordance with section 8."
+              }
+            ]
+          }
+        ]
+      },
+      "subsections": [
+        {
+          "title": "Right of withdrawal (EU/EEA consumers)",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "If you are a consumer in the EU/EEA, you may have a statutory right of withdrawal of 14 days for distance contracts. Because hosting services and domain registrations start being delivered immediately after your order, you acknowledge that:"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "For hosting services, you request immediate activation and understand that once the service has been fully performed during the withdrawal period, your statutory right of withdrawal is no longer applicable for that specific period."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "For domains, registration is a personalised service and may not be refundable once submitted to the registry."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "This does not affect WebblyHosting’s contractual 30‑day money‑back guarantee described above."
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Use",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Subscribers are not permitted to store large amounts of data on the server solely for free download, file sharing or archiving that is unrelated to normal website and email use, without prior agreement with WebblyHosting."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "By using our services, you acknowledge and consent to WebblyHosting performing automatic backups of data stored on our servers for operational and security purposes. Backup storage may be counted as part of your overall disk space usage. Backups are provided as an additional safety net but do not replace your own backup responsibility; you are responsible for maintaining your own up‑to‑date backups of critical data. WebblyHosting is not liable for loss, damage, or unauthorised access to data occurring in connection with backup or restore operations, except where required under mandatory law."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Illegal material is not permitted on any of WebblyHosting’s servers, whether this is images, film clips, software, other files or links to unlawful content. This includes, but is not limited to, material that infringes copyright or other intellectual property rights, or material you are not entitled to publish or store under applicable law. It is also prohibited to store or distribute content that is clearly offensive, abusive, or that may jeopardise the stability, performance or security of WebblyHosting’s systems. WebblyHosting alone determines whether material falls within these categories and reserves the right to remove such material at any time without notice. In such cases, the customer cannot advance any claim against WebblyHosting related to the removal."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Traffic is generally unmetered under fair‑use conditions. However, traffic must be normal in nature and not negatively affect other customers or the overall platform. If a customer’s traffic is excessive or disrupts other users, WebblyHosting reserves the right, at its sole discretion, to limit resources, temporarily suspend, or close the customer’s service and/or apply additional charges. In the event of closure or suspension due to abuse or excessive use, no refund will be made of any subscription paid in advance."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Unsolicited (spam) email must not be sent from WebblyHosting’s servers. In case of violation, WebblyHosting reserves the right to suspend or terminate the service, and where required, to inform relevant authorities and provide necessary log information in accordance with applicable law."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Files containing malware, viruses, trojans, or similar code that can be used for, or are related to, malicious cyber activities must under no circumstances be uploaded to or linked from WebblyHosting’s servers."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Scripts",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "WebblyHosting allows the use of scripts (for example PHP, cron jobs and similar) as long as their use does not burden the servers to an unreasonable degree or negatively affect stability and security. WebblyHosting may disable or limit scripts that cause excessive load, security risks, or service degradation for other customers."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Templates and software",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Any themes, templates, one‑click installers or software tools provided by WebblyHosting or our partners remain the property of WebblyHosting or the respective rights holders. They are provided under non‑exclusive, limited rights of use for the duration of your subscription. You may not copy, redistribute or resell such templates or tools, whether on a commercial or non‑commercial basis, unless explicitly permitted by their license terms. WebblyHosting is not responsible for errors, vulnerabilities or deficiencies in third‑party templates or software."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Operational reliability",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "WebblyHosting may limit or adjust resource usage if necessary for operational or security reasons. For operational and security purposes, authorised WebblyHosting staff may access customer data and system information to resolve incidents, perform maintenance or fulfil legal obligations. Staff are subject to confidentiality obligations. Any other access to user content requires customer consent or a lawful request from competent authorities."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Spam and virus filters and other security functions are provided to reduce risk, but WebblyHosting does not guarantee that all unwanted or malicious content will be blocked."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Responsibility",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Use of WebblyHosting’s services is at the customer’s own risk. WebblyHosting is not responsible for the content, accuracy, lawfulness or completeness of information that the customer stores or transmits via the internet."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "WebblyHosting is liable in accordance with applicable law, subject to the following limitations:"
+              }
+            ]
+          },
+          {
+            "type": "ol",
+            "children": [
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "WebblyHosting is not liable for indirect losses such as operating loss, loss of data, loss of profit, loss of goodwill or other consequential or indirect damages, unless prohibited by mandatory law."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "WebblyHosting is not liable for losses resulting from interruptions, disturbances or changes that WebblyHosting deems necessary for technical, maintenance or operational reasons, or that are required by authorities, provided WebblyHosting has taken reasonable steps to limit the inconvenience."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "WebblyHosting is not liable for loss or damage caused by the customer’s own IT environment, configuration, applications, or by third parties for whom WebblyHosting is not responsible."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "WebblyHosting is not liable for events outside our reasonable control, including force majeure (for example natural disasters, war, terrorism, strikes, widespread outages, failures in third‑party networks or infrastructure)."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "WebblyHosting is not liable for services delivered by independent third parties where WebblyHosting merely acts as an intermediary (for example domain registries, external software vendors, payment providers), except where required by mandatory law."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "In all cases, WebblyHosting’s total aggregate liability for loss or damage in any 12‑month period is limited to the amount paid by the customer to WebblyHosting for the services giving rise to the claim during that period."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cancellation of subscriptions",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "A subscription can be cancelled at any time by the customer. Unless otherwise stated, a subscription runs for 12 months and is renewed automatically. To avoid renewal, cancellation must be received before the start of the next subscription period (for example at least 30 days prior to renewal, if specified in the product description)."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "If cancellation is made after the renewal date, the customer is obliged to pay for the new subscription period. Any unused portion of advance payments is non‑refundable, except where covered by the 30‑day money‑back guarantee for new purchases or where required by mandatory law."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Cancellation is normally performed from the WebblyHosting control panel or client area. The customer must follow the instructions provided to complete the cancellation. Once the subscription is cancelled, it will be shown as cancelled in the control panel, and WebblyHosting may send an email confirmation."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "After termination, data on web space and email accounts may be deleted after a short grace period (for example 7–30 days). WebblyHosting has no obligation to store or provide data after the end of the subscription."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "WebblyHosting may terminate a subscription with reasonable notice if we discontinue a product or make significant changes to our services. In such cases, prepaid fees for the remaining period may be refunded on a pro‑rated basis."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "WebblyHosting may suspend or terminate a subscription with immediate effect and without compensation if the customer:"
+              }
+            ]
+          },
+          {
+            "type": "ol",
+            "children": [
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Violates these Terms, acceptable use rules or applicable law."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Abuses resources or disrupts the functionality of the service or network."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Uses the service to gain unauthorised access to systems or data."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "In such cases, WebblyHosting may provide relevant information to authorities where required by law."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Free or trial subscriptions",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "If WebblyHosting offers free or trial subscriptions, these may be cancelled at any time by the customer via the control panel. If the free period converts to a paid subscription, cancellation must be made before the conversion date to avoid charges. Conditions for free or trial periods will be described on the relevant product page."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Domains",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "When ordering a domain, the customer confirms that the requested name does not infringe third‑party rights (such as trademarks, company names or personal name rights) and does not otherwise violate applicable law. Domain registrations are made in the customer’s name and at the customer’s request. WebblyHosting acts as an intermediary between the customer and the domain registrar/registry."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "WebblyHosting will inform the customer when the domain registration or transfer has been completed. WebblyHosting assumes no responsibility for the domain name if it is later transferred, cancelled, or if the associated hosting is terminated."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "The domain will be registered with or through WebblyHosting’s partners (registrars or direct registries). The customer is responsible for paying annual renewal fees in accordance with current prices and terms, regardless of whether the domain’s DNS is pointing to WebblyHosting or another provider."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "In case of incorrectly ordered domains (for example spelling errors, incorrect extension), the registration fee is normally non‑refundable once the order has been submitted to the registry. Where possible and if the error is due to WebblyHosting, we may correct or refund according to our internal policy and registry rules."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "The customer is responsible for keeping contact and address information up‑to‑date with WebblyHosting and, where required, with the registry. Outdated contact information may result in suspension or loss of the domain."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Special conditions for individual TLDs",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Each top‑level domain (TLD) may have its own specific rules and contractual terms (for example .com, .se, .es). By ordering or using a domain through WebblyHosting, you also accept the applicable registry’s terms and conditions for the TLD. Links to these may be provided on our website or on request."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Domain expiration policy",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Domains must be renewed before their expiry date to avoid loss. WebblyHosting will normally send reminders before expiration, but the customer remains responsible for ensuring that domains are renewed and paid on time. After expiration, domains may enter grace or redemption periods set by the registry, during which recovery may incur additional fees or may be impossible."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Prices",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Current prices for domains and hosting services are shown on webblyhosting.com and may be updated from time to time. Promotional prices, introductory offers or discounts may apply under specific conditions."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Special conditions for products and services",
+      "content": "",
+      "subsections": [
+        {
+          "title": "13.1 Add‑on products",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "WebblyHosting may offer add‑on products and services in addition to standard hosting (for example extra storage, premium support, security add‑ons, backup options, or specialised WordPress/e‑commerce features). Available add‑ons and prices are shown on our website or in the panel. Not all add‑ons may be available in all regions or for all subscription types."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "13.2 Add‑on orders and money‑back guarantee",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Important Billing and Refund Policy for Add-ons at WebblyHosting"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "When ordering an add-on product, you will be charged immediately for the remaining period until your main hosting subscription's renewal date, or for another billing period as shown at checkout."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "The 30-day money-back guarantee applies ONLY to main hosting packages (Shared Hosting, VPS, WordPress Hosting)."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Add-ons purchased TOGETHER with a new hosting package: No money-back guarantee."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Add-ons purchased separately: Specific refund rules are shown on the product page or at checkout."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Third-party services are ALWAYS excluded from refunds."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "13.3 Third‑party services",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "WebblyHosting may provide access to or resell third‑party services (for example SSL certificates, security/scanning services, email suites, SEO tools). The customer is bound by the terms of such third‑party providers and should familiarise themselves with those terms. WebblyHosting may stop offering third‑party products or updates at any time without liability, beyond what follows from mandatory law. WebblyHosting is not responsible for damages or losses arising from the use of third‑party products, except where required by law."
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "General",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Subscribers to WebblyHosting’s services must be at least 18 years of age or have legal capacity under applicable law."
+              }
+            ]
+          }
+        ]
+      },
+      "subsections": [
+        {
+          "title": "14.1 Product & Privacy Policy",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "By subscribing to our services, you also accept our Privacy Policy and any specific product policies provided on webblyhosting.com."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "14.2 Data protection and data processing",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "If you store personal data on our servers, you are the data controller and WebblyHosting acts as data processor for that data. A Data Processing Agreement (DPA) may be required under GDPR or other laws; where applicable, WebblyHosting will provide a DPA outlining our roles and responsibilities regarding personal data."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "14.3 Contact",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Questions regarding support, sales and billing are handled via our customer support channels, typically through online chat and email. Response times are indicated on our website and may vary depending on time and workload."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "14.4 Address information",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Customers are required to keep their contact details, including legal name, address, VAT/ID number (where applicable) and email address, up‑to‑date via the client area. Important information about subscriptions, invoices and domains will be sent to the email address registered in the account."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "14.5 Payment of subscriptions",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Hosting subscriptions are normally paid in advance for the selected period (for example 12 months, or monthly if available). Prepaid amounts are non‑refundable except where explicitly stated (for example within the 30‑day money‑back guarantee or when required by law)."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "14.6 Terms of payment",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Accepted payment methods are shown on webblyhosting.com and may include card payment and other online methods. Invoices must be paid by the due date stated. In case of late payment, WebblyHosting may charge interest and reminder fees in accordance with applicable law and may suspend or terminate services after prior notice. WebblyHosting may engage third‑party collection agencies for overdue claims."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "14.7 Duration of subscription",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "A subscription remains active until cancelled by either party in accordance with these Terms."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "14.8 Changes to subscriptions",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "A hosting plan can usually be upgraded to a higher‑priced plan at any time, with already paid fees credited proportionally. Downgrades to lower‑priced plans may only take effect at the end of the current subscription period and must be requested within the notice period stated on our website."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "14.9 Transfer",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "In connection with the sale or transfer of all or substantial parts of WebblyHosting’s business or assets, WebblyHosting may transfer subscriptions and associated rights and obligations to a third party, subject to applicable law. Customers will be informed of such transfers where required."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "14.10 Changes to terms and prices",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "WebblyHosting’s terms and prices may be updated from time to time. Material changes to these Terms will generally be announced with reasonable notice (for example 30–45 days) via email or panel. Continued use of the services after the updated Terms come into effect constitutes acceptance of the changes."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "14.11 Third‑party malfunctions and force majeure",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "WebblyHosting is not liable for interruptions or malfunctions caused by circumstances beyond our reasonable control, including but not limited to lightning, flooding, fire, war, terrorism, strikes, lockouts, power outages, overload on the internet, failures in third‑party networks, registries or data centres, or other force majeure events."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "14.12 Complaints and dispute resolution",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "If you wish to make a complaint about a product or service, you should first contact WebblyHosting support so we can try to resolve the matter. If you are an EU consumer, you may also have the right to use the European Commission’s online dispute resolution (ODR) platform or national consumer authorities, as provided by local law."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "14.13 Language",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "These Terms may be provided in different languages. In case of discrepancies, the English version shall generally prevail, unless otherwise required by mandatory law."
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

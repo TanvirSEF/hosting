@@ -1,0 +1,146 @@
+{
+  "breadcrumb": {
+    "home": "Hem",
+    "legal": "Juridiskt"
+  },
+  "lastUpdated": "Senast uppdaterad",
+  "sidebar": {
+    "title": "Juridiska dokument"
+  },
+  "contact": {
+    "title": "Frågor om dessa villkor?",
+    "description": "Om du har några frågor eller funderingar om dessa villkor eller våra tjänster, tveka inte att kontakta vårt team.",
+    "button": "Kontakta oss"
+  },
+  "links": {
+    "privacyPolicy": "Integritetspolicy",
+    "termsOfService": "Användarvillkor",
+    "cookiePolicy": "Cookiepolicy"
+  },
+  "title": "Användarvillkor",
+  "pageLastUpdated": "31 december 2025",
+  "introduction": "Välkommen till WebblyHosting. Dessa användarvillkor reglerar din användning av vår webbplats, produkter och tjänster. Genom att använda våra tjänster godkänner du att vara bunden av dessa villkor. Läs dem noggrant innan du fortsätter.",
+  "sections": [
+    {
+      "title": "Godkännande av villkor",
+      "content": "Genom att skapa ett konto, köpa en tjänst eller på annat sätt använda WebblyHostings tjänster, bekräftar du att du har läst, förstått och godkänner att vara bunden av dessa användarvillkor. Om du inte godkänner dessa villkor får du inte använda våra tjänster."
+    },
+    {
+      "title": "Beskrivning av tjänster",
+      "content": "WebblyHosting tillhandahåller webbhosting, domänregistrering och relaterade internettjänster. Våra tjänster inkluderar men är inte begränsade till:",
+      "subsections": [
+        {
+          "title": "Hosting-tjänster",
+          "content": [
+            "Delade hosting-paket",
+            "VPS (Virtual Private Server) hosting",
+            "WordPress-optimerad hosting",
+            "E-handelslösningar för hosting",
+            "E-posttjänster"
+          ]
+        },
+        {
+          "title": "Domäntjänster",
+          "content": [
+            "Domännamnsregistrering",
+            "Domänöverföringar",
+            "DNS-hantering",
+            "Domänintegritetsskydd"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kontoregistrering",
+      "content": [
+        "Du måste tillhandahålla korrekt och fullständig registreringsinformation",
+        "Du ansvarar för att upprätthålla säkerheten för dina kontouppgifter",
+        "Du måste vara minst 18 år för att skapa ett konto",
+        "En person eller enhet får inte ha flera gratiskonton",
+        "Du ansvarar för alla aktiviteter som sker under ditt konto"
+      ]
+    },
+    {
+      "title": "Betalningsvillkor",
+      "content": "Alla betalningar förfaller vid köp eller förnyelse. Vi accepterar de flesta kreditkort och andra betalningsmetoder enligt anvisningar på vår webbplats.",
+      "subsections": [
+        {
+          "title": "Fakturering",
+          "content": "Tjänster faktureras i förskott på månads-, års- eller flerårig basis beroende på ditt valda paket. Alla avgifter är icke-återbetalningsbara förutom vad som uttryckligen anges i vår återbetalningspolicy."
+        },
+        {
+          "title": "Automatisk förnyelse",
+          "content": "Om du inte inaktiverar automatisk förnyelse kommer dina tjänster automatiskt att förnyas till då gällande priser. Du kan inaktivera automatisk förnyelse när som helst via din kontopanel."
+        },
+        {
+          "title": "Sena betalningar",
+          "content": "Underlåtenhet att betala avgifter i tid kan leda till avstängning eller uppsägning av dina tjänster. Vi förbehåller oss rätten att ta ut förseningsavgifter och inkassokostnader."
+        }
+      ]
+    },
+    {
+      "title": "Policy för acceptabel användning",
+      "content": "Du samtycker till att inte använda våra tjänster för olagliga eller förbjudna aktiviteter. Följande är strikt förbjudet:",
+      "subsections": [
+        {
+          "title": "Förbjudet innehåll",
+          "content": [
+            "Olagligt innehåll eller aktiviteter",
+            "Innehåll som gör intrång i immateriella rättigheter",
+            "Skadlig programvara, virus eller skadlig kod",
+            "Spam eller oönskade massutskick",
+            "Vuxeninnehåll utan lämpliga skyddsåtgärder",
+            "Innehåll som främjar våld eller hatpropaganda"
+          ]
+        },
+        {
+          "title": "Förbjudna aktiviteter",
+          "content": [
+            "Försök att få obehörig åtkomst till system",
+            "Störning av nätverkstjänster",
+            "Överdriven resursanvändning som påverkar andra användare",
+            "Mining av kryptovaluta utan tillstånd",
+            "Drift av proxy- eller VPN-tjänster utan godkännande"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Servicenivåavtal",
+      "content": "Vi strävar efter att upprätthålla 99,9% drifttid för alla hosting-tjänster. Vid driftstopp som överstiger denna garanti kan berättigade kunder få servicekrediter enligt vår SLA-dokumentation. Schemalagt underhåll och omständigheter utanför vår kontroll undantas från drifttidsberäkningar."
+    },
+    {
+      "title": "Säkerhetskopiering och säkerhet",
+      "content": [
+        "Vi utför regelbundna säkerhetskopior men rekommenderar att du behåller dina egna säkerhetskopior",
+        "Du ansvarar för säkerheten för ditt innehåll och dina applikationer",
+        "Vi implementerar branschstandardiserade säkerhetsåtgärder",
+        "Vi ansvarar inte för dataförlust på grund av kundens försummelse eller tredjepartsattacker"
+      ]
+    },
+    {
+      "title": "Immateriella rättigheter",
+      "content": "Allt innehåll, varumärken och immateriella rättigheter på vår webbplats och tjänster tillhör WebblyHosting eller våra licensgivare. Du behåller äganderätten till innehåll du laddar upp men ger oss en licens att hosta och visa det vid behov för att tillhandahålla våra tjänster."
+    },
+    {
+      "title": "Ansvarsbegränsning",
+      "content": "I den utsträckning lagen tillåter ska WebblyHosting inte vara ansvarig för indirekta, tillfälliga, speciella, följdmässiga eller straffande skador, inklusive förlust av vinst, data eller affärsmöjligheter. Vårt totala ansvar ska inte överstiga det belopp som du betalat för tjänster under de tolv månader som föregår kravet."
+    },
+    {
+      "title": "Uppsägning",
+      "content": "Endera parten kan säga upp tjänster när som helst. Vi förbehåller oss rätten att stänga av eller säga upp konton som bryter mot dessa villkor utan förvarning. Vid uppsägning måste du upphöra med all användning av våra tjänster, och vi kan radera dina data efter en rimlig lagringsperiod."
+    },
+    {
+      "title": "Ändringar av villkor",
+      "content": "Vi kan ändra dessa användarvillkor när som helst. Väsentliga ändringar kommer att meddelas via e-post eller på vår webbplats. Din fortsatta användning av tjänster efter att ändringar trätt i kraft utgör godkännande av de ändrade villkoren."
+    },
+    {
+      "title": "Tillämplig lag",
+      "content": "Dessa användarvillkor ska tolkas i enlighet med tillämpliga lagar. Eventuella tvister som uppstår från dessa villkor ska lösas genom bindande skiljedom eller i behörig domstol."
+    },
+    {
+      "title": "Kontaktinformation",
+      "content": "För frågor om dessa användarvillkor, kontakta oss på legal@webblyhosting.com eller via våra supportkanaler."
+    }
+  ]
+}

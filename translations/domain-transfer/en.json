@@ -1,0 +1,229 @@
+{
+  "hero": {
+    "badge": "Fast & Secure Transfer",
+    "title": "Transfer your domain to WebblyHosting",
+    "subtitle": "Move your domain to us and enjoy better service, lower prices, and a free year added to your registration",
+    "searchPlaceholder": "Enter domain to transfer (e.g. example.com)",
+    "searchButton": "Check Transfer",
+    "checking": "Checking transfer eligibility...",
+    "errorEmpty": "Please enter a domain name",
+    "errorFailed": "Failed to process transfer request",
+    "errorEppRequired": "EPP/Authorization code is required to transfer this domain",
+    "errorEppInvalid": "Invalid EPP/Authorization code format",
+    "statusLocked": "This domain is currently locked. You'll need to unlock it at your current registrar before transferring.",
+    "statusUnlocked": "Great news! This domain is eligible for transfer. You can proceed with the transfer process.",
+    "currentRegistrar": "Current registrar",
+    "registrarLock": "Transfer lock status",
+    "unlockSteps": "How to unlock",
+    "checkAgain": "Check again",
+    "eppCodeLabel": "EPP/Authorization Code",
+    "eppCodePlaceholder": "Enter EPP code from your current registrar",
+    "eppCodeHelp": "You can get this code from your current domain registrar account.",
+    "unlockBeforeTransfer": "Please unlock the domain at your current registrar before proceeding.",
+    "transferNow": "Transfer Now",
+    "transferring": "Processing transfer...",
+    "whyTransfer": "Why transfer?",
+    "whyTransferDesc": "Transfer price includes a 1 year renewal added to your domain's current expiration date. Plus free WHOIS privacy and 24/7 support.",
+    "lookingForNew": "Looking for a new domain name?",
+    "tryDomainChecker": "Try domain checker",
+    "domainSearchLink": "/domain-search",
+    "defaultRegistrar": "Unknown Registrar",
+    "defaultExpiry": "2025-12-31",
+    "defaultPrice": "US$ 9.99",
+    "defaultOriginalPrice": "US$ 19.99",
+    "suggestions": [
+      "yourdomain.com",
+      "mybusiness.io",
+      "company.net",
+      "mystore.org"
+    ],
+    "demoRegistrars": [
+      {
+        "domain": "example.com",
+        "registrar": "GoDaddy, LLC",
+        "locked": true,
+        "expiry": "2025-06-15"
+      },
+      {
+        "domain": "test.com",
+        "registrar": "Namecheap, Inc.",
+        "locked": false,
+        "expiry": "2024-12-20"
+      },
+      {
+        "domain": "demo.io",
+        "registrar": "Google Domains",
+        "locked": true,
+        "expiry": "2025-03-10"
+      },
+      {
+        "domain": "mysite.net",
+        "registrar": "Cloudflare, Inc.",
+        "locked": false,
+        "expiry": "2025-08-22"
+      },
+      {
+        "domain": "kayem.com",
+        "registrar": "ENOM, INC.",
+        "locked": true,
+        "expiry": "2025-01-15"
+      }
+    ],
+    "features": {
+      "freeYear": "Free 1 Year Extension",
+      "whoisPrivacy": "Free WHOIS Privacy",
+      "easyManagement": "Easy DNS Management",
+      "support": "24/7 Expert Support"
+    },
+    "modal": {
+      "title": "How to Unlock Your Domain",
+      "registrarGuides": "Popular registrar guides",
+      "needHelp": "Can't find your registrar?",
+      "needHelpDesc": "Contact your current domain provider's support team directly. They will be able to assist you with unlocking your domain for transfer.",
+      "gotIt": "Got it, thanks!",
+      "unlockSteps": [
+        {
+          "step": 1,
+          "title": "Log in to your current registrar",
+          "description": "Sign in to your account at the domain provider where your domain is currently registered."
+        },
+        {
+          "step": 2,
+          "title": "Locate your domain",
+          "description": "Find the domain you want to transfer in your domain management dashboard."
+        },
+        {
+          "step": 3,
+          "title": "Remove the Transfer Lock",
+          "description": "Look for 'Domain Lock', 'Transfer Lock', or 'Registrar Lock' setting and disable it."
+        },
+        {
+          "step": 4,
+          "title": "Get the Authorization Code (EPP Code)",
+          "description": "Request the transfer authorization code from your current registrar. This code is required to complete the transfer."
+        }
+      ],
+      "registrars": [
+        {
+          "name": "GoDaddy",
+          "url": "https://www.godaddy.com/help/unlock-my-domain-for-transfer-410"
+        },
+        {
+          "name": "Namecheap",
+          "url": "https://www.namecheap.com/support/knowledgebase/article.aspx/9476/83/how-to-unlock-a-domain"
+        },
+        {
+          "name": "Google Domains",
+          "url": "https://support.google.com/domains/answer/3251176"
+        },
+        {
+          "name": "Cloudflare",
+          "url": "https://developers.cloudflare.com/registrar/get-started/transfer-in/"
+        },
+        {
+          "name": "Name.com",
+          "url": "https://www.name.com/support/articles/205934345-unlocking-your-domain-name"
+        },
+        {
+          "name": "ENOM",
+          "url": "https://help.enom.com/hc/en-us/articles/206141017"
+        }
+      ]
+    }
+  },
+  "steps": {
+    "heading": "Transfer a domain name in 4 simple steps:",
+    "description": "Moving your domain to WebblyHosting is quick and easy. Follow these simple steps to transfer your domain and start enjoying better service, lower prices, and premium features.",
+    "cta": "Transfer Domain",
+    "ctaLink": "#transfer-hero",
+    "scrollHint": "Scroll down to see steps",
+    "scrollHintUp": "Scroll up",
+    "cards": [
+      {
+        "heading": "Check domain eligibility",
+        "text": "Enter your domain name in our transfer checker above to verify it can be transferred. We'll show you the current registrar and lock status instantly."
+      },
+      {
+        "heading": "Unlock your domain",
+        "text": "Log in to your current registrar's control panel and disable the domain transfer lock. This allows the domain to be moved to a new provider."
+      },
+      {
+        "heading": "Get authorization code",
+        "text": "Request the EPP authorization code (also called transfer code or auth code) from your current registrar. You'll need this to complete the transfer."
+      },
+      {
+        "heading": "Complete the transfer",
+        "text": "Enter the authorization code on our platform and confirm the transfer. Your domain will be moved within 5-7 days with a free year extension added."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "questions": [
+      {
+        "question": "How long does a domain transfer take?",
+        "answer": "Most domain transfers complete within 5-7 days. Once you submit the authorization code and confirm the transfer, we begin the process immediately. Some registrars may take longer depending on their internal procedures."
+      },
+      {
+        "question": "Will my website go offline during the transfer?",
+        "answer": "No, your website will remain online throughout the entire transfer process. DNS settings are preserved during the transfer, so your email and website will continue to work without interruption."
+      },
+      {
+        "question": "What is an EPP/Authorization code?",
+        "answer": "An EPP (Extensible Provisioning Protocol) code, also known as an authorization code or transfer key, is a unique password that proves you own the domain. You'll need to get this from your current registrar to authorize the transfer."
+      },
+      {
+        "question": "Do I get extra registration time when I transfer?",
+        "answer": "Yes! When you transfer your domain to us, we add a free year of registration to your domain's current expiration date. This is in addition to any time remaining on your current registration."
+      },
+      {
+        "question": "Can I transfer a domain that expires soon?",
+        "answer": "Yes, but we recommend having at least 15 days before expiration. If your domain expires during the transfer, it may complicate the process. Contact us if your domain is close to expiring."
+      },
+      {
+        "question": "What happens to my current DNS settings?",
+        "answer": "Your existing DNS settings will be preserved during the transfer. However, we recommend noting down your current DNS configuration before starting the transfer, just in case you need to reconfigure anything."
+      },
+      {
+        "question": "Is WHOIS privacy included with the transfer?",
+        "answer": "Yes! We include free WHOIS privacy protection with all domain transfers. Your personal information will be protected from public WHOIS lookups at no additional cost."
+      },
+      {
+        "question": "What if my transfer fails?",
+        "answer": "If a transfer fails, we'll notify you immediately with the reason. Common issues include locked domains, invalid auth codes, or pending domain status. Our support team is available 24/7 to help resolve any transfer issues."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Transfer Your Domain?",
+    "subheading": "Join thousands of satisfied customers who have transferred their domains to WebblyHosting. Get better service, competitive pricing, and a free year extension on your domain registration.",
+    "button": "Transfer Now",
+    "buttonLink": "#transfer-hero"
+  },
+  "contact": {
+    "heading": "Need Help Choosing the Right Plan?",
+    "subheading": "Get expert advice",
+    "description1": "Book a short call with our team. One of WebblyHosting's specialists will help you transfer your domain smoothly and choose the right services for your needs. We want to make your decision simple and stress-free.",
+    "description2": "By submitting your details, you agree to WebblyHosting contacting you for support and guidance regarding your domain transfer.",
+    "emailLabel": "Email:",
+    "phoneLabel": "",
+    "email": "support@webblyhosting.com",
+    "phone": "",
+    "info": {
+      "social": {
+        "title": "Share"
+      }
+    }
+  },
+  "contactForm": {
+    "nameLabel": "Name",
+    "firstNamePlaceholder": "First Name",
+    "lastNamePlaceholder": "Last Name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Your Email",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Your Message",
+    "submitButton": "Get Started",
+    "sending": "Sending..."
+  }
+}

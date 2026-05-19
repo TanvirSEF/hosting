@@ -1,0 +1,351 @@
+{
+  "hero": {
+    "brandName": "SHARED HOSTING",
+    "mainTitle": "Simple, Secure and Affordable Web Hosting for Growing Websites",
+    "pricing": {
+      "from": "",
+      "price": "€3.90",
+      "unit": "/mo",
+      "offer": ""
+    },
+    "features": {
+      "domain": "Optimized shared servers",
+      "hosting": "Free SSL & built-in security",
+      "support": "Beginner-friendly setup",
+      "reliability": "Reliable & Hassle-free"
+    },
+    "cta": "View Plans & Pricing",
+    "ctaLink": "#pricing",
+    "guarantee": "30-day money-back guarantee"
+  },
+  "stats": {
+    "clients": {
+      "number": "2021",
+      "suffix": "  ",
+      "label": "Founded"
+    },
+    "countries": {
+      "number": "99",
+      "suffix": ".9%",
+      "label": "Uptime"
+    },
+    "experience": {
+      "number": "24",
+      "suffix": "/7",
+      "label": "Support"
+    },
+    "websites": {
+      "number": "30",
+      "suffix": " ",
+      "label": "Days Money Back Guarantee"
+    }
+  },
+  "pricing": {
+    "heading": "Choose Your Shared Hosting Plan That Suits Your Brand",
+    "subheading": "Flexible plans designed to grow with your website",
+    "mostPopular": "Most Popular",
+    "cta": "Get Started",
+    "firstYear": "Billed Annually",
+    "standardRate": "Standard Rate",
+    "billedAnnually": "Same price year after year – no surprises",
+    "from": "",
+    "youSave": "You save",
+    "orderLinkBase": "/order/hosting?plan=",
+    "plans": [
+      {
+        "name": "Starter",
+        "description": "Perfect for personal websites",
+        "price": "0,90€",
+        "unit": "/mo (For the first 1-year period)",
+        "yearly": "130€",
+        "orLabel": "second year",
+        "highlight": false
+      },
+      {
+        "name": "Business",
+        "description": "Ideal for growing businesses",
+        "price": "$4.99",
+        "unit": "/mo",
+        "yearly": "$49 yearly",
+        "orLabel": "or",
+        "highlight": true
+      },
+      {
+        "name": "Enterprise",
+        "description": "Maximum power for high-traffic sites",
+        "price": "$9.99",
+        "unit": "/mo",
+        "yearly": "$99 yearly",
+        "orLabel": "or"
+      }
+    ]
+  },
+  "features": {
+    "tagline": "Fast, Secure, and Easy to Use",
+    "heading": "Our Shared Hosting Features",
+    "description": "WebblyHosting shared hosting is built for simplicity and stability. It's perfect for beginners, small websites, and businesses that want fast speed, strong security, and easy control. You get a balanced server environment, modern infrastructure, and expert support—all at an affordable price.",
+    "tabs": {
+      "performance": "Performance & Stability",
+      "ease": "Easy Website Management",
+      "security": "Security & Reliability"
+    },
+    "content": {
+      "performance": [
+        {
+          "title": "Optimized shared servers",
+          "description": "Fine-tuned servers for shared environments. Your website runs smoothly without performance drops."
+        },
+        {
+          "title": "SSD / NVMe-based storage",
+          "description": "Fast storage ensures quicker page loads and faster file access. Your data loads quickly every time."
+        },
+        {
+          "title": "Resource-balanced environment",
+          "description": "Resources are distributed fairly. Your site stays stable even when others grow."
+        },
+        {
+          "title": "Fast-loading websites",
+          "description": "Optimized caching and server tuning help your site load faster for visitors."
+        },
+        {
+          "title": "Traffic-ready for daily visitors",
+          "description": "Handles daily traffic with ease. Perfect for blogs and small business websites."
+        },
+        {
+          "title": "Server-level caching",
+          "description": "Built-in caching improves speed and reduces server load for better overall performance."
+        }
+      ],
+      "ease": [
+        {
+          "title": "One-click website setup",
+          "description": "Launch your website in minutes with quick and simple setup options."
+        },
+        {
+          "title": "WordPress auto install",
+          "description": "Install WordPress instantly and start building your site without manual configuration."
+        },
+        {
+          "title": "Simple control panel",
+          "description": "Manage files, databases, domains, and settings from one dashboard."
+        },
+        {
+          "title": "File & database management",
+          "description": "Upload, edit, and manage website files with ease."
+        },
+        {
+          "title": "Domain and subdomain control",
+          "description": "Add, manage, and configure domains and subdomains effortlessly."
+        },
+        {
+          "title": "Website staging support",
+          "description": "Test updates and changes safely before pushing them live."
+        }
+      ],
+      "security": [
+        {
+          "title": "Free SSL certificates",
+          "description": "Protect your website and visitors with HTTPS encryption at no extra cost."
+        },
+        {
+          "title": "Malware scanning & cleanup",
+          "description": "Automatic scans help detect and remove threats to keep your site secure."
+        },
+        {
+          "title": "Web application firewall",
+          "description": "Blocks malicious traffic and common web attacks before they reach your site."
+        },
+        {
+          "title": "Daily server monitoring",
+          "description": "Servers are monitored around the clock to ensure smooth and stable operation."
+        },
+        {
+          "title": "Account isolation for safety",
+          "description": "Each hosting account is isolated to prevent issues from affecting other websites."
+        },
+        {
+          "title": "High uptime guarantee",
+          "description": "Built for reliability so your website stays online and accessible at all times."
+        }
+      ]
+    }
+  },
+  "creationSteps": {
+    "tagline": "Shared Hosting Made for Easy Growth",
+    "heading": "Launch Your Website in Minutes",
+    "steps": [
+      {
+        "title": "Stable performance",
+        "description": "Enjoy smooth and consistent website performance on optimized shared servers built for everyday traffic."
+      },
+      {
+        "title": "Easy upgrade",
+        "description": "Upgrade your hosting plan effortlessly as your website grows. No downtime. No technical hassle."
+      },
+      {
+        "title": "Beginner-friendly",
+        "description": "Designed for first-time users with simple setup, intuitive tools, and fully managed hosting support."
+      }
+    ]
+  },
+  "management": {
+    "tagline": "No Setup. No Complexity. Just Hosting",
+    "heading": "Effortless Shared Hosting Management",
+    "cards": {
+      "monitoring": {
+        "title": "Automatic core updates",
+        "description": "Your website stays up to date automatically. We handle system and core updates to keep everything secure and stable."
+      },
+      "patch": {
+        "title": "Daily backups & restore",
+        "description": "Automatic daily backups protect your data. Restore files or your entire website quickly whenever needed."
+      },
+      "backups": {
+        "title": "Performance monitoring",
+        "description": "Continuous server performance monitoring ensures smooth operation and consistent website speed."
+      },
+      "support": {
+        "title": "Cache & speed controls",
+        "description": "Built-in caching and speed optimization tools help your website load faster with minimal effort."
+      }
+    }
+  },
+  "whyChoose": {
+    "heading": "Why WebblyHosting",
+    "tagline": "Reliable Hosting Built on Trust",
+    "tabs": {
+      "support": {
+        "title": "Customer Support",
+        "description": "Our support team is here 24/7 to solve any issues. Whether you're starting your first website or running daily tasks, you can rely on us for quick, friendly help."
+      },
+      "privacy": {
+        "title": "Privacy & Security",
+        "description": "We protect your website and data with strong security. You get free SSL certificates, firewalls, and constant monitoring to keep your site and visitors safe at all times."
+      },
+      "pricing": {
+        "title": "Affordable Pricing",
+        "description": "Enjoy reliable shared hosting at a price you can afford. Our plans are clear, simple, and have no hidden fees—so you get great value without losing performance."
+      }
+    }
+  },
+  "useCases": {
+    "heading": "Top Use Cases for Shared Hosting",
+    "tagline": "From Blogs to Business Sites",
+    "description": "Shared hosting is perfect for a wide range of websites, from personal blogs to small business sites and everything in between.",
+    "cards": [
+      {
+        "title": "Personal Websites & Blogs",
+        "description": "Shared hosting is ideal for personal websites and blogs. It provides a simple and affordable way to get online without technical setup. With optimized servers and managed features, blogs load fast and stay stable."
+      },
+      {
+        "title": "Small Business Websites",
+        "description": "Small businesses benefit from shared hosting for their company websites. It offers dependable performance, built-in security, and easy management. Business pages, service listings, and contact forms run smoothly."
+      },
+      {
+        "title": "WordPress Websites",
+        "description": "Shared hosting is a smart choice for WordPress websites. With one-click installation, automatic updates, and optimized performance, WordPress sites run efficiently. It supports themes, plugins, and daily content updates."
+      },
+      {
+        "title": "Portfolio & Resume Sites",
+        "description": "Shared hosting is an excellent choice for portfolios and resume sites. It loads quickly and shows your work samples clearly. Designers, developers, and freelancers can display their projects with confidence."
+      },
+      {
+        "title": "Startup Landing Pages",
+        "description": "Shared hosting is well-suited for startup landing pages. It handles early traffic, sign-ups, and marketing campaigns smoothly. Pages load quickly and stay accessible during promotions."
+      },
+      {
+        "title": "Educational Websites",
+        "description": "Educational websites such as course pages, tutorials, and learning resources work well on shared hosting. It supports content-heavy pages, videos, and downloads efficiently."
+      },
+      {
+        "title": "Local Service Websites",
+        "description": "Local service businesses use shared hosting for service pages, booking forms, and location-based content. It keeps websites responsive and secure for local audiences."
+      },
+      {
+        "title": "Content-Focused Websites",
+        "description": "Content-focused websites need fast loading and consistent uptime. Shared hosting easily supports articles, images, and media content. It's a reliable choice for news sites and niche blogs."
+      },
+      {
+        "title": "Basic E-commerce Stores",
+        "description": "Shared hosting is great for small online stores with limited products and traffic. It works with platforms like WooCommerce and simple checkout systems. Secure connections keep your store running smoothly."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "FAQs About Shared Hosting",
+    "questions": [
+      {
+        "question": "What is shared hosting?",
+        "answer": "Shared hosting is a type of web hosting where multiple websites share the same server and its resources. It is designed to be simple, affordable, and easy to use. With shared hosting, managing the server, security, and updates is easy for you. It's a great choice for personal websites, blogs, portfolios, and small business sites that need reliable performance without technical complexity."
+      },
+      {
+        "question": "What are the benefits of Shared Hosting?",
+        "answer": "<b>Easy to Use:</b><br/>You don't need technical skills to use shared hosting. WebblyHosting manages the server, updates, and maintenance, so you can focus on building your website.<br/><br/><b>Reliable Performance:</b><br/>Shared hosting uses optimized server resources to keep your website running smoothly.<br/><br/><b>Cost-Effective:</b><br/>Shared hosting is an affordable way to get your website online at a much lower price than VPS or dedicated servers.<br/><br/><b>Built-in Security:</b><br/>WebblyHosting gives you free SSL certificates, firewalls, malware scanning, and account isolation.<br/><br/><b>Flexible for Growth:</b><br/>Shared hosting supports a wide range of website types. You can start small and easily upgrade your plan as your website grows."
+      },
+      {
+        "question": "Who should use shared hosting?",
+        "answer": "Shared hosting is an excellent choice for individuals and small businesses taking their first step online. It fits best for:<br/><br/>Personal websites and blogs<br/>Small business websites<br/>Portfolio and CV sites<br/>Startup landing pages<br/>WordPress sites and content-driven blogs<br/><br/>If your website has a moderate amount of traffic and does not require specific, custom server settings, shared hosting is the smartest and most affordable option."
+      },
+      {
+        "question": "Is shared hosting good for beginners?",
+        "answer": "Yes, shared hosting is the perfect choice for beginners. You neither need to manage servers nor have any technical prior knowledge. WebblyHosting handles installation, maintenance, updates, and security for you. Thanks to a user-friendly control panel and smooth one-click installations, even you who have never built a website before can launch your site quickly and safely."
+      },
+      {
+        "question": "How do I choose the right hosting package for my needs?",
+        "answer": "To find the package that suits you best, you should consider the following:<br/><br/><b>Type of website:</b> Is it a simple blog, a company page, or a smaller online store? Different sites require different amounts of power.<br/><br/><b>Traffic volume:</b> Estimate how many visitors you expect. Choose a package that can handle your daily traffic with a good margin.<br/><br/><b>Features and tools:</b> Do you need a lot of storage space, many email accounts, or specific tools like WordPress optimization and staging environments (test environments)?<br/><br/><b>Future growth:</b> Choose a package that makes it easy to grow. At WebblyHosting, you can always upgrade smoothly when your website expands.<br/><br/>WebblyHosting makes it easy to compare our different packages so you can find the right balance between price and performance."
+      },
+      {
+        "question": "Can I use WordPress on a shared hosting plan?",
+        "answer": "Absolutely! WebblyHosting's shared hosting fully supports WordPress. You install WordPress with a single click and can then easily manage themes, plugins, and updates directly. Our servers are specifically optimized for WordPress performance, making us a reliable choice for everything from blogs and business pages to large, content-driven websites."
+      },
+      {
+        "question": "Is shared hosting secure?",
+        "answer": "Yes, shared hosting is a very secure alternative when managed professionally. WebblyHosting protects your account with free SSL certificates, robust firewalls, automatic malware scanning, and strict account isolation. We monitor our servers around the clock to ensure your website remains safe and stable. You get strong protection right from the start without having to make any complicated technical settings yourself."
+      },
+      {
+        "question": "When should I upgrade from my shared hosting?",
+        "answer": "You should consider upgrading when your website grows and requires more performance or technical control. Clear signs that it is time are if your page starts loading slower due to heavily increased traffic, or if you need to make advanced adjustments to the server environment. By upgrading to a VPS, you get more power, greater flexibility, and all the space you need to continue growing."
+      },
+      {
+        "question": "What is the difference between shared hosting and VPS hosting?",
+        "answer": "The main difference lies in how the server's resources are distributed:<br/><br/><b>Shared hosting:</b> Here your website shares resources with other users on the same server. It is the most affordable alternative and requires no technical knowledge, making it perfect for beginners, blogs, and small businesses.<br/><br/><b>VPS hosting (Virtual Private Server):</b> Here you get an assigned amount of dedicated resources and full control over your server environment. It provides significantly higher performance and greater flexibility. VPS is the ideal choice for fast-growing businesses, high-traffic websites, and custom applications.<br/><br/>WebblyHosting offers both solutions, meaning you can start simply and then upgrade seamlessly as your needs change."
+      },
+      {
+        "question": "How do I get started with WebblyHosting?",
+        "answer": "It is simple to get online with WebblyHosting. Just follow these steps:<br/><br/><b>Choose your package:</b> Visit our website and find the hosting package that suits your needs best.<br/><br/><b>Sign up:</b> Complete our fast and smooth registration process in just a few minutes.<br/><br/><b>Launch your website:</b> Use our smart tools for one-click installation or let our auto-installer for WordPress do the job for you.<br/><br/><b>Manage and grow:</b> Via our user-friendly control panel, you easily manage everything from databases to domains and email.<br/><br/>With WebblyHosting, you can have your website live in just a few minutes – and our support team is available around the clock if you need help along the way."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Launch Your Website?",
+    "subheading": "Join thousands of website owners who trust WebblyHosting. Get reliable, fast, and secure shared hosting that grows with you.",
+    "button": "Start Building Today",
+    "buttonLink": "#pricing"
+  },
+  "contact": {
+    "heading": "Need Help Choosing the Right Plan?",
+    "subheading": "Get expert advice",
+    "description1": "Book a short call with our team. One of WebblyHosting's specialists will help you choose the right hosting package based on your website, business goals, and budget. We want to make your decision simple and stress-free.",
+    "description2": "By submitting your details, you agree to WebblyHosting contacting you for support and guidance regarding your hosting needs.",
+    "emailLabel": "Email:",
+    "phoneLabel": "Phone:",
+    "email": "support@webblyhosting.com",
+    "phone": "",
+    "info": {
+      "social": {
+        "title": "Share"
+      }
+    }
+  },
+  "contactForm": {
+    "nameLabel": "Name",
+    "firstNamePlaceholder": "First Name",
+    "lastNamePlaceholder": "Last Name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Your Email",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Your Message",
+    "submitButton": "Get Started",
+    "sending": "Sending..."
+  }
+}

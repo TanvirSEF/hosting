@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx tsc:*)",
+      "Bash(npm run:*)",
+      "Bash(lsof -ti:9000)",
+      "Bash(xargs kill:*)",
+      "Bash(curl -s -X POST \"https://bill.webblyhosting.com/includes/api.php\" -d \"identifier=LXfEzYe2B6jizwsdQz0dd0Ah2LSLq5CH\" -d \"secret=3dImq1E91iAl80Nos0CKtfK3RHsiaXD3\" -d \"action=GetCurrencies\" -d \"responsetype=json\")",
+      "Bash(curl -s -X POST \"https://bill.webblyhosting.com/includes/api.php\" -d \"identifier=LXfEzYe2B6jizwsdQz0dd0Ah2LSLq5CH\" -d \"secret=3dImq1E91iAl80Nos0CKtfK3RHsiaXD3\" -d \"action=GetInvoices\" -d \"limitnum=10\" -d \"responsetype=json\")",
+      "Bash(curl -s -X POST \"https://bill.webblyhosting.com/includes/api.php\" -d \"identifier=LXfEzYe2B6jizwsdQz0dd0Ah2LSLq5CH\" -d \"secret=3dImq1E91iAl80Nos0CKtfK3RHsiaXD3\" -d \"action=GetInvoices\" -d \"limitnum=100\" -d \"responsetype=json\")",
+      "Bash(curl -s -X POST \"https://bill.webblyhosting.com/includes/api.php\" -d \"identifier=LXfEzYe2B6jizwsdQz0dd0Ah2LSLq5CH\" -d \"secret=3dImq1E91iAl80Nos0CKtfK3RHsiaXD3\" -d \"action=GetInvoice\" -d \"invoiceid=42\" -d \"responsetype=json\")",
+      "Bash(curl -s -X POST \"https://bill.webblyhosting.com/includes/api.php\" -d \"identifier=LXfEzYe2B6jizwsdQz0dd0Ah2LSLq5CH\" -d \"secret=3dImq1E91iAl80Nos0CKtfK3RHsiaXD3\" -d \"action=GetInvoice\" -d \"invoiceid=117\" -d \"responsetype=json\")",
+      "Bash(curl -s -X POST \"https://bill.webblyhosting.com/includes/api.php\" -d \"identifier=LXfEzYe2B6jizwsdQz0dd0Ah2LSLq5CH\" -d \"secret=3dImq1E91iAl80Nos0CKtfK3RHsiaXD3\" -d \"action=GetClientsDetails\" -d \"clientid=2\" -d \"stats=false\" -d \"responsetype=json\")",
+      "Bash(npx next:*)",
+      "Bash(curl -s \"https://bill.webblyhosting.com/api/tax-rates.php?key=K7mN9pQ2vX5wZ8bD4fG6hJ3kL1nR0sT7uV9xY2zA5cE8gI3mP6qS9tW2yB5eH8jK1nQ4rT7v&country=SE\")",
+      "Bash(curl -s \"https://bill.webblyhosting.com/api/tax-rates.php?key=K7mN9pQ2vX5wZ8bD4fG6hJ3kL1nR0sT7uV9xY2zA5cE8gI3mP6qS9tW2yB5eH8jK1nQ4rT7v&country=US&state=CA\")",
+      "Bash(for cc:*)",
+      "Bash(do echo:*)",
+      "Bash(curl -s \"https://bill.webblyhosting.com/api/tax-rates.php?key=K7mN9pQ2vX5wZ8bD4fG6hJ3kL1nR0sT7uV9xY2zA5cE8gI3mP6qS9tW2yB5eH8jK1nQ4rT7v&country=$cc\")",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(d.get\\(''''data'''',{}\\).get\\(''''taxrate'''',''''err''''\\)\\)\")",
+      "Bash(done)",
+      "Bash(pnpm run:*)"
+    ],
+    "additionalDirectories": [
+      "/Volumes/File Storage/Webbly Media 2026/webblyhost/app/[locale]/order"
+    ]
+  }
+}

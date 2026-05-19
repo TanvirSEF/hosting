@@ -1,0 +1,84 @@
+{
+  "plans": [
+    {
+      "whmcsProductId": 33,
+      "name": "First Step",
+      "features": [
+        "2 webbplatser – inga hanterade Node.js‑webbappar",
+        "20 GB NVMe SSD‑lagring",
+        "2 professionella e‑postkonton per webbplats",
+        "Obegränsad bandbredd (fair use)",
+        "LiteSpeed Page Cache",
+        "Gratis SSL-certifikat",
+        "1-klick WordPress-installation",
+        "DDoS-skydd ingår",
+        "99,9% drifttidsgaranti",
+        "Gratis domänregistrering/flytt",
+        "Mänsklig support, ingen AI-bot"
+      ]
+    },
+    {
+      "whmcsProductId": 1,
+      "name": "Starter",
+      "tagline": "",
+      "description": "",
+      "features": [
+        "2 webbplatser",
+        "50 GB NVMe SSD-lagring",
+        "Obegränsad bandbredd (fair use)",
+        "LiteSpeed Page Cache",
+        "Gratis SSL-certifikat",
+        "Dagliga säkerhetskopior ingår",
+        "Obegränsade professionella e-postkonton",
+        "Enkel kontrollpanel",
+        "1-klick WordPress-installation",
+        "DDoS-skydd ingår",
+        "99,9% drifttidsgaranti",
+        "Gratis domänregistrering/flytt",
+        "Mänsklig support, ingen AI-bot"
+      ]
+    },
+    {
+      "whmcsProductId": 2,
+      "name": "Pro Plan",
+      "tagline": "",
+      "description": "",
+      "features": [
+        "4 webbplatser",
+        "100 GB NVMe SSD-lagring",
+        "Obegränsad bandbredd (fair use)",
+        "Redis Object Cache + Staging-verktyg",
+        "Gratis SSL-certifikat",
+        "Dagliga säkerhetskopior ingår",
+        "Obegränsade professionella e-postkonton",
+        "Enkel kontrollpanel",
+        "1-klick WordPress-installation",
+        "DDoS-skydd ingår",
+        "99,9% drifttidsgaranti",
+        "Gratis domänregistrering/flytt",
+        "Mänsklig support, ingen AI-bot"
+      ]
+    },
+    {
+      "whmcsProductId": 3,
+      "name": "Business Plan",
+      "tagline": "",
+      "description": "",
+      "features": [
+        "10 webbplatser",
+        "200 GB NVMe SSD-lagring",
+        "Obegränsad bandbredd",
+        "Malware-skanner (VirusTotal/Imunify Free) + Global CDN (Cloudflare)",
+        "Gratis SSL-certifikat",
+        "Dagliga säkerhetskopior ingår",
+        "Obegränsade professionella e-postkonton",
+        "Enkel kontrollpanel",
+        "1-klick WordPress-installation",
+        "DDoS-skydd ingår",
+        "99,9% drifttidsgaranti",
+        "Gratis domänregistrering/flytt",
+        "Mänsklig support, ingen AI-bot"
+      ]
+    }
+  ]
+}

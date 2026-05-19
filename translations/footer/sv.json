@@ -1,0 +1,65 @@
+{
+  "hosting": {
+    "title": "Webbhotell",
+    "sharedHosting": "Delat Webbhotell",
+    "sharedHostingLink": "/shared-hosting",
+    "wordpressHosting": "WordPress Hosting",
+    "wordpressHostingLink": "/wordpress-hosting",
+    "vpsHosting": "VPS Hosting",
+    "vpsHostingLink": "/vps-hosting",
+    "ecommerceHosting": "E-handels Hosting",
+    "ecommerceHostingLink": "/ecommerce-hosting",
+    "pricing": "Priser",
+    "pricingLink": "/pricing"
+  },
+  "domains": {
+    "title": "Domäner",
+    "domainSearch": "Domänsökning",
+    "domainSearchLink": "/domain-search",
+    "domainTransfer": "Domänöverföring",
+    "domainTransferLink": "/domain-transfer"
+  },
+  "ourServices": {
+    "title": "Andra Tjänster",
+    "vpn": "",
+    "vpnLink": "#",
+    "seoTool": "SEO-verktyg",
+    "seoToolLink": "#",
+    "sitebuilder": "Webbplatsbyggare för E-handel",
+    "sitebuilderLink": "#",
+    "ssl": "SSL-certifikat",
+    "sslLink": "#"
+  },
+  "support": {
+    "title": "Företag",
+    "about": "Om Oss",
+    "aboutLink": "/about",
+    "contact": "Kontakt",
+    "contactLink": "/contact",
+    "blog": "Webbly Insights",
+    "blogLink": "/blog",
+    "pricePhilosophy": "Vår Prisfilosofi",
+    "pricePhilosophyLink": "/price-philosophy",
+    "guides": "Guider",
+    "guidesLink": "/guides"
+  },
+  "copyright": "© {year} WebblyHosting. Alla rättigheter förbehållna.",
+  "policy": {
+    "legal": "Juridik",
+    "legalLink": "/legal",
+    "privacy": "Integritetspolicy",
+    "privacyLink": "/legal/privacy-policy",
+    "terms": "Användarvillkor",
+    "termsLink": "/legal/terms-of-service",
+    "cookie": "Cookie-policy",
+    "cookieLink": "/legal/cookie-policy"
+  },
+  "social": {
+    "instagram": "https://instagram.com",
+    "facebook": "https://facebook.com",
+    "twitter": "https://twitter.com",
+    "youtube": "https://youtube.com",
+    "linkedin": "https://linkedin.com",
+    "github": "https://github.com"
+  }
+}

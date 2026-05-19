@@ -1,0 +1,492 @@
+{
+  "title": "Customer Service Policy",
+  "pageLastUpdated": "31 December 2025",
+  "introduction": {
+    "type": "root",
+    "children": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "At WebblyHosting, we are committed to providing exceptional customer service. This Customer Service Policy outlines our commitment to delivering outstanding support, our service standards, and how we ensure your satisfaction with our hosting services."
+          }
+        ]
+      }
+    ]
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "legal": "Legal"
+  },
+  "lastUpdated": "Last Updated",
+  "sidebar": {
+    "title": "Legal Documents"
+  },
+  "links": {
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "cookiePolicy": "Cookie Policy"
+  },
+  "contact": {
+    "title": "Need Help With Our Services?",
+    "description": "If you have any questions about our customer service standards or need assistance, our support team is here to help.",
+    "button": "Contact Support"
+  },
+  "sections": [
+    {
+      "title": "Our Service Commitment",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "We are dedicated to providing world-class customer service that exceeds your expectations. Our commitment includes:"
+              }
+            ]
+          }
+        ]
+      },
+      "subsections": [
+        {
+          "title": "Response Times",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Critical issues: Within 1 hour. High priority issues: Within 4 hours. Normal priority issues: Within 24 hours. Low priority issues: Within 48 hours."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Availability",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "24/7 support for critical server issues. Business hours (9 AM - 6 PM EST) for general inquiries. Weekend support for emergency situations."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Quality Assurance",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Regular training for our support team. Continuous improvement based on customer feedback. Service quality monitoring and evaluation."
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Support Channels",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "We offer multiple channels to ensure you can reach us in the way that's most convenient for you:"
+              }
+            ]
+          }
+        ]
+      },
+      "subsections": [
+        {
+          "title": "Live Chat",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Instant support during business hours. Average wait time under 2 minutes. Available directly from your dashboard."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Email Support",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Detailed assistance for complex issues. Response within our guaranteed timeframes. Ticket tracking for follow-up."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Knowledge Base",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Comprehensive documentation and tutorials. 24/7 access to self-help resources. Regularly updated with new guides."
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Service Level Agreement (SLA)",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Our SLA guarantees the level of service you can expect from WebblyHosting:"
+              }
+            ]
+          }
+        ]
+      },
+      "subsections": [
+        {
+          "title": "Uptime Guarantee",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "99.9% network uptime guarantee. Monthly uptime reports available. Service credits for downtime exceeding guarantee."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Support Response SLA",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Guaranteed response times based on priority level. Performance tracking and reporting. Continuous monitoring of SLA compliance."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Resolution Targets",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Critical issues: 4-hour resolution target. Major issues: 24-hour resolution target. Minor issues: 72-hour resolution target."
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Customer Feedback",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "We value your feedback and use it to continuously improve our services:"
+              }
+            ]
+          }
+        ]
+      },
+      "subsections": [
+        {
+          "title": "Satisfaction Surveys",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Post-support satisfaction surveys. Quarterly customer satisfaction reports. Net Promoter Score (NPS) tracking."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Feedback Channels",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Direct feedback to support team. Customer advisory board participation. Annual customer satisfaction survey."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Improvement Process",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Regular review of customer feedback. Implementation of suggested improvements. Communication of changes based on feedback."
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Escalation Procedures",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "For issues that require additional attention, we have clear escalation procedures:"
+              }
+            ]
+          }
+        ]
+      },
+      "subsections": [
+        {
+          "title": "Tier 1 Support",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Initial contact point for all inquiries. Basic troubleshooting and information. Issue categorization and routing."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Tier 2 Support",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Advanced technical support. Complex issue resolution. Specialized expertise for specific services."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Tier 3 Support",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Senior technical engineers. System-level issues. Development team involvement when needed."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Management Escalation",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Service delivery managers. Customer success managers. Executive escalation for critical issues."
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Service Standards",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Our commitment to maintaining high service standards:"
+              }
+            ]
+          }
+        ]
+      },
+      "subsections": [
+        {
+          "title": "Professionalism",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Courteous and respectful communication. Technical expertise and knowledge. Clear and understandable explanations."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Transparency",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Honest assessment of issues. Clear communication about timelines. Regular updates on ongoing issues."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Accountability",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Ownership of customer issues. Follow-through on commitments. Recognition and correction of mistakes."
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Contact Information",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "For questions about our Customer Service Policy or to provide feedback on your support experience, please contact us at support@webblyhosting.com or use any of our support channels mentioned above."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

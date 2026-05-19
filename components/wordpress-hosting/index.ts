@@ -1,0 +1,10 @@
+export { default as Hero } from './Hero';
+export { default as Stats } from './Stats';
+export { default as Pricing } from './Pricing';
+export { default as WordPressFeatures } from './WordPressFeatures';
+export { default as WordPressCreationSteps } from './WordPressCreationSteps';
+export { default as WordPressManagement } from './WordPressManagement';
+export { default as WordPressWhyChoose } from './WordPressWhyChoose';
+export { default as WordPressUseCases } from './WordPressUseCases';
+export { default as WordPressFAQ } from './WordPressFAQ';
+export { default as WordPressCTA } from './WordPressCTA';

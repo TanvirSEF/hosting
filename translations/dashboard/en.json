@@ -1,0 +1,830 @@
+{
+  "sidebar": {
+    "brandName": "WebblyHosting",
+    "navigation": {
+      "dashboard": "Dashboard",
+      "services": "My Services",
+      "domains": "Domains",
+      "billing": "Billing",
+      "support": "Support",
+      "account": "Account Information",
+      "invoices": "Invoices",
+      "paymentMethods": "Payment Methods",
+      "myDomains": "My Domains",
+      "registerDomain": "Register New Domain",
+      "transferDomain": "Transfer Domain",
+      "accountInformation": "Account Information",
+      "security": "Security",
+      "allServices": "All Services",
+      "orderNewService": "Order New Service",
+      "emails": "Email Accounts"
+    },
+    "secondary": {
+      "settings": "Settings",
+      "help": "Get Help"
+    },
+    "user": {
+      "account": "Account",
+      "logout": "Log out"
+    }
+  },
+  "header": {
+    "search": "Search...",
+    "notifications": "Notifications",
+    "notificationsNew": "new",
+    "noNotifications": "No new notifications",
+    "allCaughtUp": "All caught up!",
+    "loadingNotifications": "Loading notifications...",
+    "notificationAdminReplied": "Admin Replied to Your Ticket",
+    "notificationClientReplied": "Customer Replied",
+    "notificationNewTicket": "New Support Ticket",
+    "notificationUpdate": "Update",
+    "notificationInvoiceOverdue": "Invoice Overdue!",
+    "notificationInvoiceUnpaid": "Unpaid Invoice",
+    "notificationDomainExpiring": "Domain Expiring Soon",
+    "notificationServiceRenewal": "Service Renewal Due",
+    "notificationServiceSuspended": "Service Suspended",
+    "notificationNewOrder": "New Order Received",
+    "expiresInDays": "expires in {days} day{plural}",
+    "renewsInDays": "renews in {days} day{plural}",
+    "hasBeenSuspended": "has been suspended",
+    "justNow": "Just now",
+    "recently": "Recently",
+    "user": "User",
+    "moreNotifications": "+ {count} more notification{plural}",
+    "markAsRead": "Mark as read",
+    "markAllAsRead": "Mark all as read",
+    "markingAsRead": "Marking as read...",
+    "visitWebsite": "Visit Website",
+    "home": "Home",
+    "language": {
+      "label": "Language",
+      "english": "English",
+      "swedish": "Svenska"
+    }
+  },
+  "dashboard": {
+    "welcome": "Welcome back, {firstname}!",
+    "subtitle": "Here's what's happening with your services today.",
+    "error": {
+      "loading": "Error loading dashboard. Please log in again."
+    },
+    "stats": {
+      "activeServices": "Active Services",
+      "activeServicesDesc": "Hosting & VPS services",
+      "domains": "Domains",
+      "domainsDesc": "Registered domains",
+      "unpaidInvoices": "Unpaid Invoices",
+      "actionRequired": "Action required",
+      "allPaid": "All invoices paid"
+    },
+    "upsell": {
+      "title": "Boost your website?",
+      "description": "Our agency team can help you with SEO optimization and Redesign.",
+      "button": "Book a Free Consultation"
+    },
+    "promotions": {
+      "heading": "Special offers just for you!",
+      "subheading": "Grab these great deals that we've handpicked",
+      "upgradeHosting": {
+        "title": "Upgrade your hosting",
+        "description": "Level up with more power and enhanced features"
+      },
+      "businessEmail": {
+        "title": "Get a business email",
+        "description": "Build your brand with a professional email address"
+      },
+      "emailMarketing": {
+        "title": "Get email marketing",
+        "description": "Keep site visitors coming back with AI-powered email marketing"
+      },
+      "starter": {
+        "title": "Starter Hosting",
+        "description": "Perfect for personal websites and blogs"
+      },
+      "pro": {
+        "title": "Pro Hosting",
+        "description": "More resources and better performance for growing sites"
+      },
+      "business": {
+        "title": "Business Hosting",
+        "description": "Maximum power and priority support for e-commerce"
+      },
+      "hosting": {
+        "title": "Upgrade to Pro Hosting",
+        "description": "More resources and better performance for your growing site"
+      },
+      "wordpress": {
+        "title": "Managed WordPress",
+        "description": "Optimized environment for your WordPress website"
+      },
+      "vps": {
+        "title": "Cloud VPS Server",
+        "description": "Full control and dedicated resources for your applications"
+      },
+      "getDeal": "Get deal",
+      "from": "From",
+      "perMonth": "/mo",
+      "when": "when getting a 1-year subscription",
+      "features": {
+        "websites_2": "2 websites",
+        "websites_4": "4 websites",
+        "websites_10": "10 websites",
+        "storage_50": "50 GB NVMe SSD storage",
+        "storage_100": "100 GB NVMe SSD storage",
+        "storage_200": "200 GB NVMe SSD storage",
+        "ssl": "Free SSL certificate",
+        "daily_backups": "Daily backups included",
+        "redis": "Redis Object Cache",
+        "scanner": "Malware Scanner"
+      }
+    },
+    "freeEmailBanner": {
+      "title": "Claim Your Free Email Account",
+      "description": "Your hosting plan includes 2 free email accounts. Set up your professional email now!",
+      "cta": "Set Up Email"
+    }
+  },
+  "services": {
+    "title": "My Services",
+    "allServicesTitle": "All Services",
+    "orderNewServiceTitle": "Order New Service",
+    "orderNewServiceDesc": "Browse and order from all available hosting services.",
+    "subtitle": "Manage your hosting packages, servers, and subscriptions.",
+    "loginRequired": "Please log in to view services.",
+    "searchServices": "Search services...",
+    "allCategories": "All Categories",
+    "selected": "Selected",
+    "startingFrom": "Starting from",
+    "orderSummary": "Order Summary",
+    "billingCycle": "Billing Cycle",
+    "price": "Price",
+    "billed": "Billed {cycle}",
+    "processing": "Processing...",
+    "orderNow": "Order Now",
+    "selectService": "Select a service to continue",
+    "noServicesFound": "No services found matching your criteria.",
+    "stats": {
+      "totalServices": "Total Services",
+      "totalServicesDesc": "All your hosting services",
+      "activeServices": "Active Services",
+      "activeServicesDesc": "Currently running services",
+      "monthlyValue": "Monthly Value",
+      "monthlyValueDesc": "Total recurring revenue",
+      "expiringSoon": "Expiring Soon",
+      "expiringSoonDesc": "Services expiring within 7 days"
+    },
+    "table": {
+      "activeProducts": "Active Products",
+      "activeProductsDesc": "A comprehensive list of all your purchased services and subscriptions.",
+      "orderNewService": "Order New Service",
+      "searchPlaceholder": "Search services, domains, or categories...",
+      "allStatus": "All Status",
+      "allCategories": "All Categories",
+      "showingResults": "Showing {start}-{end} of {total} services",
+      "noServicesFound": "No Services Found",
+      "adjustFilters": "Try adjusting your filters to see more results.",
+      "browsePlans": "Browse Hosting Plans",
+      "product": "Product/Service",
+      "category": "Category",
+      "pricing": "Pricing",
+      "registration": "Registration",
+      "domain": "Domain",
+      "status": "Status",
+      "price": "Price",
+      "nextDue": "Next Due",
+      "actions": "Actions",
+      "manage": "Manage",
+      "viewDetails": "View Details",
+      "renew": "Renew",
+      "noDomain": "No domain"
+    },
+    "status": {
+      "active": "Active",
+      "pending": "Pending",
+      "suspended": "Suspended",
+      "terminated": "Terminated",
+      "cancelled": "Cancelled",
+      "fraud": "Fraud"
+    },
+    "billingCycleOptions": {
+      "monthly": "Monthly (1 month)",
+      "quarterly": "Quarterly (3 months)",
+      "semiannually": "Semi-Annually (6 months)",
+      "annually": "Annually (1 year)",
+      "biennially": "Biennially (2 years)",
+      "triennially": "Triennially (3 years)"
+    },
+    "empty": "No services found. Get started by ordering a hosting plan!"
+  },
+  "domains": {
+    "title": "My Domains",
+    "subtitle": "Manage your domain names and DNS settings.",
+    "loginRequired": "Please log in to view domains.",
+    "stats": {
+      "totalDomains": "Total Domains",
+      "totalDomainsDesc": "All registered domains",
+      "activeDomains": "Active Domains",
+      "activeDomainsDesc": "Currently active domains",
+      "expiringDomains": "Expiring Soon",
+      "expiringDomainsDesc": "Domains expiring within 7 days",
+      "pendingTransfers": "Pending Transfers",
+      "autoRenewDesc": "Domains with auto-renewal enabled"
+    },
+    "table": {
+      "title": "My Domains",
+      "description": "View expiration dates, renewal settings, and manage DNS configurations.",
+      "showingResults": "Showing {start}-{end} of {total} domains",
+      "allAutoRenew": "All Auto-Renew",
+      "autoRenewEnabled": "Auto-Renew Enabled",
+      "autoRenewDisabled": "Auto-Renew Disabled",
+      "registerDomain": "Register Domain",
+      "domain": "Domain Name",
+      "registrationDate": "Registration Date",
+      "expiryDate": "Expiry Date",
+      "status": "Status",
+      "allStatus": "All Status",
+      "searchPlaceholder": "Search domains or registrars...",
+      "autoRenew": "Auto Renew",
+      "actions": "Actions",
+      "manage": "Manage DNS",
+      "renew": "Renew",
+      "transfer": "Transfer"
+    },
+    "details": {
+      "eppCode": "EPP Code (Authorization Code)",
+      "eppCodeDesc": "Required for transferring your domain to another registrar",
+      "eppCodePlaceholder": "Enter EPP code if required",
+      "eppCodeHelp": "Some registrars require an EPP code to transfer the domain. Leave blank if not required.",
+      "lockStatus": "Domain Lock Status",
+      "lockStatusDesc": "Check if your domain is locked (prevents unauthorized transfers)",
+      "locked": "Locked",
+      "unlocked": "Unlocked",
+      "dnsManagement": "DNS Management",
+      "dnsManagementDesc": "Enable or disable DNS management for this domain",
+      "dnsManagementStatus": "DNS Management Status",
+      "dnsManagementEnabled": "DNS management is currently enabled",
+      "dnsManagementDisabled": "DNS management is currently disabled",
+      "enableDNSManagement": "Enable DNS Management",
+      "disableDNSManagement": "Disable DNS Management",
+      "nameservers": "Nameservers",
+      "nameserversDesc": "Update the nameservers for your domain",
+      "nameserverPlaceholder": "Nameserver {number} (e.g., ns1.example.com)",
+      "currentNameservers": "Current Nameservers",
+      "updateNameservers": "Update Nameservers",
+      "updatingNameservers": "Updating Nameservers...",
+      "dnsRecords": "DNS Records",
+      "dnsRecordsDesc": "DNS records management coming soon",
+      "newRegistrarTag": "New Registrar Tag",
+      "registrarTagPlaceholder": "Enter new registrar tag"
+    },
+    "status": {
+      "active": "Active",
+      "expired": "Expired",
+      "pending": "Pending",
+      "pendingtransfer": "Pending Transfer",
+      "transferring": "Transferring",
+      "cancelled": "Cancelled",
+      "fraud": "Fraud"
+    },
+    "empty": "No domains found. Register your first domain today!",
+    "error": {
+      "loginRequired": "Please log in to view domains."
+    }
+  },
+  "billing": {
+    "title": "Billing & Invoices",
+    "subtitle": "View and manage your invoices and payment history.",
+    "loginRequired": "Please log in to view billing.",
+    "stats": {
+      "totalInvoices": "Total Invoices",
+      "totalInvoicesDesc": "All invoices in your account",
+      "unpaidInvoices": "Unpaid Invoices",
+      "unpaidInvoicesDesc": "Invoices awaiting payment",
+      "paidInvoicesDesc": "Successfully paid invoices",
+      "paidThisMonth": "Paid This Month",
+      "totalSpent": "Total Spent",
+      "amountDueDesc": "Total outstanding amount"
+    },
+    "table": {
+      "invoiceNumber": "Invoice #",
+      "invoiceId": "Invoice #",
+      "invoiceHistory": "Invoice History",
+      "invoiceHistoryDesc": "Download past invoices and pay outstanding balances.",
+      "payAllUnpaid": "Pay All Unpaid",
+      "searchPlaceholder": "Search by invoice number or amount...",
+      "showingResults": "Showing {start}-{end} of {total} invoices",
+      "date": "Date",
+      "dueDate": "Due Date",
+      "amount": "Amount",
+      "status": "Status",
+      "allStatus": "All Status",
+      "actions": "Actions",
+      "view": "View",
+      "pay": "Pay Now",
+      "download": "Download PDF"
+    },
+    "status": {
+      "paid": "Paid",
+      "unpaid": "Unpaid",
+      "overdue": "Overdue",
+      "cancelled": "Cancelled",
+      "refunded": "Refunded",
+      "collections": "Collections"
+    },
+    "empty": "No invoices found.",
+    "error": {
+      "loginRequired": "Please log in to view billing."
+    }
+  },
+  "support": {
+    "title": "Support Center",
+    "subtitle": "Get help with your services or contact our support team.",
+    "loginRequired": "Please log in to view support tickets.",
+    "stats": {
+      "totalTickets": "Total Tickets",
+      "totalTicketsDesc": "All support tickets",
+      "openTickets": "Open Tickets",
+      "openTicketsDesc": "Tickets awaiting response",
+      "awaitingReply": "Awaiting Reply",
+      "answeredTicketsDesc": "Tickets with staff replies",
+      "resolvedTickets": "Resolved",
+      "closedTicketsDesc": "Resolved and closed tickets"
+    },
+    "newTicket": "New Ticket",
+    "table": {
+      "ticketId": "Ticket #",
+      "title": "Support Tickets",
+      "description": "Track the status of your support requests and view responses.",
+      "searchPlaceholder": "Search by ticket #, subject, or department...",
+      "showingResults": "Showing {start} to {end} of {total} tickets",
+      "subject": "Subject",
+      "department": "Department",
+      "status": "Status",
+      "allStatuses": "All Statuses",
+      "allDepartments": "All Departments",
+      "lastUpdate": "Last Update",
+      "lastReply": "Last Update",
+      "actions": "Actions",
+      "view": "View",
+      "reply": "Reply",
+      "close": "Close",
+      "priority": "Priority"
+    },
+    "status": {
+      "open": "Open",
+      "answered": "Answered",
+      "customerreply": "Customer Reply",
+      "customer-reply": "Customer Reply",
+      "onhold": "On Hold",
+      "on hold": "On Hold",
+      "inprogress": "In Progress",
+      "in progress": "In Progress",
+      "closed": "Closed"
+    },
+    "priority": {
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High",
+      "urgent": "Urgent"
+    },
+    "empty": "No support tickets found. Need help? Open a new ticket!",
+    "error": {
+      "loginRequired": "Please log in to view support tickets."
+    },
+    "form": {
+      "department": "Department",
+      "subject": "Subject",
+      "created": "Created",
+      "selectDepartment": "Select a department",
+      "subjectPlaceholder": "Brief description of your issue",
+      "message": "Message",
+      "messagePlaceholder": "Describe your issue in detail...",
+      "yourReply": "Your Reply",
+      "replyPlaceholder": "Type your reply here...",
+      "createTicket": "Create Ticket",
+      "creating": "Creating...",
+      "createTicketDesc": "Create a new support ticket. Our team will respond as soon as possible."
+    }
+  },
+  "domainRegister": {
+    "title": "Register New Domain",
+    "subtitle": "Search and register your perfect domain name",
+    "search": {
+      "title": "Search Domain",
+      "description": "Enter a domain name to check availability and pricing",
+      "placeholder": "Enter domain name (e.g., example.com)",
+      "button": "Search",
+      "searching": "Searching..."
+    },
+    "results": {
+      "title": "Search Results",
+      "found": "Found {count} domain{count, plural, =1 {} other {s}}",
+      "resultsFor": "Results for",
+      "clearSearch": "Clear search",
+      "suggestionsHeading": "Suggestions",
+      "noResults": "No results found",
+      "tryDifferent": "No domains found. Try a different search term.",
+      "available": "Available for registration",
+      "registered": "Already registered",
+      "unavailable": "Unavailable",
+      "perYear": "per year",
+      "allTakenTitle": "All suggested domains are taken",
+      "allTakenDesc": "Try another name or tweak the spelling to find an available option."
+    },
+    "cart": {
+      "added": "{domain} added to cart!",
+      "inCart": "In Cart",
+      "addToCart": "Add to Cart",
+      "year": "year",
+      "years": "years"
+    },
+    "error": {
+      "emptyDomain": "Please enter a domain name",
+      "invalid": "Please enter a valid domain name",
+      "failed": "Failed to check domain availability"
+    }
+  },
+  "account": {
+    "title": "Account Information",
+    "subtitle": "View and manage your account details",
+    "personalInfo": "Personal Information",
+    "fields": {
+      "fullName": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "company": "Company Name",
+      "status": "Account Status",
+      "address": "Address"
+    },
+    "error": {
+      "loadFailed": "Failed to load account information"
+    }
+  },
+  "security": {
+    "title": "Security Settings",
+    "subtitle": "Manage your password and security preferences",
+    "password": {
+      "title": "Change Password",
+      "description": "Update your account password. Make sure to use a strong password.",
+      "current": "Current Password",
+      "currentPlaceholder": "Enter your current password",
+      "new": "New Password",
+      "newPlaceholder": "Enter your new password (min. 8 characters)",
+      "confirm": "Confirm New Password",
+      "confirmPlaceholder": "Confirm your new password",
+      "update": "Update Password",
+      "updating": "Updating...",
+      "success": "Password changed successfully"
+    },
+    "twoFactor": {
+      "title": "Two-Factor Authentication (2FA)",
+      "description": "Add an extra layer of security to your account",
+      "loading": "Loading 2FA status...",
+      "label": "Two-Factor Authentication",
+      "enabled": "2FA is currently enabled on your account",
+      "disabled": "2FA is currently disabled",
+      "statusEnabled": "Enabled",
+      "statusDisabled": "Disabled",
+      "note": "Note",
+      "noteText": "Two-factor authentication management requires custom WHMCS API implementation. If 2FA is available in your WHMCS installation, please contact support to enable or disable it."
+    }
+  },
+  "paymentMethods": {
+    "title": "Payment Methods",
+    "subtitle": "Manage your saved payment methods for quick and secure payments.",
+    "addCard": "Add Card",
+    "expires": "Expires {date}",
+    "default": "Default",
+    "setDefault": "Set as default",
+    "deleteCard": "Delete card",
+    "setDefaultSuccess": "Default card updated successfully",
+    "setDefaultFailed": "Failed to set default card",
+    "deleteSuccess": "Payment method deleted successfully",
+    "deleteFailed": "Failed to delete payment method",
+    "savedCards": "Saved cards",
+    "secureStorage": "Your cards are secure",
+    "secureStorageDesc": "Card details are stored securely by Stripe. We never store your full card number or CVV on our servers.",
+    "empty": {
+      "title": "No Payment Methods",
+      "description": "You haven't added any payment methods yet. Add a card to make payments easier.",
+      "addFirst": "Add Your First Card"
+    },
+    "error": {
+      "loginRequired": "Please log in to view payment methods."
+    },
+    "payment": {
+      "selectMethod": "Select payment method",
+      "useSavedCard": "Use saved card",
+      "useNewCard": "Pay with new card",
+      "enterNewCard": "Enter new card details",
+      "payWith": "Pay {amount} {currency}",
+      "payNow": "Pay now",
+      "saveForFuture": "Save card for next time",
+      "redirectNotice": "You'll be redirected to Stripe's secure checkout to complete the payment using your saved card. 3D Secure verification may be required.",
+      "havingIssues": "Having issues?",
+      "openCheckout": "Open checkout in new tab"
+    }
+  },
+  "emails": {
+    "title": "Email Accounts",
+    "subtitle": "Manage your email accounts, forwarding, and aliases powered by Titan Mail.",
+    "loginRequired": "Please log in to view email accounts.",
+    "stats": {
+      "totalAccounts": "Total Accounts",
+      "totalAccountsDesc": "All email accounts",
+      "activeAccounts": "Active Accounts",
+      "activeAccountsDesc": "Currently active email accounts",
+      "totalStorage": "Total Storage",
+      "totalStorageDesc": "Combined storage used",
+      "storageUsed": "Storage Used",
+      "storageUsedDesc": "Total storage in use"
+    },
+    "table": {
+      "title": "Email Accounts",
+      "description": "Manage your email accounts, set up forwarding, and configure aliases.",
+      "emailAddress": "Email Address",
+      "domain": "Domain",
+      "storage": "Storage",
+      "quota": "Quota",
+      "status": "Status",
+      "created": "Created",
+      "actions": "Actions",
+      "manage": "Manage",
+      "changePassword": "Change Password",
+      "delete": "Delete",
+      "webmail": "Open Webmail",
+      "forwarding": "Forwarding",
+      "aliases": "Aliases",
+      "searchPlaceholder": "Search email accounts...",
+      "showingResults": "Showing {start}-{end} of {total} accounts",
+      "allStatus": "All Status",
+      "noAccounts": "No Email Accounts",
+      "noAccountsDesc": "You don't have any email accounts yet. Create your first email account to get started.",
+      "createFirst": "Create Email Account"
+    },
+    "create": {
+      "title": "Create Email Account",
+      "description": "Create a new email account for your domain.",
+      "emailAddress": "Email Address",
+      "emailPlaceholder": "username",
+      "domain": "Domain",
+      "selectDomain": "Select a domain",
+      "domainOption": "Domain Option",
+      "useExistingDomain": "Use Existing Domain",
+      "registerNewDomain": "Register New Domain",
+      "existingDomain": "Existing Domain",
+      "newDomain": "New Domain",
+      "domainToRegister": "Domain to Register",
+      "domainPlaceholder": "example.com",
+      "searchDomain": "Search Domain",
+      "searching": "Searching...",
+      "domainAvailable": "Available",
+      "domainUnavailable": "Not Available",
+      "registerDomainFirst": "Register this domain first to create an email account",
+      "password": "Password",
+      "passwordPlaceholder": "Enter password (min. 8 characters)",
+      "confirmPassword": "Confirm Password",
+      "confirmPasswordPlaceholder": "Confirm password",
+      "quota": "Storage Quota (MB)",
+      "quotaPlaceholder": "e.g., 1000 (leave empty for unlimited)",
+      "quotaDescription": "Maximum storage space for this email account",
+      "create": "Create Account",
+      "creating": "Creating...",
+      "success": "Email account created successfully",
+      "error": "Failed to create email account",
+      "noDomains": "No domains available. Please register a domain first.",
+      "domainRequired": "Please select or register a domain",
+      "purchaseDomain": "Purchase Domain",
+      "purchasingDomain": "Purchasing Domain...",
+      "domainPurchased": "Domain purchased successfully!",
+      "domainPurchasedDesc": "You can now create your email account below.",
+      "purchaseAndCreate": "Purchase & Create Account",
+      "purchasingAndCreating": "Purchasing & Creating...",
+      "registrationPeriod": "Registration Period",
+      "selectPeriod": "Select registration period and purchase this domain to continue",
+      "year": "Year",
+      "years": "Years",
+      "icannFee": "ICANN Fee",
+      "total": "Total",
+      "advanced": "Advanced Options",
+      "showAdvanced": "Show Advanced Options",
+      "hideAdvanced": "Hide Advanced Options",
+      "advancedSettings": "Advanced Settings",
+      "mailboxSettings": "Mailbox Settings",
+      "securitySettings": "Security Settings",
+      "forwardingSettings": "Forwarding Settings",
+      "filteringSettings": "Email Filtering",
+      "autoResponder": "Auto-Responder (Vacation Message)",
+      "enableAutoResponder": "Enable Auto-Responder",
+      "autoResponderSubject": "Subject",
+      "autoResponderMessage": "Message",
+      "autoResponderSubjectPlaceholder": "Out of Office",
+      "autoResponderMessagePlaceholder": "I am currently out of the office and will respond when I return.",
+      "spamFilter": "Spam Filter",
+      "enableSpamFilter": "Enable Spam Filter",
+      "spamFilterLevel": "Spam Filter Level",
+      "spamFilterLow": "Low",
+      "spamFilterMedium": "Medium",
+      "spamFilterHigh": "High",
+      "spamFilterCustom": "Custom",
+      "antivirus": "Antivirus Protection",
+      "enableAntivirus": "Enable Antivirus",
+      "catchAll": "Catch-All Email",
+      "enableCatchAll": "Enable Catch-All",
+      "catchAllDescription": "Receive all emails sent to non-existent addresses on this domain",
+      "catchAllAddress": "Catch-All Address",
+      "catchAllAddressPlaceholder": "catchall@domain.com",
+      "diskSpaceAlerts": "Disk Space Alerts",
+      "enableDiskAlerts": "Enable Disk Space Alerts",
+      "alertThreshold": "Alert Threshold (%)",
+      "alertThresholdPlaceholder": "80",
+      "alertThresholdDescription": "Receive alert when mailbox reaches this percentage",
+      "emailClient": "Email Client Configuration",
+      "imapEnabled": "Enable IMAP",
+      "pop3Enabled": "Enable POP3",
+      "smtpEnabled": "Enable SMTP",
+      "webmailAccess": "Webmail Access",
+      "enableWebmail": "Enable Webmail Access",
+      "emailArchiving": "Email Archiving",
+      "enableArchiving": "Enable Email Archiving",
+      "archivingDescription": "Automatically archive all incoming and outgoing emails",
+      "greylisting": "Greylisting",
+      "enableGreylisting": "Enable Greylisting",
+      "greylistingDescription": "Temporarily reject emails from unknown senders to reduce spam",
+      "emailFilters": "Email Filters",
+      "addFilter": "Add Filter",
+      "filterName": "Filter Name",
+      "filterNamePlaceholder": "e.g., Move newsletters to folder",
+      "filterCondition": "Condition",
+      "filterAction": "Action",
+      "filterFrom": "From",
+      "filterSubject": "Subject",
+      "filterContains": "Contains",
+      "filterMoveTo": "Move to Folder",
+      "filterDelete": "Delete",
+      "filterForward": "Forward to",
+      "filterMarkAsRead": "Mark as Read",
+      "passwordStrength": "Password Requirements",
+      "requireStrongPassword": "Require Strong Password",
+      "minPasswordLength": "Minimum Password Length",
+      "requireUppercase": "Require Uppercase Letter",
+      "requireLowercase": "Require Lowercase Letter",
+      "requireNumber": "Require Number",
+      "requireSpecialChar": "Require Special Character",
+      "multipleForwarding": "Multiple Forwarding Addresses",
+      "addForwardAddress": "Add Forward Address",
+      "forwardAddress": "Forward Address",
+      "forwardAddressPlaceholder": "email@example.com"
+    },
+    "delete": {
+      "title": "Delete Email Account",
+      "description": "Are you sure you want to delete this email account? This action cannot be undone.",
+      "confirm": "Delete Account",
+      "deleting": "Deleting...",
+      "cancel": "Cancel",
+      "success": "Email account deleted successfully",
+      "error": "Failed to delete email account"
+    },
+    "password": {
+      "title": "Change Password",
+      "description": "Update the password for this email account.",
+      "currentPassword": "Current Password",
+      "currentPasswordPlaceholder": "Enter current password",
+      "newPassword": "New Password",
+      "newPasswordPlaceholder": "Enter new password (min. 8 characters)",
+      "confirmPassword": "Confirm New Password",
+      "confirmPasswordPlaceholder": "Confirm new password",
+      "update": "Update Password",
+      "updating": "Updating...",
+      "success": "Password updated successfully",
+      "error": "Failed to update password"
+    },
+    "forwarding": {
+      "title": "Email Forwarding",
+      "description": "Forward emails from this account to another email address.",
+      "forwardTo": "Forward To",
+      "forwardToPlaceholder": "recipient@example.com",
+      "keepCopy": "Keep a copy in this inbox",
+      "save": "Save Forwarding",
+      "saving": "Saving...",
+      "remove": "Remove Forwarding",
+      "removing": "Removing...",
+      "success": "Forwarding updated successfully",
+      "error": "Failed to update forwarding"
+    },
+    "aliases": {
+      "title": "Email Aliases",
+      "description": "Create email aliases that forward to this account.",
+      "alias": "Alias",
+      "aliasPlaceholder": "alias@domain.com",
+      "addAlias": "Add Alias",
+      "adding": "Adding...",
+      "remove": "Remove",
+      "removing": "Removing...",
+      "noAliases": "No aliases configured",
+      "success": "Alias added successfully",
+      "error": "Failed to add alias",
+      "removeSuccess": "Alias removed successfully",
+      "removeError": "Failed to remove alias"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended",
+      "pending": "Pending",
+      "disabled": "Disabled"
+    },
+    "empty": {
+      "title": "No Email Accounts",
+      "description": "You don't have any email accounts yet. Create your first email account to get started.",
+      "createFirst": "Create Email Account"
+    },
+    "error": {
+      "loginRequired": "Please log in to view email accounts."
+    }
+  },
+  "domainTransfer": {
+    "title": "Transfer Domain",
+    "subtitle": "Transfer your domain to WebblyHosting and enjoy better service, lower prices, and a free year extension",
+    "search": {
+      "title": "Check Transfer Eligibility",
+      "description": "Enter your domain name to check if it can be transferred to WebblyHosting",
+      "placeholder": "Enter domain name (e.g., example.com)",
+      "button": "Check Transfer",
+      "searching": "Checking..."
+    },
+    "result": {
+      "eligible": "This domain is eligible for transfer!",
+      "notEligible": "This domain cannot be transferred",
+      "available": "This domain is available for registration, not transfer",
+      "transferPrice": "Transfer Price",
+      "perYear": "/year",
+      "checkAgain": "Check Again",
+      "defaultRegistrar": "Unknown Registrar"
+    },
+    "epp": {
+      "label": "EPP / Authorization Code",
+      "placeholder": "Enter your EPP authorization code",
+      "help": "Get this code from your current domain registrar",
+      "required": "EPP authorization code is required",
+      "invalid": "EPP code must be 4-255 characters (visible ASCII only)"
+    },
+    "addons": {
+      "title": "Domain Add-ons",
+      "dnsManagement": "DNS Management",
+      "emailForwarding": "Email Forwarding",
+      "idProtection": "ID Protection"
+    },
+    "order": {
+      "summary": "Order Summary",
+      "domain": "Domain Transfer",
+      "period": "Period",
+      "oneYear": "1 Year",
+      "total": "Total",
+      "button": "Complete Transfer",
+      "processing": "Processing your transfer...",
+      "success": "Transfer order created successfully!",
+      "error": "Failed to create transfer order"
+    },
+    "features": {
+      "freeYear": "Free 1-Year Extension",
+      "whoisPrivacy": "WHOIS Privacy",
+      "dnsManagement": "Easy DNS Management",
+      "support": "24/7 Expert Support"
+    },
+    "unlockModal": {
+      "title": "How to Unlock Your Domain",
+      "registrars": "Popular Registrar Guides",
+      "needHelpDesc": "Contact your current domain provider's support team for assistance with unlocking your domain and obtaining the EPP code.",
+      "step1": "Log in to your current registrar",
+      "step2": "Find domain lock/registrar lock settings",
+      "step3": "Disable the domain lock",
+      "step4": "Get your EPP authorization code",
+      "step5": "Come back and complete the transfer"
+    },
+    "error": {
+      "empty": "Please enter a domain name",
+      "invalid": "Please enter a valid domain name",
+      "failed": "Failed to check transfer eligibility"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "noResults": "No results found",
+    "showMore": "Show more",
+    "showLess": "Show less"
+  }
+}

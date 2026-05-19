@@ -1,0 +1,140 @@
+# =============================================================================
+# WebblyHost - Docker Compose for Dokploy Deployment
+# =============================================================================
+# This file is for local development and Dokploy deployment reference
+# In Dokploy, you can use this as a template or deploy with Dockerfile directly
+# =============================================================================
+
+services:
+  webblyhost:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        - NEXT_PUBLIC_TINA_CLIENT_ID=${NEXT_PUBLIC_TINA_CLIENT_ID}
+        - NEXT_PUBLIC_SHARED_HOSTING_GID=${NEXT_PUBLIC_SHARED_HOSTING_GID}
+        - NEXT_PUBLIC_WORDPRESS_HOSTING_GID=${NEXT_PUBLIC_WORDPRESS_HOSTING_GID}
+        - NEXT_PUBLIC_VPS_HOSTING_GID=${NEXT_PUBLIC_VPS_HOSTING_GID}
+        - NEXT_PUBLIC_ECOMMERCE_HOSTING_GID=${NEXT_PUBLIC_ECOMMERCE_HOSTING_GID}
+        - NEXT_PUBLIC_EMAIL_SERVICE_GID=${NEXT_PUBLIC_EMAIL_SERVICE_GID}
+        - NEXT_PUBLIC_WHMCS_URL=${NEXT_PUBLIC_WHMCS_URL}
+        - NEXT_PUBLIC_REVOLUT_PUBLIC_KEY=${NEXT_PUBLIC_REVOLUT_PUBLIC_KEY}
+        - NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=${NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY}
+        - NEXT_PUBLIC_APP_URL=${NEXT_PUBLIC_APP_URL}
+        - NEXT_PUBLIC_MARKETGO=${NEXT_PUBLIC_MARKETGO}
+        - NEXT_PUBLIC_NORDVPN=${NEXT_PUBLIC_NORDVPN}
+        - NEXT_PUBLIC_SSL=${NEXT_PUBLIC_SSL}
+        - NEXT_PUBLIC_WEBBUILDER=${NEXT_PUBLIC_WEBBUILDER}
+        - TINA_TOKEN=${TINA_TOKEN}
+    image: webblyhost:latest
+    container_name: webblyhost-app
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      # Runtime Environment
+      - NODE_ENV=production
+      - PORT=3000
+      - HOSTNAME=0.0.0.0
+      
+      # Database - MongoDB
+      - DATABASE_URL=${DATABASE_URL}
+      - DATABASE_URL_FALLBACK=${DATABASE_URL_FALLBACK:-}
+      
+      # Authentication
+      - JWT_SECRET=${JWT_SECRET}
+      
+      # WHMCS API Configuration
+      - API_ENDPOINT=${API_ENDPOINT}
+      - API_IDENTIFIER=${API_IDENTIFIER}
+      - API_SECRET=${API_SECRET}
+      
+      # Plesk Server API
+      - PLESK_API_URL=${PLESK_API_URL}
+      - PLESK_API_KEY=${PLESK_API_KEY}
+      
+      # Revolut Payment Gateway
+      - REVOLUT_SECRET_KEY=${REVOLUT_SECRET_KEY}
+      - REVOLUT_SANDBOX=${REVOLUT_SANDBOX:-false}
+      - REVOLUT_API_VERSION=${REVOLUT_API_VERSION:-2024-05-01}
+      
+      # Stripe Payment Gateway
+      - STRIPE_SECRET_KEY=${STRIPE_SECRET_KEY}
+      - STRIPE_WEBHOOK_SECRET=${STRIPE_WEBHOOK_SECRET:-}
+      - STRIPE_API_VERSION=${STRIPE_API_VERSION:-2024-06-20}
+      - NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=${NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY}
+      
+      # QBoxMail Email Service
+      - QBOXMAIL_API_URL=${QBOXMAIL_API_URL:-https://api.qboxmail.com/api}
+      - QBOXMAIL_API_TOKEN=${QBOXMAIL_API_TOKEN}
+      
+      # Resend Transactional Emails
+      - RESEND_API_KEY=${RESEND_API_KEY}
+      
+      # TinaCMS Configuration
+      - NEXT_PUBLIC_TINA_CLIENT_ID=${NEXT_PUBLIC_TINA_CLIENT_ID}
+      - TINA_TOKEN=${TINA_TOKEN}
+      - GITHUB_BRANCH=${GITHUB_BRANCH:-main}
+      
+      # MongoDB Direct Connection (Development)
+      - MONGODB_DIRECT_CONNECTION=${MONGODB_DIRECT_CONNECTION:-false}
+      
+      # Spaceship Domain API
+      - SPACESHIP_API_KEY=${SPACESHIP_API_KEY:-}
+      - SPACESHIP_API_SECRET=${SPACESHIP_API_SECRET:-}
+      
+      # R2 Storage (Optional)
+      - R2_ACCOUNT_ID=${R2_ACCOUNT_ID:-}
+      - R2_ACCESS_KEY_ID=${R2_ACCESS_KEY_ID:-}
+      - R2_SECRET_ACCESS_KEY=${R2_SECRET_ACCESS_KEY:-}
+      - R2_BUCKET_NAME=${R2_BUCKET_NAME:-}
+
+      # Discord OAuth (REQUIRED - must be set in Dokploy env vars panel)
+      - DISCORD_CLIENT_ID=${DISCORD_CLIENT_ID}
+      - DISCORD_CLIENT_SECRET=${DISCORD_CLIENT_SECRET}
+      - DISCORD_GUILD_ID=${DISCORD_GUILD_ID}
+      - WEBHOOK_SECRET=${WEBHOOK_SECRET}
+      - BOT_WEBHOOK_URL=${BOT_WEBHOOK_URL:-http://209.112.89.142:3011}
+      - NEXT_PUBLIC_APP_URL=${NEXT_PUBLIC_APP_URL}
+      
+    # Health check configuration
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    
+    # Resource limits (adjust based on your server)
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 2G
+        reservations:
+          cpus: '0.5'
+          memory: 512M
+    
+    # Logging configuration
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+# Optional: Add additional services like MongoDB if needed
+# services:
+#   mongodb:
+#     image: mongo:7
+#     container_name: webblyhost-mongodb
+#     restart: unless-stopped
+#     volumes:
+#       - mongodb_data:/data/db
+#     environment:
+#       - MONGO_INITDB_ROOT_USERNAME=admin
+#       - MONGO_INITDB_ROOT_PASSWORD=password
+#     ports:
+#       - "27017:27017"
+
+# volumes:
+#   mongodb_data:

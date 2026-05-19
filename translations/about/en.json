@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "title": "About WebblyHosting",
+    "subtitle": "We're on a mission to make premium web hosting accessible to everyone. Fast servers, reliable uptime, and support that actually helps."
+  },
+  "sections": {
+    "items": [
+      {
+        "heading": "Enterprise-Grade Infrastructure Built for Speed",
+        "description": "Our data centers feature the latest NVMe SSD storage, high-frequency processors, and redundant network connections. Every server is optimized for maximum performance, ensuring your website loads in milliseconds. With strategically located servers across multiple continents, we deliver content to your visitors faster than ever before.",
+        "image": "/datacenter.jpg"
+      },
+      {
+        "heading": "24/7 Expert Support That Actually Understands Hosting",
+        "description": "Our support team isn't just reading from scripts—they're experienced hosting professionals who understand the technology inside and out. Whether you're migrating a complex WordPress site or troubleshooting a configuration issue, we're here to help. Average response time: under 5 minutes.",
+        "image": "/images/about/support-team.png"
+      },
+      {
+        "heading": "Security-First Approach to Protect Your Business",
+        "description": "Every hosting account includes free SSL certificates, automated daily backups, DDoS protection, and real-time malware scanning. Our security infrastructure runs 24/7, monitoring for threats and automatically blocking attacks before they reach your site. Your data and your visitors are protected at all times.",
+        "image": "/images/about/security.png"
+      }
+    ]
+  },
+  "pricingPhilosophy": {
+    "tagline": "We Don't Sell Temporary Discounts",
+    "heading": "We Provide Stability, Clarity, And Peace of Mind",
+    "p1": "WebblyHosting was founded with a simple idea: hosting prices should be honest and predictable. We believe in long-term relationships with our customers.",
+    "p2": "Instead of offering temporary discounts that later increase, we use a <bold>Sustainable Integrity Pricing model</bold>. Our customers pay one fair price that remains consistent year after year.",
+    "p3": "We also simplify your entire digital presence by bringing everything under one roof — domain, hosting, and professional email — with one provider and one point of contact.",
+    "p4": "This approach helps businesses:",
+    "bullets": [
+      "Avoid unexpected renewal price hikes",
+      "Simplify administration",
+      "Maintain predictable budgeting",
+      "Scale without pricing surprises"
+    ],
+    "cta": "EXPLORE OUR PRICING PHILOSOPHY",
+    "ctaLink": "/price-philosophy"
+  },
+  "testimonials": {
+    "heading": "What Our Customers Say",
+    "subtitle": "Join thousands of satisfied customers",
+    "items": [
+      {
+        "quote": "Since switching to WebblyHosting, our site speed has doubled and we haven't experienced a single minute of downtime. The customer support is phenomenal.",
+        "name": "Sarah Jenkins",
+        "position": "CEO",
+        "company": "TechStart Inc",
+        "image": "/images/about/testimonial-1.png",
+        "rating": 5
+      },
+      {
+        "quote": "The migration process was seamless. Their team handled everything while I slept, and we woke up on a faster, more secure server. Absolutely worth it.",
+        "name": "David Chen",
+        "position": "E-commerce Director",
+        "company": "Global Retail",
+        "image": "/images/about/testimonial-2.png",
+        "rating": 5
+      },
+      {
+        "quote": "As an agency managing 50+ client sites, stability is crucial. WebblyHosting provides the performance we need and the tools that make our job easier.",
+        "name": "Elena Rodriguez",
+        "position": "Founder",
+        "company": "Creative Digital",
+        "image": "/images/about/testimonial-3.png",
+        "rating": 5
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Scale Up Your Website?",
+    "subheading": "Join thousands of businesses that trust WebblyHosting for their online presence. Get started today and experience the difference.",
+    "button": "Get Started Now",
+    "buttonLink": "/pricing"
+  },
+  "contact": {
+    "heading": "Need Help Choosing the Right Plan?",
+    "subheading": "Get expert advice",
+    "email": "Support@webblyhosting.com",
+    "phone": ""
+  }
+}

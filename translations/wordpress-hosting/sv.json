@@ -1,0 +1,364 @@
+{
+  "hero": {
+    "brandName": "Hanterad WordPress Hosting",
+    "mainTitle": "Blixtsnabb & Fullt Optimerad Webbhotell för WordPress",
+    "pricing": {
+      "from": "Från",
+      "price": "74.00 sek",
+      "unit": "/mån",
+      "offer": ""
+    },
+    "features": {
+      "domain": "WordPress-optimerade",
+      "hosting": "Automatiska uppdateringar & säkerhet",
+      "support": "Ett-klicks installation",
+      "reliability": "Snabb och enkel att hantera"
+    },
+    "cta": "Se Planer & Priser",
+    "ctaLink": "#pricing",
+    "guarantee": "30 dagars pengarna-tillbaka-garanti"
+  },
+  "stats": {
+    "clients": {
+      "number": "2021",
+      "suffix": "  ",
+      "label": "Grundad"
+    },
+    "countries": {
+      "number": "99",
+      "suffix": ".9%",
+      "label": "Drifttid"
+    },
+    "experience": {
+      "number": "24",
+      "suffix": "/7",
+      "label": "Support"
+    },
+    "websites": {
+      "number": "30",
+      "suffix": "  ",
+      "label": "Dagar Pengarna Tillbaka Garanti"
+    }
+  },
+  "pricing": {
+    "heading": "Välj det WordPress-paket som passar ditt varumärke",
+    "subheading": "Flexibla lösningar designade för att växa i takt med din webbplats.",
+    "mostPopular": "Mest Populär",
+    "cta": "Kom Igång",
+    "firstYear": "Faktureras årligen",
+    "standardRate": "Standardpris",
+    "billedAnnually": "Samma pris år efter år – inga överraskningar",
+    "from": "",
+    "youSave": "Du sparar",
+    "orderLinkBase": "/order/hosting?plan=",
+    "plans": [
+      {
+        "name": "WP Starter",
+        "description": "Perfekt för personliga bloggar och att komma igång med WordPress.",
+        "price": "$2.99",
+        "unit": "/mån",
+        "yearly": "$35 årligen",
+        "orLabel": "eller",
+        "features": [
+          "1 WordPress-webbplats",
+          "10 GB NVMe-lagring",
+          "Gratis SSL-certifikat",
+          "Auto WordPress-uppdateringar"
+        ]
+      },
+      {
+        "name": "WP Business",
+        "description": "Idealisk för växande företag med flera WordPress-sajter.",
+        "price": "$5.99",
+        "unit": "/mån",
+        "yearly": "$59 årligen",
+        "orLabel": "eller",
+        "highlight": true,
+        "features": [
+          "Obegränsade WordPress-sajter",
+          "50 GB NVMe-lagring",
+          "Gratis SSL-certifikat",
+          "Staging-miljö"
+        ]
+      },
+      {
+        "name": "WP Pro",
+        "description": "WordPress-hosting i företagsklass för byråer och sajter med hög trafik.",
+        "price": "$11.99",
+        "unit": "/mån",
+        "yearly": "$119 årligen",
+        "orLabel": "eller",
+        "features": [
+          "Obegränsade WordPress-sajter",
+          "Obegränsad NVMe-lagring",
+          "Gratis SSL-certifikat",
+          "Prioriterad WordPress-support"
+        ]
+      }
+    ]
+  },
+  "features": {
+    "tagline": "Snabb, Säker och WordPress-Optimerad",
+    "heading": "Våra funktioner för WordPress-hosting",
+    "description": "WebblyHostings WordPress-hosting är byggd för hastighet, tillförlitlighet och enkelhet. Det är den perfekta lösningen för bloggare, företag och kreatörer som kräver snabbladdade webbplatser, kompromisslös säkerhet och smidig hantering. Du får WordPress-optimerade servrar, modern infrastruktur och expertsupport – allt samlat i ett enkelt paket.",
+    "tabs": {
+      "performance": "Prestanda & Hastighet",
+      "ease": "Enkel WordPress-hantering",
+      "security": "Säkerhet & Tillförlitlighet"
+    },
+    "content": {
+      "performance": [
+        {
+          "title": "WordPress-optimerade Servrar",
+          "description": "Servrar är specifikt anpassade för WordPress. Din sajt körs smidigt utan prestandaförluster."
+        },
+        {
+          "title": "NVMe SSD-lagring",
+          "description": "Ultrasnabb lagring säkerställer snabba sidladdningar, snabb filåtkomst och databasprestanda."
+        },
+        {
+          "title": "Inbyggd WordPress-caching",
+          "description": "Caching-verktyg förbättrar sajthastigheten och minskar serverbelastningen för en bättre besökarupplevelse."
+        },
+        {
+          "title": "Optimerad PHP & Databasstack",
+          "description": "Högpresterande PHP- och databaskonfigurationer gör att WordPress körs effektivt."
+        },
+        {
+          "title": "Snabbladdande Sidor",
+          "description": "Optimerade serverinställningar och caching levererar konsekvent snabba sidladdningar."
+        },
+        {
+          "title": "Trafikredo Prestanda",
+          "description": "Hanterar daglig trafik och toppar utan ansträngning. Perfekt för bloggar, företagssajter och innehållstunga WordPress-sajter."
+        }
+      ],
+      "ease": [
+        {
+          "title": "Ett-klicks WordPress-installation",
+          "description": "Installera WordPress direkt och börja bygga din sajt utan manuell installation."
+        },
+        {
+          "title": "Automatiska WordPress-uppdateringar",
+          "description": "Kärna, plugins och teman uppdateras automatiskt för säkerhet och stabilitet."
+        },
+        {
+          "title": "Enkel Kontrollpanel",
+          "description": "Hantera filer, databaser, domäner och WordPress-inställningar från en instrumentpanel."
+        },
+        {
+          "title": "Tema- & Plugin-stöd",
+          "description": "Installera och hantera alla WordPress-teman och plugins enkelt."
+        },
+        {
+          "title": "Staging-miljö",
+          "description": "Testa uppdateringar, ändringar och anpassningar säkert innan du går live."
+        },
+        {
+          "title": "Enkel Sajtmigrering",
+          "description": "Flytta din befintliga WordPress-sajt till WebblyHosting med minimal ansträngning."
+        }
+      ],
+      "security": [
+        {
+          "title": "Gratis SSL-certifikat",
+          "description": "Skydda din webbplats och besökare med HTTPS-kryptering utan extra kostnad."
+        },
+        {
+          "title": "Malware-skanning & Skydd",
+          "description": "Automatiska skanningar upptäcker och tar bort hot, håller din WordPress-sajt säker."
+        },
+        {
+          "title": "WordPress Brandväggsskydd",
+          "description": "Blockerar skadlig trafik och vanliga webbattacker innan de når din sajt."
+        },
+        {
+          "title": "Daglig Serverövervakning",
+          "description": "Servrar övervakas 24/7 för att säkerställa smidig och stabil drift."
+        },
+        {
+          "title": "Kontoisolering",
+          "description": "Varje WordPress-hostingkonto är isolerat för att förhindra att problem påverkar andra sajter."
+        },
+        {
+          "title": "Hög Drifttidsgaranti",
+          "description": "Byggt för tillförlitlighet så att din WordPress-sajt förblir online och tillgänglig hela tiden."
+        }
+      ]
+    }
+  },
+  "creationSteps": {
+    "tagline": "WordPress Hosting för Tillväxt",
+    "heading": "Lansera Din WordPress-sajt på Minuter",
+    "steps": [
+      {
+        "title": "Blixtsnabb Prestanda",
+        "description": "Upplev blixtsnabba laddningstider med WordPress-optimerade servrar, NVMe-lagring och inbyggd caching – speciellt utformat för att ge dina besökare en smidig upplevelse även vid hög trafik."
+      },
+      {
+        "title": "Säkerhet i företagsklass",
+        "description": "Håll din WordPress-sajt skyddad med gratis SSL-certifikat, automatisk malware-skanning, kraftfulla brandväggar och serverövervakning dygnet runt."
+      },
+      {
+        "title": "WordPress-support från experter",
+        "description": "Få hjälp av WordPress-utbildade tekniker precis när du behöver det. Vårt team finns här för att stötta dig med allt från den första installationen till avancerad optimering."
+      }
+    ]
+  },
+  "management": {
+    "tagline": "Fokusera på Innehåll. Vi Hanterar Hostingen",
+    "heading": "Problemfri WordPress-hantering",
+    "cards": {
+      "monitoring": {
+        "title": "Ett-klicks WordPress-uppdateringar",
+        "description": "Håll din WordPress-sajt uppdaterad på sekunder. Kärnuppdateringar är enkla och säkra, så din webbplats förblir säker och kompatibel utan manuell ansträngning."
+      },
+      "patch": {
+        "title": "Dagliga Webbplatssäkerhetskopior",
+        "description": "Din WordPress-data säkerhetskopieras automatiskt varje dag. Återställ inlägg, filer eller hela webbplatsen snabbt när det behövs."
+      },
+      "backups": {
+        "title": "Kontinuerlig Prestandaövervakning",
+        "description": "Vi övervakar din WordPress-sajt dygnet runt. Detta säkerställer smidig drift, stabil drifttid och konsekvent laddningshastighet."
+      },
+      "support": {
+        "title": "Hastighetsoptimering & Caching",
+        "description": "Inbyggd caching och prestandajustering hjälper WordPress-sidor att ladda snabbare. Njut av bättre hastighet utan extra konfiguration eller plugins."
+      }
+    }
+  },
+  "whyChoose": {
+    "heading": "Varför WebblyHosting",
+    "tagline": "WordPress Hosting Du Kan Lita På",
+    "tabs": {
+      "support": {
+        "title": "Kundsupport",
+        "description": "Våra WordPress-experter finns tillgängliga dygnet runt för att hjälpa dig i varje steg. Oavsett om det gäller installationer, uppdateringar, prestandaoptimering eller problem med tillägg (plugins), kan du räkna med snabb, personlig och kunnig support precis när du behöver det."
+      },
+      "privacy": {
+        "title": "Integritet & Säkerhet",
+        "description": "Din WordPress-webbplats skyddas av branschens mest avancerade säkerhetsåtgärder. Vi inkluderar alltid gratis SSL-certifikat, WordPress-anpassade brandväggar och automatisk malware-skanning. Med vår proaktiva övervakning dygnet runt kan du vara trygg med att både din sajt och dina besökares data alltid är i säkra händer."
+      },
+      "pricing": {
+        "title": "Prisvärd hosting utan dolda avgifter",
+        "description": "Få kraftfull WordPress-hosting till ett pris som passar din budget. Våra paket är transparenta, lätta att förstå och helt fria från dolda kostnader. På så sätt får du premiumprestanda och högsta säkerhet utan att betala mer än nödvändigt."
+      }
+    }
+  },
+  "useCases": {
+    "heading": "Toppa Användningsfall för WordPress Hosting",
+    "tagline": "Det perfekta valet för alla typer av WordPress-sajter",
+    "description": "Vår WordPress-hosting är skräddarsydd för ett brett spektrum av behov – från den personliga bloggen och kreativa portföljer till stora företagssajter och snabbväxande e-handelsbutiker.",
+    "cards": [
+      {
+        "title": "WordPress-bloggar",
+        "description": "Vår WordPress-hosting är idealisk för bloggare som prioriterar snabb prestanda och en smidig publiceringsprocess. Med WordPress-optimerade servrar, inbyggd caching och automatiska uppdateringar laddas dina inlägg blixtsnabbt samtidigt som din blogg förblir säker dygnet runt."
+      },
+      {
+        "title": "WordPress för företag",
+        "description": "Företag väljer vår WordPress-hosting för att garantera en professionell och pålitlig digital närvaro. Allt från företagspresentationer och tjänstesidor till kritiska kontaktformulär körs felfritt i våra optimerade miljöer, vilket säkerställer att ni aldrig missar en affärsmöjlighet."
+      },
+      {
+        "title": "WooCommerce-butiker",
+        "description": "Vår WordPress-hosting är optimerad för WooCommerce-butiker med allt från mindre sortiment till medelstora produktkataloger. Med högpresterande servrar, säkra anslutningar och en pålitlig drift säkerställer vi att din butik alltid är tillgänglig och att köpupplevelsen förblir snabb och smidig."
+      },
+      {
+        "title": "Kreatörer & influencers",
+        "description": "Innehållsskapare och influencers drar stor nytta av WordPress-hosting för sina bloggar, mediesidor och personliga varumärken. Blixtsnabba laddningstider och optimerad prestanda säkerställer att ditt innehåll når ut till din publik utan fördröjningar – oavsett hur mycket trafik dina sociala medier genererar."
+      },
+      {
+        "title": "Portföljsajter",
+        "description": "Vår WordPress-hosting är det självklara valet för Portföljsajter. Designers, utvecklare, fotografer och frilansare kan visa upp sina projekt med snygga teman och högupplösta gallerier – allt med en hastighet som gör att ditt arbete alltid ser professionellt ut."
+      },
+      {
+        "title": "Webbplatser för startups",
+        "description": "Startups väljer WordPress-hosting för att kunna lansera snabbt och skala upp enkelt. Allt från landningssidor och produktsidor till tidiga marknadsföringskampanjer körs felfritt på våra optimerade servrar – så att ni kan fokusera på att bygga er verksamhet medan vi sköter tekniken."
+      },
+      {
+        "title": "Utbildningssajter & e-lärande",
+        "description": "Utbildningsplattformar byggda på WordPress presterar optimalt med vår hosting. Kurssidor, tutorials och lärresurser laddas effektivt och förblir stabila för dina dagliga besökare, vilket skapar en smidig och störningsfri lärandemiljö."
+      },
+      {
+        "title": "Webbplatser för lokala företag",
+        "description": "Lokala företag väljer WordPress-hosting för att maximera synligheten för sina tjänstesidor, bokningsformulär och lokalt innehåll. Snabb prestanda och inbyggd säkerhet ser till att din hemsida alltid är responsiv och inger det förtroende som krävs för att förvandla besökare till kunder."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Vanliga Frågor om WordPress Hosting",
+    "questions": [
+      {
+        "question": "Vad är WordPress-hosting?",
+        "answer": "WordPress-hosting är en webbhotellslösning som är särskilt optimerad för WordPress-webbplatser. Den är byggd för att leverera bättre hastighet, säkerhet och stabilitet för just WordPress. Serverinställningar, caching och uppdateringar är finjusterade för att maximera prestandan i WordPress. Det är ett idealiskt val för bloggar, företagssajter och innehållsdrivna webbplatser som vill ha en smidig drift utan tekniskt krångel."
+      },
+      {
+        "question": "Vilka är fördelarna med WordPress Hosting?",
+        "answer": "<b>Optimerad prestanda</b><br/>WordPress-hosting använder servrar som är finjusterade specifikt för WordPress. Detta innebär snabbare laddningstider, bättre caching och en smidigare användarupplevelse.<br/><br/><b>Enkel hantering</b><br/>WebblyHosting hanterar kärnuppdateringar, serverunderhåll och prestandaoptimering åt dig, så att du kan fokusera på ditt innehåll.<br/><br/><b>Förbättrad säkerhet</b><br/>Du får säkerhetsfunktioner fokuserade på WordPress, såsom SSL-certifikat, brandväggar, malware-skanning och skydd mot vanliga WordPress-hot.<br/><br/><b>Högre tillförlitlighet</b><br/>Vår WordPress-hosting är byggd för att hantera både dagliga besökare och tillfälliga trafiktoppar utan problem.<br/><br/><b>Skalbar tillväxt</b><br/>I takt med att din WordPress-sajt växer kan du enkelt uppgradera ditt hostingpaket för att möta dina nya behov."
+      },
+      {
+        "question": "Vem bör använda WordPress Hosting?",
+        "answer": "WordPress-hosting är perfekt för alla som bygger eller driver en WordPress-webbplats. Det är det bästa valet för WordPress-bloggar, företagssajter, WooCommerce-butiker, innehållsskapare och influencers. Det passar även utmärkt för portföljwebbplatser, startups, utbildningssajter och lokala småföretag. Om din webbplats är byggd med WordPress och du vill ha bättre hastighet, högre säkerhet och en enklare användarupplevelse, är WordPress-hosting det rätta valet för dig."
+      },
+      {
+        "question": "Är WordPress-hosting nybörjarvänligt?",
+        "answer": "Ja, WordPress-hosting är mycket nybörjarvänligt. Du behöver inga tekniska förkunskaper för att komma igång. WebblyHosting hanterar serverkonfiguration, uppdateringar, säkerhetskopiering och säkerhet åt dig. Med ett-klicks-installation av WordPress, en enkel kontrollpanel och expertstöd genom managed hosting, kan nybörjare lansera och hantera sin webbplats med fullt självförtroende."
+      },
+      {
+        "question": "Hur väljer jag rätt WordPress-paket för mina behov?",
+        "answer": "För att välja rätt WordPress-hosting bör du överväga följande:<br/><br/><b>Typ av webbplats:</b> Är det en blogg, företagssida, portfölj eller en WooCommerce-butik?<br/><br/><b>Trafikvolym:</b> Hur många dagliga besökare förväntar du dig och hur ser dina tillväxtplaner ut?<br/><br/><b>Prestandabehov:</b> Hur viktiga är hastighet, caching och databasprestanda för din verksamhet?<br/><br/><b>Lagringskrav:</b> Hur mycket plats tar dina mediafiler, teman, tillägg och säkerhetskopior?<br/><br/><b>Framtida tillväxt:</b> Kan du enkelt uppgradera ditt paket i takt med att din webbplats expanderar?<br/><br/>WebblyHosting gör det enkelt för dig att jämföra våra olika WordPress-paket så att du hittar rätt lösning direkt."
+      },
+      {
+        "question": "Är WordPress-hosting säkert?",
+        "answer": "Ja, WordPress-hosting är säkert när det hanteras på rätt sätt. WebblyHosting tillhandahåller kostnadsfria SSL-certifikat, brandväggar, malware-skanning, kontoisolering och daglig övervakning. Våra servrar är skyddade mot vanliga WordPress-sårbarheter, vilket håller din webbplats och dina besökares data säkra utan att du behöver göra några extra inställningar."
+      },
+      {
+        "question": "Kan jag migrera min befintliga WordPress-sajt?",
+        "answer": "Ja, du kan enkelt flytta din befintliga WordPress-webbplats till WebblyHosting. Vi stödjer smidiga WordPress-migreringar med minimal driftstörning. Dina filer, databaser, teman och tillägg överförs säkert så att du kan fortsätta driva din webbplats utan avbrott."
+      },
+      {
+        "question": "När bör jag uppgradera min WordPress-hosting?",
+        "answer": "Du bör uppgradera din WordPress-hosting när din webbplats får mer trafik, upplever långsammare laddningstider eller har ett ökat behov av resurser. Om din webbplats växer med mer innehåll, fler tillägg eller WooCommerce-funktioner, säkerställer en uppgradering bättre hastighet, stabilitet och skalbarhet."
+      },
+      {
+        "question": "Vad är skillnaden mellan webbhotell (shared hosting) och WordPress-hosting?",
+        "answer": "Webbhotell (shared hosting) är en generell lösning där flera webbplatser delar på serverns resurser, vilket fungerar bra för många olika typer av hemsidor. WordPress-hosting är däremot specifikt optimerad för just WordPress och erbjuder snabbare prestanda, bättre caching, förstärkt säkerhet och dedikerad hantering för plattformen. Om din webbplats drivs med WordPress ger WordPress-hosting en smidigare och mer pålitlig användarupplevelse."
+      },
+      {
+        "question": "Hur kommer jag igång med WordPress-hosting hos er?",
+        "answer": "Det är enkelt att komma igång med WordPress-hosting hos WebblyHosting:<br/><br/>Besök vår webbplats och utforska våra olika WordPress-paket.<br/><br/>Välj ett paket som passar just din webbplats behov.<br/><br/>Registrera dig, skapa ditt konto och anslut din domän.<br/><br/>Installera WordPress med vår smidiga ett-klicks-installation.<br/><br/>Lansera din sajt och börja skapa och publicera ditt innehåll.<br/><br/>Med WebblyHosting kan din WordPress-webbplats vara live på bara några minuter – med stöd av optimerade servrar och expertsupport dygnet runt."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ge din WordPress-sajt kraft redan idag",
+    "subheading": "Upplev blixtsnabbt WordPress-hotell med automatiska uppdateringar, förstärkt säkerhet och expertsupport. Din sajt förtjänar det bästa.",
+    "button": "LANSERA DIN WORDPRESS-SAJT",
+    "buttonLink": "#pricing"
+  },
+  "contact": {
+    "heading": "Behöver Du Hjälp Att Välja Rätt Plan?",
+    "subheading": "Få expertrådgivning",
+    "description1": "Boka ett kort samtal med vårt team. En av WebblyHostings specialister hjälper dig att välja rätt webbhotellspaket utifrån din webbplats, dina affärsmål och din budget. Vi vill göra ditt beslut enkelt och helt utan stress.",
+    "description2": "Genom att skicka in dina uppgifter godkänner du att WebblyHosting kontaktar dig för support och vägledning gällande dina behov av webbhotellstjänster.",
+    "emailLabel": "E-post:",
+    "phoneLabel": "",
+    "email": "support@webblyhosting.com",
+    "phone": "",
+    "info": {
+      "social": {
+        "title": "Dela"
+      }
+    }
+  },
+  "contactForm": {
+    "nameLabel": "Namn",
+    "firstNamePlaceholder": "Förnamn",
+    "lastNamePlaceholder": "Efternamn",
+    "emailLabel": "E-post",
+    "emailPlaceholder": "Din e-post",
+    "messageLabel": "Meddelande",
+    "messagePlaceholder": "Ditt meddelande",
+    "submitButton": "Kom Igång",
+    "sending": "Skickar..."
+  }
+}

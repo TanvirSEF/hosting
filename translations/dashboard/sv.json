@@ -1,0 +1,830 @@
+{
+  "sidebar": {
+    "brandName": "WebblyHosting",
+    "navigation": {
+      "dashboard": "Översikt",
+      "services": "Mina Tjänster",
+      "domains": "Domäner",
+      "billing": "Fakturering",
+      "support": "Kundsupport",
+      "account": "Kontoinformation",
+      "invoices": "Fakturor",
+      "paymentMethods": "Betalningsmetoder",
+      "myDomains": "Mina Domäner",
+      "registerDomain": "Registrera Ny Domän",
+      "transferDomain": "Överför Domän",
+      "accountInformation": "Kontoinformation",
+      "security": "Säkerhet",
+      "allServices": "Alla Tjänster",
+      "orderNewService": "Beställ Ny Tjänst",
+      "emails": "E-postkonton"
+    },
+    "secondary": {
+      "settings": "Inställningar",
+      "help": "Få Hjälp"
+    },
+    "user": {
+      "account": "Konto",
+      "logout": "Logga ut"
+    }
+  },
+  "header": {
+    "search": "Sök...",
+    "notifications": "Notifikationer",
+    "notificationsNew": "ny",
+    "noNotifications": "Inga nya notifikationer",
+    "allCaughtUp": "Allt klart!",
+    "loadingNotifications": "Laddar notifikationer...",
+    "notificationAdminReplied": "Admin Svarade på Ditt Ärende",
+    "notificationClientReplied": "Kund Svarade",
+    "notificationNewTicket": "Nytt Supportärende",
+    "notificationUpdate": "Uppdatering",
+    "notificationInvoiceOverdue": "Faktura Förfallen!",
+    "notificationInvoiceUnpaid": "Obetald Faktura",
+    "notificationDomainExpiring": "Domän Löper Ut Snart",
+    "notificationServiceRenewal": "Tjänst Förnyelse",
+    "notificationServiceSuspended": "Tjänst Avstängd",
+    "notificationNewOrder": "Ny Beställning Mottagen",
+    "expiresInDays": "löper ut om {days} dag{plural}",
+    "renewsInDays": "förnyas om {days} dag{plural}",
+    "hasBeenSuspended": "har blivit avstängd",
+    "justNow": "Precis nu",
+    "recently": "Nyligen",
+    "user": "Användare",
+    "moreNotifications": "+ {count} fler notifikation{plural}",
+    "markAsRead": "Markera som läst",
+    "markAllAsRead": "Markera alla som lästa",
+    "markingAsRead": "Markerar som läst...",
+    "visitWebsite": "Besök Webbplats",
+    "home": "Hem",
+    "language": {
+      "label": "Språk",
+      "english": "English",
+      "swedish": "Svenska"
+    }
+  },
+  "dashboard": {
+    "welcome": "Välkommen tillbaka, {firstname}!",
+    "subtitle": "Här är vad som händer med dina tjänster idag.",
+    "error": {
+      "loading": "Fel vid laddning av översikt. Logga in igen."
+    },
+    "stats": {
+      "activeServices": "Aktiva Tjänster",
+      "activeServicesDesc": "Hosting & VPS-tjänster",
+      "domains": "Domäner",
+      "domainsDesc": "Registrerade domäner",
+      "unpaidInvoices": "Obetalda Fakturor",
+      "actionRequired": "Åtgärd krävs",
+      "allPaid": "Alla fakturor betalda"
+    },
+    "upsell": {
+      "title": "Förbättra din webbplats?",
+      "description": "Vårt byråteam kan hjälpa dig med SEO-optimering och omdesign.",
+      "button": "Boka en Gratis Konsultation"
+    },
+    "promotions": {
+      "heading": "Specialerbjudanden bara för dig!",
+      "subheading": "Fånga dessa fantastiska erbjudanden som vi  har utvalt",
+      "upgradeHosting": {
+        "title": "Uppgradera ditt webbhotell",
+        "description": "Höj nivån med mer kraft och förbättrade funktioner"
+      },
+      "businessEmail": {
+        "title": "Skaffa en företags-e-post",
+        "description": "Bygg ditt varumärke med en professionell e-postadress"
+      },
+      "emailMarketing": {
+        "title": "Skaffa e-postmarknadsföring",
+        "description": "Håll besökarna återkommande med AI-driven e-postmarknadsföring"
+      },
+      "starter": {
+        "title": "Starter Hosting",
+        "description": "Perfekt för personliga webbplatser och bloggar"
+      },
+      "pro": {
+        "title": "Pro Hosting",
+        "description": "Mer resurser och bättre prestanda för växande sajter"
+      },
+      "business": {
+        "title": "Business Hosting",
+        "description": "Maximal kraft och prioriterad support för e-handel"
+      },
+      "hosting": {
+        "title": "Uppgradera till Pro Hosting",
+        "description": "Mer resurser och bättre prestanda för din växande webbplats"
+      },
+      "wordpress": {
+        "title": "Managed WordPress",
+        "description": "Optimerad miljö för din WordPress-webbplats"
+      },
+      "vps": {
+        "title": "Cloud VPS Server",
+        "description": "Full kontroll och dedikerade resurser för dina applikationer"
+      },
+      "getDeal": "Köp erbjudandet",
+      "from": "Från",
+      "perMonth": "/mån",
+      "when": "vid 1-årig prenumeration",
+      "features": {
+        "websites_2": "2 webbplatser",
+        "websites_4": "4 webbplatser",
+        "websites_10": "10 webbplatser",
+        "storage_50": "50 GB NVMe SSD-lagring",
+        "storage_100": "100 GB NVMe SSD-lagring",
+        "storage_200": "200 GB NVMe SSD-lagring",
+        "ssl": "Gratis SSL-certifikat",
+        "daily_backups": "Dagliga säkerhetskopior ingår",
+        "redis": "Redis Object Cache",
+        "scanner": "Malware-skanner"
+      }
+    },
+    "freeEmailBanner": {
+      "title": "Hämta Ditt Gratis E-postkonto",
+      "description": "Ditt hostingpaket inkluderar 2 gratis e-postkonton. Konfigurera din professionella e-post nu!",
+      "cta": "Konfigurera E-post"
+    }
+  },
+  "services": {
+    "title": "Mina Tjänster",
+    "allServicesTitle": "Alla Tjänster",
+    "orderNewServiceTitle": "Beställ Ny Tjänst",
+    "orderNewServiceDesc": "Bläddra och beställ från alla tillgängliga hostingtjänster.",
+    "subtitle": "Hantera dina hostingpaket, servrar och prenumerationer.",
+    "loginRequired": "Vänligen logga in för att se tjänster.",
+    "searchServices": "Sök tjänster...",
+    "allCategories": "Alla Kategorier",
+    "selected": "Vald",
+    "startingFrom": "Från",
+    "orderSummary": "Ordersammanfattning",
+    "billingCycle": "Faktureringscykel",
+    "price": "Pris",
+    "billed": "Faktureras {cycle}",
+    "processing": "Bearbetar...",
+    "orderNow": "Beställ Nu",
+    "selectService": "Välj en tjänst för att fortsätta",
+    "noServicesFound": "Inga tjänster hittades som matchar dina kriterier.",
+    "stats": {
+      "totalServices": "Totalt Antal Tjänster",
+      "totalServicesDesc": "Alla dina hostingtjänster",
+      "activeServices": "Aktiva Tjänster",
+      "activeServicesDesc": "För närvarande aktiva tjänster",
+      "monthlyValue": "Månadsvärde",
+      "monthlyValueDesc": "Total återkommande intäkt",
+      "expiringSoon": "Löper Ut Snart",
+      "expiringSoonDesc": "Tjänster som löper ut inom 7 dagar"
+    },
+    "table": {
+      "activeProducts": "Aktiva Produkter",
+      "activeProductsDesc": "En omfattande lista över alla dina köpta tjänster och prenumerationer.",
+      "orderNewService": "Beställ Ny Tjänst",
+      "searchPlaceholder": "Sök tjänster, domäner eller kategorier...",
+      "allStatus": "Alla Statusar",
+      "allCategories": "Alla Kategorier",
+      "showingResults": "Visar {start}-{end} av {total} tjänster",
+      "noServicesFound": "Inga Tjänster Hittades",
+      "adjustFilters": "Försök justera dina filter för att se fler resultat.",
+      "browsePlans": "Bläddra Hostingpaket",
+      "product": "Produkt/Tjänst",
+      "category": "Kategori",
+      "pricing": "Prissättning",
+      "registration": "Registrering",
+      "domain": "Domän",
+      "status": "Status",
+      "price": "Pris",
+      "nextDue": "Nästa Förfallodag",
+      "actions": "Åtgärder",
+      "manage": "Hantera",
+      "viewDetails": "Visa Detaljer",
+      "renew": "Förnya",
+      "noDomain": "Ingen domän"
+    },
+    "status": {
+      "active": "Aktiv",
+      "pending": "Väntande",
+      "suspended": "Avstängd",
+      "terminated": "Avslutad",
+      "cancelled": "Avbruten",
+      "fraud": "Bedrägeri"
+    },
+    "billingCycleOptions": {
+      "monthly": "Månadsvis (1 månad)",
+      "quarterly": "Kvartalsvis (3 månader)",
+      "semiannually": "Halvårsvis (6 månader)",
+      "annually": "Årsvis (1 år)",
+      "biennially": "Vartannat År (2 år)",
+      "triennially": "Vart Tredje År (3 år)"
+    },
+    "empty": "Inga tjänster hittades. Kom igång genom att beställa ett hostingpaket!"
+  },
+  "domains": {
+    "title": "Mina Domäner",
+    "subtitle": "Hantera dina domännamn och DNS-inställningar.",
+    "loginRequired": "Vänligen logga in för att se domäner.",
+    "stats": {
+      "totalDomains": "Totalt Antal Domäner",
+      "totalDomainsDesc": "Alla registrerade domäner",
+      "activeDomains": "Aktiva Domäner",
+      "activeDomainsDesc": "För närvarande aktiva domäner",
+      "expiringDomains": "Löper Ut Snart",
+      "expiringDomainsDesc": "Domäner som löper ut inom 7 dagar",
+      "pendingTransfers": "Väntande Överföringar",
+      "autoRenewDesc": "Domäner med automatisk förnyelse aktiverad"
+    },
+    "table": {
+      "title": "Mina Domäner",
+      "description": "Visa utgångsdatum, förnyelseinställningar och hantera DNS-konfigurationer.",
+      "showingResults": "Visar {start}-{end} av {total} domäner",
+      "allAutoRenew": "Alla Auto-Förnyelse",
+      "autoRenewEnabled": "Auto-Förnyelse Aktiverad",
+      "autoRenewDisabled": "Auto-Förnyelse Inaktiverad",
+      "registerDomain": "Registrera Domän",
+      "domain": "Domännamn",
+      "registrationDate": "Registreringsdatum",
+      "expiryDate": "Utgångsdatum",
+      "status": "Status",
+      "allStatus": "Alla Statusar",
+      "searchPlaceholder": "Sök domäner eller registratorer...",
+      "autoRenew": "Automatisk Förnyelse",
+      "actions": "Åtgärder",
+      "manage": "Hantera DNS",
+      "renew": "Förnya",
+      "transfer": "Överför"
+    },
+    "details": {
+      "eppCode": "EPP-kod (Auktoriseringskod)",
+      "eppCodeDesc": "Krävs för att överföra din domän till en annan registrar",
+      "eppCodePlaceholder": "Ange EPP-kod om det krävs",
+      "eppCodeHelp": "Vissa registratorer kräver en EPP-kod för att överföra domänen. Lämna tomt om det inte krävs.",
+      "lockStatus": "Domänlåsstatus",
+      "lockStatusDesc": "Kontrollera om din domän är låst (förhindrar obehöriga överföringar)",
+      "locked": "Låst",
+      "unlocked": "Olåst",
+      "dnsManagement": "DNS-hantering",
+      "dnsManagementDesc": "Aktivera eller inaktivera DNS-hantering för denna domän",
+      "dnsManagementStatus": "DNS-hanteringsstatus",
+      "dnsManagementEnabled": "DNS-hantering är för närvarande aktiverad",
+      "dnsManagementDisabled": "DNS-hantering är för närvarande inaktiverad",
+      "enableDNSManagement": "Aktivera DNS-hantering",
+      "disableDNSManagement": "Inaktivera DNS-hantering",
+      "nameservers": "Namnservrar",
+      "nameserversDesc": "Uppdatera namnservrarna för din domän",
+      "nameserverPlaceholder": "Namnserver {number} (t.ex. ns1.example.com)",
+      "currentNameservers": "Nuvarande Namnservrar",
+      "updateNameservers": "Uppdatera Namnservrar",
+      "updatingNameservers": "Uppdaterar Namnservrar...",
+      "dnsRecords": "DNS-poster",
+      "dnsRecordsDesc": "DNS-posthantering kommer snart",
+      "newRegistrarTag": "Ny Registratortagg",
+      "registrarTagPlaceholder": "Ange ny registratortagg"
+    },
+    "status": {
+      "active": "Aktiv",
+      "expired": "Utgången",
+      "pending": "Väntande",
+      "pendingtransfer": "Väntande Överföring",
+      "transferring": "Överförs",
+      "cancelled": "Avbruten",
+      "fraud": "Bedrägeri"
+    },
+    "empty": "Inga domäner hittades. Registrera din första domän idag!",
+    "error": {
+      "loginRequired": "Vänligen logga in för att se domäner."
+    }
+  },
+  "billing": {
+    "title": "Fakturering & Fakturor",
+    "subtitle": "Visa och hantera dina fakturor och betalningshistorik.",
+    "loginRequired": "Vänligen logga in för att se fakturering.",
+    "stats": {
+      "totalInvoices": "Totalt Antal Fakturor",
+      "totalInvoicesDesc": "Alla fakturor i ditt konto",
+      "unpaidInvoices": "Obetalda Fakturor",
+      "unpaidInvoicesDesc": "Fakturor som väntar på betalning",
+      "paidInvoicesDesc": "Framgångsrikt betalda fakturor",
+      "paidThisMonth": "Betalt Denna Månad",
+      "totalSpent": "Totalt Spenderat",
+      "amountDueDesc": "Totalt utestående belopp"
+    },
+    "table": {
+      "invoiceNumber": "Faktura #",
+      "invoiceId": "Faktura #",
+      "invoiceHistory": "Fakturahistorik",
+      "invoiceHistoryDesc": "Ladda ner tidigare fakturor och betala utestående belopp.",
+      "payAllUnpaid": "Betala Alla Obetalda",
+      "searchPlaceholder": "Sök efter fakturanummer eller belopp...",
+      "showingResults": "Visar {start}-{end} av {total} fakturor",
+      "date": "Datum",
+      "dueDate": "Förfallodatum",
+      "amount": "Belopp",
+      "status": "Status",
+      "allStatus": "Alla Statusar",
+      "actions": "Åtgärder",
+      "view": "Visa",
+      "pay": "Betala Nu",
+      "download": "Ladda Ner PDF"
+    },
+    "status": {
+      "paid": "Betald",
+      "unpaid": "Obetald",
+      "overdue": "Förfallen",
+      "cancelled": "Avbruten",
+      "refunded": "Återbetald",
+      "collections": "Inkasso"
+    },
+    "empty": "Inga fakturor hittades.",
+    "error": {
+      "loginRequired": "Vänligen logga in för att se fakturering."
+    }
+  },
+  "support": {
+    "title": "Supportcenter",
+    "subtitle": "Få hjälp med dina tjänster eller kontakta vårt supportteam.",
+    "loginRequired": "Vänligen logga in för att se supportärenden.",
+    "stats": {
+      "totalTickets": "Totalt Antal Ärenden",
+      "totalTicketsDesc": "Alla supportärenden",
+      "openTickets": "Öppna Ärenden",
+      "openTicketsDesc": "Ärenden som väntar på svar",
+      "awaitingReply": "Väntar på Svar",
+      "answeredTicketsDesc": "Ärenden med personalensvar",
+      "resolvedTickets": "Lösta Ärenden",
+      "closedTicketsDesc": "Lösta och stängda ärenden"
+    },
+    "newTicket": "Nytt Ärende",
+    "table": {
+      "ticketId": "Ärende #",
+      "title": "Supportärenden",
+      "description": "Spåra statusen på dina supportförfrågningar och visa svar.",
+      "searchPlaceholder": "Sök efter ärende #, ämne eller avdelning...",
+      "showingResults": "Visar {start} till {end} av {total} ärenden",
+      "subject": "Ämne",
+      "department": "Avdelning",
+      "status": "Status",
+      "allStatuses": "Alla Statusar",
+      "allDepartments": "Alla Avdelningar",
+      "lastUpdate": "Senast Uppdaterad",
+      "lastReply": "Senast Uppdaterad",
+      "actions": "Åtgärder",
+      "view": "Visa",
+      "reply": "Svara",
+      "close": "Stäng",
+      "priority": "Prioritet"
+    },
+    "status": {
+      "open": "Öppen",
+      "answered": "Besvarad",
+      "customerreply": "Kundsvar",
+      "customer-reply": "Kundsvar",
+      "onhold": "Pausad",
+      "on hold": "Pausad",
+      "inprogress": "Pågående",
+      "in progress": "Pågående",
+      "closed": "Stängd"
+    },
+    "priority": {
+      "low": "Låg",
+      "medium": "Medium",
+      "high": "Hög",
+      "urgent": "Brådskande"
+    },
+    "empty": "Inga supportärenden hittades. Behöver du hjälp? Öppna ett nytt ärende!",
+    "error": {
+      "loginRequired": "Vänligen logga in för att se supportärenden."
+    },
+    "form": {
+      "department": "Avdelning",
+      "subject": "Ämne",
+      "created": "Skapad",
+      "selectDepartment": "Välj en avdelning",
+      "subjectPlaceholder": "Kort beskrivning av ditt problem",
+      "message": "Meddelande",
+      "messagePlaceholder": "Beskriv ditt problem i detalj...",
+      "yourReply": "Ditt Svar",
+      "replyPlaceholder": "Skriv ditt svar här...",
+      "createTicket": "Skapa Ärende",
+      "creating": "Skapar...",
+      "createTicketDesc": "Skapa ett nytt supportärende. Vårt team svarar så snart som möjligt."
+    }
+  },
+  "domainRegister": {
+    "title": "Registrera Ny Domän",
+    "subtitle": "Sök och registrera ditt perfekta domännamn",
+    "search": {
+      "title": "Sök Domän",
+      "description": "Ange ett domännamn för att kontrollera tillgänglighet och prissättning",
+      "placeholder": "Ange domännamn (t.ex. example.com)",
+      "button": "Sök",
+      "searching": "Söker..."
+    },
+    "results": {
+      "title": "Sökresultat",
+      "found": "Hittade {count} domän{count, plural, =1 {} other {er}}",
+      "resultsFor": "Resultat för",
+      "clearSearch": "Rensa sökning",
+      "suggestionsHeading": "Förslag",
+      "noResults": "Inga resultat hittades",
+      "tryDifferent": "Inga domäner hittades. Försök med en annan sökterm.",
+      "available": "Tillgänglig för registrering",
+      "registered": "Redan registrerad",
+      "unavailable": "Ej tillgänglig",
+      "perYear": "per år",
+      "allTakenTitle": "Alla föreslagna domäner är upptagna",
+      "allTakenDesc": "Prova ett annat namn eller justera stavningen för att hitta ett ledigt alternativ."
+    },
+    "cart": {
+      "added": "{domain} lagt till i varukorgen!",
+      "inCart": "I Varukorgen",
+      "addToCart": "Lägg till i Varukorg",
+      "year": "år",
+      "years": "år"
+    },
+    "error": {
+      "emptyDomain": "Vänligen ange ett domännamn",
+      "invalid": "Vänligen ange ett giltigt domännamn",
+      "failed": "Kunde inte kontrollera domäntillgänglighet"
+    }
+  },
+  "account": {
+    "title": "Kontoinformation",
+    "subtitle": "Visa och hantera dina kontouppgifter",
+    "personalInfo": "Personlig Information",
+    "fields": {
+      "fullName": "Fullständigt Namn",
+      "email": "E-postadress",
+      "phone": "Telefonnummer",
+      "company": "Företagsnamn",
+      "status": "Kontostatus",
+      "address": "Adress"
+    },
+    "error": {
+      "loadFailed": "Kunde inte ladda kontoinformation"
+    }
+  },
+  "security": {
+    "title": "Säkerhetsinställningar",
+    "subtitle": "Hantera ditt lösenord och säkerhetsinställningar",
+    "password": {
+      "title": "Ändra Lösenord",
+      "description": "Uppdatera ditt kontolösenord. Se till att använda ett starkt lösenord.",
+      "current": "Nuvarande Lösenord",
+      "currentPlaceholder": "Ange ditt nuvarande lösenord",
+      "new": "Nytt Lösenord",
+      "newPlaceholder": "Ange ditt nya lösenord (min. 8 tecken)",
+      "confirm": "Bekräfta Nytt Lösenord",
+      "confirmPlaceholder": "Bekräfta ditt nya lösenord",
+      "update": "Uppdatera Lösenord",
+      "updating": "Uppdaterar...",
+      "success": "Lösenord ändrat framgångsrikt"
+    },
+    "twoFactor": {
+      "title": "Tvåfaktorsautentisering (2FA)",
+      "description": "Lägg till ett extra säkerhetslager till ditt konto",
+      "loading": "Laddar 2FA-status...",
+      "label": "Tvåfaktorsautentisering",
+      "enabled": "2FA är för närvarande aktiverad på ditt konto",
+      "disabled": "2FA är för närvarande inaktiverad",
+      "statusEnabled": "Aktiverad",
+      "statusDisabled": "Inaktiverad",
+      "note": "Notera",
+      "noteText": "Tvåfaktorsautentiseringshantering kräver anpassad WHMCS API-implementering. Om 2FA är tillgängligt i din WHMCS-installation, kontakta support för att aktivera eller inaktivera det."
+    }
+  },
+  "paymentMethods": {
+    "title": "Betalningsmetoder",
+    "subtitle": "Hantera dina sparade betalningsmetoder för snabba och säkra betalningar.",
+    "addCard": "Lägg till Kort",
+    "expires": "Går ut {date}",
+    "default": "Standard",
+    "setDefault": "Ange som standard",
+    "deleteCard": "Radera kort",
+    "setDefaultSuccess": "Standardkort uppdaterat framgångsrikt",
+    "setDefaultFailed": "Kunde inte ange standardkort",
+    "deleteSuccess": "Betalningsmetod raderad framgångsrikt",
+    "deleteFailed": "Kunde inte radera betalningsmetod",
+    "savedCards": "Sparade kort",
+    "secureStorage": "Dina kort är säkra",
+    "secureStorageDesc": "Kortuppgifter lagras säkert av Stripe. Vi lagrar aldrig ditt fulla kortnummer eller CVV på våra servrar.",
+    "empty": {
+      "title": "Inga Betalningsmetoder",
+      "description": "Du har inte lagt till några betalningsmetoder ännu. Lägg till ett kort för att göra betalningar enklare.",
+      "addFirst": "Lägg till Ditt Första Kort"
+    },
+    "error": {
+      "loginRequired": "Vänligen logga in för att se betalningsmetoder."
+    },
+    "payment": {
+      "selectMethod": "Välj betalningsmetod",
+      "useSavedCard": "Använd sparat kort",
+      "useNewCard": "Betala med nytt kort",
+      "enterNewCard": "Ange nya kortuppgifter",
+      "payWith": "Betala {amount} {currency}",
+      "payNow": "Betala nu",
+      "saveForFuture": "Spara kort för nästa gång",
+      "redirectNotice": "Du kommer att omdirigeras till Stripes säkra kassa för att slutföra betalningen med ditt sparat kort. 3D Secure-verifiering kan krävas.",
+      "havingIssues": "Har du problem?",
+      "openCheckout": "Öppna kassan i ny flik"
+    }
+  },
+  "emails": {
+    "title": "E-postkonton",
+    "subtitle": "Hantera dina e-postkonton, vidarebefordran och alias som drivs av Titan Mail.",
+    "loginRequired": "Vänligen logga in för att se e-postkonton.",
+    "stats": {
+      "totalAccounts": "Totalt Antal Konton",
+      "totalAccountsDesc": "Alla e-postkonton",
+      "activeAccounts": "Aktiva Konton",
+      "activeAccountsDesc": "För närvarande aktiva e-postkonton",
+      "totalStorage": "Total Lagring",
+      "totalStorageDesc": "Kombinerad lagring används",
+      "storageUsed": "Använd Lagring",
+      "storageUsedDesc": "Total lagring i användning"
+    },
+    "table": {
+      "title": "E-postkonton",
+      "description": "Hantera dina e-postkonton, konfigurera vidarebefordran och alias.",
+      "emailAddress": "E-postadress",
+      "domain": "Domän",
+      "storage": "Lagring",
+      "quota": "Kvot",
+      "status": "Status",
+      "created": "Skapad",
+      "actions": "Åtgärder",
+      "manage": "Hantera",
+      "changePassword": "Ändra Lösenord",
+      "delete": "Radera",
+      "webmail": "Öppna Webmail",
+      "forwarding": "Vidarebefordran",
+      "aliases": "Alias",
+      "searchPlaceholder": "Sök e-postkonton...",
+      "showingResults": "Visar {start}-{end} av {total} konton",
+      "allStatus": "Alla Status",
+      "noAccounts": "Inga E-postkonton",
+      "noAccountsDesc": "Du har inga e-postkonton ännu. Skapa ditt första e-postkonto för att komma igång.",
+      "createFirst": "Skapa E-postkonto"
+    },
+    "create": {
+      "title": "Skapa E-postkonto",
+      "description": "Skapa ett nytt e-postkonto för din domän.",
+      "emailAddress": "E-postadress",
+      "emailPlaceholder": "användarnamn",
+      "domain": "Domän",
+      "selectDomain": "Välj en domän",
+      "domainOption": "Domänalternativ",
+      "useExistingDomain": "Använd Befintlig Domän",
+      "registerNewDomain": "Registrera Ny Domän",
+      "existingDomain": "Befintlig Domän",
+      "newDomain": "Ny Domän",
+      "domainToRegister": "Domän att Registrera",
+      "domainPlaceholder": "exempel.com",
+      "searchDomain": "Sök Domän",
+      "searching": "Söker...",
+      "domainAvailable": "Tillgänglig",
+      "domainUnavailable": "Inte Tillgänglig",
+      "registerDomainFirst": "Registrera denna domän först för att skapa ett e-postkonto",
+      "password": "Lösenord",
+      "passwordPlaceholder": "Ange lösenord (min. 8 tecken)",
+      "confirmPassword": "Bekräfta Lösenord",
+      "confirmPasswordPlaceholder": "Bekräfta lösenord",
+      "quota": "Lagringskvot (MB)",
+      "quotaPlaceholder": "t.ex. 1000 (lämna tomt för obegränsat)",
+      "quotaDescription": "Maximal lagringsutrymme för detta e-postkonto",
+      "create": "Skapa Konto",
+      "creating": "Skapar...",
+      "success": "E-postkonto skapat framgångsrikt",
+      "error": "Kunde inte skapa e-postkonto",
+      "noDomains": "Inga domäner tillgängliga. Vänligen registrera en domän först.",
+      "domainRequired": "Vänligen välj eller registrera en domän",
+      "purchaseDomain": "Köp Domän",
+      "purchasingDomain": "Köper Domän...",
+      "domainPurchased": "Domän köpt framgångsrikt!",
+      "domainPurchasedDesc": "Du kan nu skapa ditt e-postkonto nedan.",
+      "purchaseAndCreate": "Köp & Skapa Konto",
+      "purchasingAndCreating": "Köper & Skapar...",
+      "registrationPeriod": "Registreringsperiod",
+      "selectPeriod": "Välj registreringsperiod och köp denna domän för att fortsätta",
+      "year": "År",
+      "years": "År",
+      "icannFee": "ICANN-avgift",
+      "total": "Totalt",
+      "advanced": "Avancerade Alternativ",
+      "showAdvanced": "Visa Avancerade Alternativ",
+      "hideAdvanced": "Dölj Avancerade Alternativ",
+      "advancedSettings": "Avancerade Inställningar",
+      "mailboxSettings": "Postlådeinställningar",
+      "securitySettings": "Säkerhetsinställningar",
+      "forwardingSettings": "Vidarebefordringsinställningar",
+      "filteringSettings": "E-postfiltrering",
+      "autoResponder": "Auto-Svar (Frånvaromeddelande)",
+      "enableAutoResponder": "Aktivera Auto-Svar",
+      "autoResponderSubject": "Ämne",
+      "autoResponderMessage": "Meddelande",
+      "autoResponderSubjectPlaceholder": "Frånvarande från kontoret",
+      "autoResponderMessagePlaceholder": "Jag är för närvarande frånvarande från kontoret och kommer att svara när jag återvänder.",
+      "spamFilter": "Skräppostfilter",
+      "enableSpamFilter": "Aktivera Skräppostfilter",
+      "spamFilterLevel": "Skräppostfilternivå",
+      "spamFilterLow": "Låg",
+      "spamFilterMedium": "Medium",
+      "spamFilterHigh": "Hög",
+      "spamFilterCustom": "Anpassad",
+      "antivirus": "Antivirus-skydd",
+      "enableAntivirus": "Aktivera Antivirus",
+      "catchAll": "Catch-All E-post",
+      "enableCatchAll": "Aktivera Catch-All",
+      "catchAllDescription": "Ta emot alla e-postmeddelanden som skickas till icke-existerande adresser på denna domän",
+      "catchAllAddress": "Catch-All Adress",
+      "catchAllAddressPlaceholder": "catchall@domän.com",
+      "diskSpaceAlerts": "Diskutrymmesvarningar",
+      "enableDiskAlerts": "Aktivera Diskutrymmesvarningar",
+      "alertThreshold": "Varningströskel (%)",
+      "alertThresholdPlaceholder": "80",
+      "alertThresholdDescription": "Få varning när postlådan når denna procentandel",
+      "emailClient": "E-postklientkonfiguration",
+      "imapEnabled": "Aktivera IMAP",
+      "pop3Enabled": "Aktivera POP3",
+      "smtpEnabled": "Aktivera SMTP",
+      "webmailAccess": "Webmail-åtkomst",
+      "enableWebmail": "Aktivera Webmail-åtkomst",
+      "emailArchiving": "E-postarkivering",
+      "enableArchiving": "Aktivera E-postarkivering",
+      "archivingDescription": "Arkivera automatiskt alla inkommande och utgående e-postmeddelanden",
+      "greylisting": "Greylisting",
+      "enableGreylisting": "Aktivera Greylisting",
+      "greylistingDescription": "Avvisa tillfälligt e-postmeddelanden från okända avsändare för att minska skräppost",
+      "emailFilters": "E-postfilter",
+      "addFilter": "Lägg till Filter",
+      "filterName": "Filternamn",
+      "filterNamePlaceholder": "t.ex., Flytta nyhetsbrev till mapp",
+      "filterCondition": "Villkor",
+      "filterAction": "Åtgärd",
+      "filterFrom": "Från",
+      "filterSubject": "Ämne",
+      "filterContains": "Innehåller",
+      "filterMoveTo": "Flytta till Mapp",
+      "filterDelete": "Radera",
+      "filterForward": "Vidarebefordra till",
+      "filterMarkAsRead": "Markera som Läst",
+      "passwordStrength": "Lösenordskrav",
+      "requireStrongPassword": "Kräv Starkt Lösenord",
+      "minPasswordLength": "Minsta Lösenordslängd",
+      "requireUppercase": "Kräv Versal",
+      "requireLowercase": "Kräv Gemener",
+      "requireNumber": "Kräv Siffra",
+      "requireSpecialChar": "Kräv Specialtecken",
+      "multipleForwarding": "Flera Vidarebefordringsadresser",
+      "addForwardAddress": "Lägg till Vidarebefordringsadress",
+      "forwardAddress": "Vidarebefordringsadress",
+      "forwardAddressPlaceholder": "e-post@exempel.com"
+    },
+    "delete": {
+      "title": "Radera E-postkonto",
+      "description": "Är du säker på att du vill radera detta e-postkonto? Denna åtgärd kan inte ångras.",
+      "confirm": "Radera Konto",
+      "deleting": "Raderar...",
+      "cancel": "Avbryt",
+      "success": "E-postkonto raderat framgångsrikt",
+      "error": "Kunde inte radera e-postkonto"
+    },
+    "password": {
+      "title": "Ändra Lösenord",
+      "description": "Uppdatera lösenordet för detta e-postkonto.",
+      "currentPassword": "Nuvarande Lösenord",
+      "currentPasswordPlaceholder": "Ange nuvarande lösenord",
+      "newPassword": "Nytt Lösenord",
+      "newPasswordPlaceholder": "Ange nytt lösenord (min. 8 tecken)",
+      "confirmPassword": "Bekräfta Nytt Lösenord",
+      "confirmPasswordPlaceholder": "Bekräfta nytt lösenord",
+      "update": "Uppdatera Lösenord",
+      "updating": "Uppdaterar...",
+      "success": "Lösenord uppdaterat framgångsrikt",
+      "error": "Kunde inte uppdatera lösenord"
+    },
+    "forwarding": {
+      "title": "E-postvidarebefordran",
+      "description": "Vidarebefordra e-post från detta konto till en annan e-postadress.",
+      "forwardTo": "Vidarebefordra Till",
+      "forwardToPlaceholder": "mottagare@exempel.com",
+      "keepCopy": "Behåll en kopia i denna inkorg",
+      "save": "Spara Vidarebefordran",
+      "saving": "Sparar...",
+      "remove": "Ta Bort Vidarebefordran",
+      "removing": "Tar bort...",
+      "success": "Vidarebefordran uppdaterad framgångsrikt",
+      "error": "Kunde inte uppdatera vidarebefordran"
+    },
+    "aliases": {
+      "title": "E-postalias",
+      "description": "Skapa e-postalias som vidarebefordrar till detta konto.",
+      "alias": "Alias",
+      "aliasPlaceholder": "alias@domän.com",
+      "addAlias": "Lägg till Alias",
+      "adding": "Lägger till...",
+      "remove": "Ta Bort",
+      "removing": "Tar bort...",
+      "noAliases": "Inga alias konfigurerade",
+      "success": "Alias tillagt framgångsrikt",
+      "error": "Kunde inte lägga till alias",
+      "removeSuccess": "Alias borttaget framgångsrikt",
+      "removeError": "Kunde inte ta bort alias"
+    },
+    "status": {
+      "active": "Aktiv",
+      "suspended": "Avstängd",
+      "pending": "Väntande",
+      "disabled": "Inaktiverad"
+    },
+    "empty": {
+      "title": "Inga E-postkonton",
+      "description": "Du har inga e-postkonton ännu. Skapa ditt första e-postkonto för att komma igång.",
+      "createFirst": "Skapa E-postkonto"
+    },
+    "error": {
+      "loginRequired": "Vänligen logga in för att se e-postkonton."
+    }
+  },
+  "domainTransfer": {
+    "title": "Överför Domän",
+    "subtitle": "Överför din domän till WebblyHosting och njut av bättre service, lägre priser och ett gratis års förlängning",
+    "search": {
+      "title": "Kontrollera Överföringsberättigande",
+      "description": "Ange ditt domännamn för att kontrollera om det kan överföras till WebblyHosting",
+      "placeholder": "Ange domännamn (t.ex., example.com)",
+      "button": "Kontrollera Överföring",
+      "searching": "Kontrollerar..."
+    },
+    "result": {
+      "eligible": "Denna domän är berättigad för överföring!",
+      "notEligible": "Denna domän kan inte överföras",
+      "available": "Denna domän är tillgänglig för registrering, inte överföring",
+      "transferPrice": "Överföringspris",
+      "perYear": "/år",
+      "checkAgain": "Kontrollera igen",
+      "defaultRegistrar": "Okänd Registrator"
+    },
+    "epp": {
+      "label": "EPP / Auktoriseringskod",
+      "placeholder": "Ange din EPP-auktoriseringskod",
+      "help": "Hämta denna kod från din nuvarande domänregistrator",
+      "required": "EPP-auktoriseringskod krävs",
+      "invalid": "EPP-koden måste vara 4-255 tecken (endast synliga ASCII-tecken)"
+    },
+    "addons": {
+      "title": "Domäntillägg",
+      "dnsManagement": "DNS-hantering",
+      "emailForwarding": "E-postvidarebefordran",
+      "idProtection": "ID-skydd"
+    },
+    "order": {
+      "summary": "Ordersammanfattning",
+      "domain": "Domänöverföring",
+      "period": "Period",
+      "oneYear": "1 År",
+      "total": "Totalt",
+      "button": "Slutför Överföring",
+      "processing": "Bearbetar din överföring...",
+      "success": "Överföringsorder skapad!",
+      "error": "Det gick inte att skapa överföringsorder"
+    },
+    "features": {
+      "freeYear": "Gratis 1-års förlängning",
+      "whoisPrivacy": "WHOIS-integritet",
+      "dnsManagement": "Enkel DNS-hantering",
+      "support": "Dygnet runt Expert Support"
+    },
+    "unlockModal": {
+      "title": "Hur du låser upp din domän",
+      "registrars": "Populära Registratorguider",
+      "needHelpDesc": "Kontakta din nuvarande domänleverantörs supportteam för hjälp med att låsa upp din domän och erhålla EPP-koden.",
+      "step1": "Logga in på din nuvarande registrator",
+      "step2": "Hitta domänlås-/registratorlåsinställningar",
+      "step3": "Inaktivera domänlåset",
+      "step4": "Hämta din EPP-auktoriseringskod",
+      "step5": "Kom tillbaka och slutför överföringen"
+    },
+    "error": {
+      "empty": "Vänligen ange ett domännamn",
+      "invalid": "Vänligen ange ett giltigt domännamn",
+      "failed": "Det gick inte att kontrollera överföringsberättigande"
+    }
+  },
+  "common": {
+    "loading": "Laddar...",
+    "error": "Ett fel uppstod",
+    "retry": "Försök igen",
+    "save": "Spara",
+    "cancel": "Avbryt",
+    "delete": "Radera",
+    "edit": "Redigera",
+    "view": "Visa",
+    "back": "Tillbaka",
+    "next": "Nästa",
+    "previous": "Föregående",
+    "search": "Sök",
+    "filter": "Filtrera",
+    "sort": "Sortera",
+    "noResults": "Inga resultat hittades",
+    "showMore": "Visa mer",
+    "showLess": "Visa mindre"
+  }
+}

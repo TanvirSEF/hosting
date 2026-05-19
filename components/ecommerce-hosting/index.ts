@@ -1,0 +1,10 @@
+export { default as Hero } from './Hero';
+export { default as Stats } from './Stats';
+export { default as Pricing } from './Pricing';
+export { default as EcommerceFeatures } from './EcommerceFeatures';
+export { default as EcommerceCreationSteps } from './EcommerceCreationSteps';
+export { default as EcommerceManagement } from './EcommerceManagement';
+export { default as EcommerceWhyChoose } from './EcommerceWhyChoose';
+export { default as EcommerceUseCases } from './EcommerceUseCases';
+export { default as EcommerceFAQ } from './EcommerceFAQ';
+export { default as EcommerceCTA } from './EcommerceCTA';

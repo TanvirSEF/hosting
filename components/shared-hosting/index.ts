@@ -1,0 +1,10 @@
+export { default as Hero } from './Hero';
+export { default as Stats } from './Stats';
+export { default as Pricing } from './Pricing';
+export { default as SharedFeatures } from './SharedFeatures';
+export { default as SharedCreationSteps } from './SharedCreationSteps';
+export { default as SharedManagement } from './SharedManagement';
+export { default as SharedWhyChoose } from './SharedWhyChoose';
+export { default as SharedUseCases } from './SharedUseCases';
+export { default as SharedFAQ } from './SharedFAQ';
+export { default as SharedCTA } from './SharedCTA';

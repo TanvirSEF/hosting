@@ -1,0 +1,233 @@
+{
+  "hero": {
+    "badge": "VPS Hosting",
+    "title": "Kraftfull <span class='text-[#8C52FF]'>VPS Hosting</span>",
+    "subtitle": "Full root-åtkomst, dedikerade resurser och prestanda i världsklass. Starta din VPS på några sekunder.",
+    "cta": "Kom igång",
+    "moneyBack": "30 dagars pengarna-tillbaka-garanti",
+    "navigationItems": [
+      {
+        "name": "Webbhotell",
+        "href": "/pricing",
+        "popular": false
+      },
+      {
+        "name": "VPS Hosting",
+        "href": "/pricing/vps-hosting",
+        "popular": false
+      },
+      {
+        "name": "WordPress Hosting",
+        "href": "/pricing/wordpress-hosting",
+        "popular": true
+      },
+      {
+        "name": "Domäner",
+        "href": "/pricing/domains",
+        "popular": false
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Välj ditt VPS-paket",
+    "subtitle": "Skalbara virtuella privata servrar med dedikerade resurser",
+    "mostPopular": "MEST POPULÄR",
+    "cta": "KOM IGÅNG",
+    "firstYear": "Faktureras årligen",
+    "billedAnnually": "Samma pris år efter år – inga överraskningar",
+    "renewAt": "Förnyas till",
+    "perMonth": "/mån",
+    "selectPlan": "Välj paket",
+    "features": {
+      "storage": "{amount} NVMe Lagring",
+      "bandwidth": "{amount} Bandbredd",
+      "vcpu": "{count} vCPU Kärnor",
+      "ram": "{amount} RAM",
+      "rootAccess": "Full Root-åtkomst",
+      "dedicatedIp": "Dedikerad IP"
+    }
+  },
+  "hostingTypes": {
+    "title": "Hitta rätt VPS för dig",
+    "getStarted": "Kom igång",
+    "labels": {
+      "websites": "vCores",
+      "performance": "Prestanda",
+      "storage": "Lagring",
+      "ssl": "Root-åtkomst",
+      "unlimited": "Full"
+    },
+    "performanceLevels": {
+      "standard": "Standard",
+      "increased": "Ökad",
+      "maximum": "Maximal"
+    },
+    "fallbackValues": {
+      "websites": "4",
+      "storage": "100"
+    }
+  },
+  "comparison": {
+    "title": "Jämför våra VPS-paket",
+    "subtitle": "Se enkelt vad varje VPS-paket erbjuder för dina behov.",
+    "popular": "Populär",
+    "getStarted": "Kom igång",
+    "topFeatures": "Toppfunktioner",
+    "mailboxes": "vCores",
+    "freeDomain": "RAM",
+    "managedWp": "NVMe Lagring",
+    "migration": "Bandbredd",
+    "save": "Spara {percent}%",
+    "perMonthSuffix": "/mån",
+    "security": "Säkerhet",
+    "support": "Service och support",
+    "choose": "Välj",
+    "cancelAnytime": "Avbryt när som helst",
+    "topFeaturesList": [
+      {
+        "feature": "vCores",
+        "plan1": "2 Kärnor",
+        "plan2": "4 Kärnor",
+        "plan3": "8 Kärnor"
+      },
+      {
+        "feature": "RAM",
+        "plan1": "4 GB",
+        "plan2": "8 GB",
+        "plan3": "16 GB"
+      },
+      {
+        "feature": "NVMe Lagring",
+        "plan1": "50 GB",
+        "plan2": "100 GB",
+        "plan3": "200 GB"
+      },
+      {
+        "feature": "Bandbredd",
+        "plan1": "Obegränsat",
+        "plan2": "Obegränsat",
+        "plan3": "Obegränsat"
+      }
+    ],
+    "securityFeatures": [
+      {
+        "feature": "Dedikerad port",
+        "plan1": "Delad 1 Gbps",
+        "plan2": "1 Gbps dedikerad",
+        "plan3": " 1 Gbps + 10 Gbps"
+      },
+      {
+        "feature": "DDoS-skydd",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "Cloudflare proxy",
+        "plan1": "false",
+        "plan2": "true",
+        "plan3": "true"
+      }
+    ],
+    "supportFeatures": [
+      {
+        "feature": "1-klick WP Toolkit",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "Git integration",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "Realtidsövervakning ",
+        "plan1": "false",
+        "plan2": "false",
+        "plan3": "true"
+      },
+      {
+        "feature": "24/7 Expertsupport",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      }
+    ]
+  },
+  "enjoyAllThis": {
+    "title1": "Företagsfunktioner.",
+    "title2": "Utan extra kostnad.",
+    "features": {
+      "ssl": "DDoS Skydd inkluderat",
+      "domain": "Full Root-åtkomst",
+      "backups": "Automatiserade säkerhetskopior",
+      "email": "24/7 Expertsupport",
+      "traffic": "Dedikerad IP-adress"
+    }
+  },
+  "faq": {
+    "title": "Vanliga frågor",
+    "items": [
+      {
+        "question": "Vad är VPS hosting?",
+        "answer": "VPS (Virtual Private Server) hosting ger dedikerade resurser inom en virtualiserad miljö. Till skillnad från delad hosting får du garanterad CPU, RAM och lagring som inte delas med andra användare."
+      },
+      {
+        "question": "Får jag full root-åtkomst?",
+        "answer": "Ja! Alla våra VPS-paket inkluderar full root-åtkomst, vilket ger dig fullständig kontroll över din servermiljö."
+      },
+      {
+        "question": "Kan jag uppgradera mitt VPS-paket senare?",
+        "answer": "Absolut! Du kan skala dina VPS-resurser upp eller ner när som helst via vår kontrollpanel."
+      },
+      {
+        "question": "Vilka operativsystem finns tillgängliga?",
+        "answer": "Vi stöder Ubuntu, Debian, CentOS, AlmaLinux och fler. Du kan också ladda upp anpassade ISO-filer."
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Behöver Du Hjälp Att Välja Rätt Plan?",
+    "subheading": "Få expertrådgivning",
+    "description1": "Boka ett kort samtal med vårt team. En av WebblyHostings specialister hjälper dig att välja rätt webbhotellspaket utifrån din webbplats, dina affärsmål och din budget. Vi vill göra ditt beslut enkelt och helt utan stress.",
+    "description2": "Genom att skicka in dina uppgifter godkänner du att WebblyHosting kontaktar dig för support och vägledning gällande dina behov av webbhotellstjänster.",
+    "emailLabel": "E-post:",
+    "phoneLabel": "Telefon:",
+    "email": "Webblymedia@gmail.se",
+    "phone": "+1-800-123-4567",
+    "info": {
+      "social": {
+        "title": "Dela"
+      }
+    }
+  },
+  "contactForm": {
+    "nameLabel": "Namn",
+    "firstNamePlaceholder": "Förnamn",
+    "lastNamePlaceholder": "Efternamn",
+    "emailLabel": "E-post",
+    "emailPlaceholder": "Din e-post",
+    "messageLabel": "Meddelande",
+    "messagePlaceholder": "Ditt meddelande",
+    "submitButton": "Kom igång",
+    "sending": "Skickar..."
+  },
+  "features": {
+    "title": "Varför välja vår VPS Hosting?",
+    "subtitle": "Vi erbjuder företagsklassiga funktioner för dina servrar",
+    "performance": {
+      "title": "Maximal prestanda",
+      "description": "AMD EPYC-processorer och NVMe SSD-lagring för blixtsnabb prestanda."
+    },
+    "security": {
+      "title": "Förbättrad säkerhet",
+      "description": "DDoS-skydd, brandväggar och automatiserade säkerhetskopior håller din server säker."
+    },
+    "support": {
+      "title": "Support dygnet runt",
+      "description": "Våra VPS-experter finns här för att hjälpa dig dygnet runt med alla problem."
+    }
+  }
+}

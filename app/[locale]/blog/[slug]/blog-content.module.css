@@ -1,0 +1,271 @@
+/* Blog Content Styles - Clean, Editorial Article Styling */
+
+.articleContent {
+  font-family: 'DM Sans', sans-serif;
+  color: #475467;
+  line-height: 1.8;
+}
+
+/* Lead Paragraph */
+.articleContent :global(.lead) {
+  font-size: clamp(1.125rem, 2vw, 1.25rem);
+  color: #1e1f21;
+  font-weight: 500;
+  line-height: 1.7;
+  margin-bottom: 2rem;
+}
+
+/* Headings */
+.articleContent h2 {
+  font-family: 'DM Sans', sans-serif;
+  font-size: clamp(1.375rem, 2.5vw, 1.75rem);
+  font-weight: 700;
+  color: #1e1f21;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid #e5e7eb;
+  scroll-margin-top: 6rem;
+}
+
+.articleContent h3 {
+  font-family: 'DM Sans', sans-serif;
+  font-size: clamp(1.125rem, 2vw, 1.375rem);
+  font-weight: 600;
+  color: #1e1f21;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  scroll-margin-top: 6rem;
+}
+
+.articleContent h4 {
+  font-family: 'DM Sans', sans-serif;
+  font-size: clamp(1rem, 1.5vw, 1.125rem);
+  font-weight: 600;
+  color: #1e1f21;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Paragraphs */
+.articleContent p {
+  font-size: clamp(1rem, 1.5vw, 1.0625rem);
+  margin-bottom: 1.25rem;
+  line-height: 1.8;
+}
+
+/* Links */
+.articleContent a {
+  color: #8c52ff;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.articleContent a:hover {
+  color: #6b3fcc;
+  text-decoration: underline;
+}
+
+/* Lists */
+.articleContent ul,
+.articleContent ol {
+  margin: 1.25rem 0;
+  padding-left: 1.5rem;
+}
+
+.articleContent ul {
+  list-style: disc;
+}
+
+.articleContent ul li {
+  margin-bottom: 0.5rem;
+  font-size: clamp(1rem, 1.5vw, 1.0625rem);
+  padding-left: 0.25rem;
+}
+
+.articleContent ol {
+  list-style: decimal;
+}
+
+.articleContent ol li {
+  margin-bottom: 0.5rem;
+  font-size: clamp(1rem, 1.5vw, 1.0625rem);
+  padding-left: 0.25rem;
+}
+
+.articleContent strong {
+  font-weight: 600;
+  color: #1e1f21;
+}
+
+/* Callout Boxes - Simple notes */
+.articleContent :global(.callout) {
+  padding: 1.25rem 1.5rem;
+  border-radius: 8px;
+  margin: 1.5rem 0;
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+}
+
+.articleContent :global(.callout-title) {
+  font-weight: 600;
+  font-size: 0.9375rem;
+  margin-bottom: 0.5rem;
+  color: #1e1f21;
+}
+
+.articleContent :global(.callout) p {
+  margin: 0;
+  font-size: 0.9375rem;
+  line-height: 1.6;
+  color: #4b5563;
+}
+
+.articleContent :global(.callout-note),
+.articleContent :global(.callout-tip) {
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+}
+
+/* Warning/Important - professional notice style */
+.articleContent :global(.callout-warning) {
+  background: #fffcf5;
+  border: 1px solid #e5e1d8;
+}
+
+.articleContent :global(.callout-warning) :global(.callout-title) {
+  color: #9a6700;
+}
+
+/* Blockquote - Editorial pull quote style */
+.articleContent blockquote {
+  margin: 2.5rem 0;
+  padding: 0;
+  background: none;
+  border: none;
+  position: relative;
+}
+
+.articleContent blockquote::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background: #1e1f21;
+}
+
+.articleContent blockquote p {
+  font-size: clamp(1.125rem, 1.8vw, 1.25rem);
+  font-style: italic;
+  color: #1e1f21;
+  margin-bottom: 0.75rem;
+  padding-left: 1.5rem;
+  font-weight: 500;
+  line-height: 1.7;
+}
+
+.articleContent blockquote cite {
+  display: block;
+  font-size: 0.9375rem;
+  font-style: normal;
+  color: #6b7280;
+  font-weight: 400;
+  padding-left: 1.5rem;
+}
+
+/* Table Wrapper */
+.articleContent :global(.table-wrapper) {
+  margin: 2rem 0;
+  overflow-x: auto;
+  border-radius: 8px;
+  border: 1px solid #e5e7eb;
+}
+
+.articleContent table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9375rem;
+}
+
+.articleContent thead {
+  background: #f9fafb;
+}
+
+.articleContent thead th {
+  padding: 0.875rem 1rem;
+  text-align: left;
+  font-weight: 600;
+  color: #374151;
+  font-size: 0.875rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.articleContent tbody tr {
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.articleContent tbody tr:last-child {
+  border-bottom: none;
+}
+
+.articleContent tbody tr:hover {
+  background-color: #f9fafb;
+}
+
+.articleContent tbody td {
+  padding: 0.875rem 1rem;
+  color: #4b5563;
+}
+
+.articleContent tbody td:first-child {
+  font-weight: 500;
+  color: #1e1f21;
+}
+
+/* Code blocks */
+.articleContent code {
+  background: #f3f4f6;
+  color: #1e1f21;
+  padding: 0.15em 0.35em;
+  border-radius: 4px;
+  font-size: 0.875em;
+  font-family: 'JetBrains Mono', 'Fira Code', monospace;
+}
+
+.articleContent pre {
+  background: #1f2937;
+  border-radius: 8px;
+  padding: 1.25rem;
+  overflow-x: auto;
+  margin: 1.5rem 0;
+}
+
+.articleContent pre code {
+  background: none;
+  color: #e5e7eb;
+  padding: 0;
+  font-size: 0.875rem;
+  line-height: 1.7;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .articleContent :global(.table-wrapper) {
+    margin-left: -1rem;
+    margin-right: -1rem;
+    border-radius: 0;
+    border-left: none;
+    border-right: none;
+  }
+
+  .articleContent :global(.callout) {
+    padding: 1rem 1.25rem;
+  }
+
+  .articleContent blockquote {
+    margin: 2rem 0;
+  }
+}

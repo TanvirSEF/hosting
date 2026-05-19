@@ -1,0 +1,211 @@
+{
+  "hero": {
+    "title": "Find Your Perfect <span class='text-[#8C52FF]'>Domain Name</span>",
+    "subtitle": "Your online identity starts here. Search and register your dream domain today.",
+    "navigationItems": [
+      { "name": "Web Hosting", "href": "/pricing", "popular": false },
+      { "name": "VPS Hosting", "href": "/pricing/vps-hosting", "popular": false },
+      { "name": "WordPress Hosting", "href": "/pricing/wordpress-hosting", "popular": true },
+      { "name": "Domains", "href": "/pricing/domains", "popular": false }
+    ]
+  },
+  "hostingTypes": {
+    "title": "Find the right domain plan for you",
+    "getStarted": "Get started",
+    "labels": {
+      "domains": "Domains",
+      "performance": "Performance",
+      "storage": "Storage",
+      "privacy": "Privacy Protection",
+      "included": "Included"
+    },
+    "performanceLevels": {
+      "standard": "Standard",
+      "increased": "Increased",
+      "maximum": "Maximum"
+    },
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "description": "Perfect for individuals starting their online presence"
+      },
+      "business": {
+        "name": "Business Plan",
+        "description": "Ideal for growing businesses with multiple domains"
+      },
+      "pro": {
+        "name": "Pro Plan",
+        "description": "For professionals managing extensive domain portfolios"
+      }
+    },
+    "planMetrics": [
+      {
+        "key": "starter",
+        "iconKey": "starter",
+        "performanceLevel": "Low",
+        "domains": "1",
+        "storage": "10"
+      },
+      {
+        "key": "business",
+        "iconKey": "business",
+        "performanceLevel": "Medium",
+        "domains": "10",
+        "storage": "50"
+      },
+      {
+        "key": "pro",
+        "iconKey": "pro",
+        "performanceLevel": "High",
+        "domains": "Unlimited",
+        "storage": "100"
+      }
+    ]
+  },
+  "search": {
+    "heading": "Search for Your Domain",
+    "description": "Enter your desired domain name and check availability across multiple extensions instantly.",
+    "placeholder": "Search for your domain...",
+    "button": "Search",
+    "searching": "Searching...",
+    "resultsFor": "Search Results for",
+    "available": "Available for registration",
+    "taken": "Already registered",
+    "year": "year",
+    "availableBadge": "Available",
+    "takenBadge": "Taken",
+    "registerNow": "Register Now",
+    "noResults": "No results found. Please try again.",
+    "errorEmpty": "Please enter a domain name",
+    "errorFailed": "Failed to check domain availability",
+    "suggestions": [
+      "yourbusiness.com",
+      "yourname.net",
+      "yourstore.shop",
+      "yourbrand.io",
+      "yoursite.online"
+    ],
+    "popularTlds": [".com", ".net", ".org", ".io", ".co"]
+  },
+  "pricing": {
+    "title": "Compare Domain Extension Prices",
+    "subtitle": "Choose from hundreds of domain extensions with transparent pricing",
+    "tld": "Extension",
+    "register": "Register",
+    "renew": "Renew",
+    "transfer": "Transfer",
+    "year": "yr",
+    "popular": "Popular",
+    "registerBtn": "Register",
+    "searchPlaceholder": "Search extensions...",
+    "noResults": "No extensions found matching your search.",
+    "all": "All",
+    "categoryPopular": "Popular",
+    "categoryNew": "New TLDs",
+    "categoryTech": "Tech",
+    "categoryBusiness": "Business"
+  },
+  "whyChoose": {
+    "title1": "Why register",
+    "title2": "domains with us?",
+    "features": {
+      "support": {
+        "title": "24/7 Live Support",
+        "description": "Need help? Reach out to our team anytime, day or night."
+      },
+      "privacy": {
+        "title": "Free Privacy Protection",
+        "description": "We hide your personal info from WHOIS database for free."
+      },
+      "management": {
+        "title": "Easy Management",
+        "description": "Manage DNS, renewals, and transfers from one dashboard."
+      },
+      "registrar": {
+        "title": "ICANN Accredited",
+        "description": "Trusted registrar with 300+ domain extensions available."
+      }
+    }
+  },
+  "tips": {
+    "title": "Tips Before You Buy a Domain",
+    "subtitle": "Make the right choice for your online presence with these expert tips.",
+    "items": {
+      "short": {
+        "title": "Keep It Short",
+        "description": "Try to keep your domain name under 15 characters. Shorter names are easier to remember and type."
+      },
+      "simple": {
+        "title": "Keep It Simple",
+        "description": "Avoid hyphens, numbers, and unusual spellings that confuse visitors."
+      },
+      "brand": {
+        "title": "Include Your Brand",
+        "description": "Use your brand name or relevant keywords to boost recognition and SEO."
+      },
+      "availability": {
+        "title": "Check Availability",
+        "description": "Search thoroughly and ensure your name isn't trademarked elsewhere."
+      },
+      "local": {
+        "title": "Think Locally",
+        "description": "Consider country-specific extensions like .co.uk or .de for local targeting."
+      },
+      "fast": {
+        "title": "Act Fast",
+        "description": "Great domains sell quickly. Secure yours before someone else does."
+      }
+    }
+  },
+  "faq": {
+    "title": "Domain Registration FAQ",
+    "items": [
+      {
+        "question": "How long does domain registration take?",
+        "answer": "Domain registration is usually instant. Once you complete the purchase, the domain is yours and ready to be used immediately."
+      },
+      {
+        "question": "Can I transfer my domain to you?",
+        "answer": "Yes, you can transfer any eligible domain to us. The process usually takes 5-7 days depending on the TLD registry."
+      },
+      {
+        "question": "Do I get full ownership?",
+        "answer": "Yes, you are the legal owner of any domain name registered through us for the duration of your registration period."
+      },
+      {
+        "question": "Is WHOIS privacy included?",
+        "answer": "Yes, we provide free WHOIS privacy protection for all eligible TLDs to keep your personal information safe from spammers."
+      },
+      {
+        "question": "Can I get a free domain?",
+        "answer": "Yes! You get a free domain for the first year when you purchase any annual web hosting plan."
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Need Help Choosing the Right Plan?",
+    "subheading": "Get expert advice",
+    "description1": "Book a short call with our team. One of WebblyHosting's specialists will help you choose the right hosting package based on your website, business goals, and budget. We want to make your decision simple and stress-free.",
+    "description2": "By submitting your details, you agree to WebblyHosting contacting you for support and guidance regarding your hosting needs.",
+    "emailLabel": "Email:",
+    "phoneLabel": "Phone:",
+    "email": "Webblymedia@gmail.se",
+    "phone": "+1-800-123-4567",
+    "info": {
+      "social": {
+        "title": "Share"
+      }
+    }
+  },
+  "contactForm": {
+    "nameLabel": "Name",
+    "firstNamePlaceholder": "First Name",
+    "lastNamePlaceholder": "Last Name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Your Email",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Your Message",
+    "submitButton": "Get Started",
+    "sending": "Sending..."
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "articles": "Articles",
+  "featuredLabel": "Featured",
+  "featured": [
+    {
+      "id": 1,
+      "title": "How to Choose the Right Web Hosting",
+      "description": "Learn the key factors to consider when selecting a web hosting provider for your business.",
+      "image": "/images/home/blog/blog1.png"
+    },
+    {
+      "id": 2,
+      "title": "10 Ways to Speed Up Your WordPress Site",
+      "description": "Discover proven techniques to optimize your WordPress performance.",
+      "image": "/images/home/blog/blog2.png"
+    }
+  ],
+  "recent": [
+    {
+      "id": 3,
+      "title": "The Complete Guide to Domain Names",
+      "description": "Everything you need to know about choosing and managing domain names.",
+      "image": "/images/home/blog/blogrest.png"
+    },
+    {
+      "id": 4,
+      "title": "Website Security Best Practices",
+      "description": "Essential security measures to protect your website from threats.",
+      "image": "/images/home/blog/blogrest.png"
+    },
+    {
+      "id": 5,
+      "title": "VPS vs Shared Hosting Comparison",
+      "description": "Which hosting type is right for your needs? We break it down.",
+      "image": "/images/home/blog/blogrest.png"
+    }
+  ],
+  "readMore": "Read More",
+  "sidebar": {
+    "categories": "Categories",
+    "popularPosts": "Popular Posts",
+    "newsletter": {
+      "title": "Stay Updated",
+      "description": "Get the latest tutorials and tips delivered to your inbox.",
+      "placeholder": "Enter your email",
+      "button": "Subscribe"
+    }
+  },
+  "loadMore": "Load More",
+  "noPostsFound": "No posts found",
+  "backToBlog": "Back to Blog",
+  "sharePost": "Share this post",
+  "relatedPosts": "Related Posts",
+  "author": "Written by",
+  "published": "Published",
+  "updated": "Last updated",
+  "tableOfContents": "Table of Contents",
+  "minRead": "min read",
+  "demoCategories": [
+    {
+      "id": "hosting",
+      "name": "Hosting",
+      "count": 12
+    },
+    {
+      "id": "wordpress",
+      "name": "WordPress",
+      "count": 8
+    },
+    {
+      "id": "domains",
+      "name": "Domains",
+      "count": 5
+    },
+    {
+      "id": "tutorials",
+      "name": "Guides",
+      "count": 15
+    },
+    {
+      "id": "security",
+      "name": "Security",
+      "count": 6
+    }
+  ],
+  "demoPosts": [
+    {
+      "slug": "how-to-choose-web-hosting",
+      "title": "How to Choose the Right Web Hosting for Your Business",
+      "excerpt": "Selecting the perfect web hosting solution is crucial for your online success. Learn about the key factors to consider, from uptime guarantees to scalability options, and make an informed decision for your website.",
+      "image": "/images/blog/hosting-guide.png",
+      "category": "Hosting",
+      "date": "Dec 28, 2025",
+      "readTime": "8 min read",
+      "featured": true
+    },
+    {
+      "slug": "wordpress-performance-optimization",
+      "title": "10 Ways to Speed Up Your WordPress Website",
+      "excerpt": "A slow website can hurt your SEO and user experience. Discover proven techniques to optimize your WordPress site's performance and achieve faster load times.",
+      "image": "/images/blog/wordpress-speed.png",
+      "category": "WordPress",
+      "date": "Dec 25, 2025",
+      "readTime": "6 min read"
+    },
+    {
+      "slug": "domain-name-guide",
+      "title": "The Complete Guide to Choosing a Domain Name",
+      "excerpt": "Your domain name is your online identity. Learn best practices for selecting a memorable, brandable domain that helps your business stand out.",
+      "image": "/images/blog/domain-guide.png",
+      "category": "Domains",
+      "date": "Dec 22, 2025",
+      "readTime": "5 min read"
+    },
+    {
+      "slug": "ssl-certificate-importance",
+      "title": "Why Your Website Needs an SSL Certificate",
+      "excerpt": "SSL certificates are essential for website security and SEO. Understand how SSL works and why it's critical for building trust with your visitors.",
+      "image": "/images/blog/ssl-security.png",
+      "category": "Security",
+      "date": "Dec 20, 2025",
+      "readTime": "4 min read"
+    },
+    {
+      "slug": "vps-vs-shared-hosting",
+      "title": "VPS vs Shared Hosting: Which is Right for You?",
+      "excerpt": "Confused between VPS and shared hosting? We break down the differences, pros, and cons to help you choose the best option for your needs.",
+      "image": "/images/blog/vps-comparison.png",
+      "category": "Hosting",
+      "date": "Dec 18, 2025",
+      "readTime": "7 min read"
+    },
+    {
+      "slug": "website-backup-strategies",
+      "title": "Essential Website Backup Strategies for 2025",
+      "excerpt": "Don't let data loss ruin your business. Learn about automated backup solutions and best practices to keep your website data safe and recoverable.",
+      "image": "/images/blog/backup-guide.png",
+      "category": "Security",
+      "date": "Dec 15, 2025",
+      "readTime": "5 min read"
+    },
+    {
+      "slug": "website-migration-guide",
+      "title": "Complete Website Migration Guide",
+      "excerpt": "Moving your website to a new host? Follow our step-by-step guide to ensure a smooth migration without losing data or SEO rankings.",
+      "image": "/images/blog/hosting-guide.png",
+      "category": "Guides",
+      "date": "Dec 12, 2025",
+      "readTime": "10 min read"
+    },
+    {
+      "slug": "dns-management-tutorial",
+      "title": "DNS Management: A Beginner's Guide",
+      "excerpt": "Understanding DNS is essential for website management. Learn how to configure DNS records, troubleshoot issues, and optimize performance.",
+      "image": "/images/blog/domain-guide.png",
+      "category": "Guides",
+      "date": "Dec 10, 2025",
+      "readTime": "8 min read"
+    },
+    {
+      "slug": "cpanel-beginners-guide",
+      "title": "cPanel for Beginners: Complete Tutorial",
+      "excerpt": "New to cPanel? This comprehensive guide covers everything you need to know to manage your hosting account like a pro.",
+      "image": "/images/blog/wordpress-speed.png",
+      "category": "Guides",
+      "date": "Dec 8, 2025",
+      "readTime": "12 min read"
+    }
+  ],
+  "demoPopularPosts": [
+    {
+      "slug": "how-to-choose-web-hosting",
+      "title": "How to Choose the Right Web Hosting",
+      "image": "/images/blog/hosting-guide.png",
+      "date": "Dec 28, 2025"
+    },
+    {
+      "slug": "wordpress-performance-optimization",
+      "title": "10 Ways to Speed Up WordPress",
+      "image": "/images/blog/wordpress-speed.png",
+      "date": "Dec 25, 2025"
+    },
+    {
+      "slug": "ssl-certificate-importance",
+      "title": "Why You Need an SSL Certificate",
+      "image": "/images/blog/ssl-security.png",
+      "date": "Dec 20, 2025"
+    }
+  ],
+  "heading": "Latest from Webbly Insights",
+  "subheading": "Expert guides, tips, and insights to help you build and grow your online presence. From hosting to web development, we've got you covered.",
+  "hero": {
+    "title": "Webbly Insights",
+    "description": "Your page where you get the latest news for your digital presence"
+  },
+  "loading": "Loading blog posts...",
+  "latestPosts": "Latest Posts",
+  "empty": {
+    "title": "No posts found",
+    "description": "There are no posts in this category yet. Check back soon!"
+  },
+  "fallbackImage": "/images/blog/hosting-guide.png",
+  "defaultReadTime": "5 min read",
+  "fallbackCategoryIcon": "📄",
+  "routes": {
+    "blogBase": "/blog",
+    "categoryBase": "/blog/category",
+    "postBase": "/blog"
+  },
+  "categories": {
+    "all": "All Posts"
+  },
+  "categoryNames": {
+    "hosting": "Hosting",
+    "wordpress": "WordPress",
+    "domains": "Domains",
+    "tutorials": "Guides",
+    "guides": "Guides",
+    "security": "Security"
+  },
+  "cta": {
+    "heading": "Ready to elevate your online presence?",
+    "subheading": "Make better, faster, more successful websites with WebblyHosting.",
+    "trustedBy": "Reliable hosting for <strong class='text-[#8C52FF]'>growing businesses</strong> and entrepreneurs.",
+    "viewPlans": "View Plans",
+    "webHosting": {
+      "title": "Web Hosting",
+      "description": "Fast and secure hosting for small and medium sites.",
+      "link": "/shared-hosting"
+    },
+    "wordpressHosting": {
+      "title": "WordPress Hosting",
+      "description": "Optimized hosting for WordPress sites.",
+      "link": "/wordpress-hosting"
+    },
+    "vpsHosting": {
+      "title": "VPS Hosting",
+      "description": "Powerful virtual servers for growing businesses.",
+      "link": "/vps"
+    },
+    "ecommerceHosting": {
+      "title": "E-commerce Hosting",
+      "description": "Optimized hosting for online stores.",
+      "link": "/ecommerce-hosting"
+    }
+  }
+}

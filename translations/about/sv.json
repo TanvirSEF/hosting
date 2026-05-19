@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "title": "Om WebblyHosting",
+    "subtitle": "Vårt uppdrag är att göra premiumwebbhotell tillgängligt för alla. Snabba servrar, pålitlig drifttid och en support som faktiskt hjälper."
+  },
+  "sections": {
+    "items": [
+      {
+        "heading": "Infrastruktur i världsklass-byggd för hastighet",
+        "description": "Våra datacenter är utrustade med den senaste NVMe SSD-lagringen, högfrekventa processorer och redundanta nätverksanslutningar. Varje server är optimerad för maximal prestanda, vilket säkerställer att din webbplats laddas på millisekunder. Med strategiskt placerade servrar över flera kontinenter levererar vi ditt innehåll till besökarna snabbare än någonsin.",
+        "image": "/images/about/datacenter.png"
+      },
+      {
+        "heading": "Expertsupport 24/7 som faktiskt förstår hosting",
+        "description": "Vårt supportteam läser inte bara från manus de år erfarna hostingproffs som förstår tekniken inifrån och ut. Oavsett om du migrerar en komplex WordPress-webbplats eller felsöker ett konfigurationsproblem, är vi här för att hjälpa Genomsnittlig svarstid under 5 minuter",
+        "image": "/images/about/support-team.png"
+      },
+      {
+        "heading": "Säkerheten först-så skyddar vi ditt företag",
+        "description": "Varje hostingkonto inkluderar gratis SSL-certifikat, automatiserade dagliga säkerhetskopior, DDoS-skydd och skanning av skadlig kod i realtid. Vår säkerhetsinfrastruktur körs dygnet runt, övervakar hot och blockerar automatiskt attacker innan de når din webbplats. Din data och dina besökare är skyddade i alla lägen.",
+        "image": "/images/about/security.png"
+      }
+    ]
+  },
+  "pricingPhilosophy": {
+    "tagline": "Vi Säljer Inga Tillfälliga Rabatter",
+    "heading": "Vi Erbjuder Stabilitet, Tydlighet Och Sinnesro",
+    "p1": "WebblyHosting grundades med en enkel idé: webbhotellspriser ska vara ärliga och förutsägbara. Vi tror på långsiktiga relationer med våra kunder.",
+    "p2": "Istället för att erbjuda tillfälliga rabatter som senare höjs använder vi en <bold>Hållbar och Ärlig Prissättningsmodell</bold>. Våra kunder betalar ett rättvist pris som förblir konsekvent år efter år.",
+    "p3": "Vi förenklar också hela din digitala närvaro genom att samla allt under ett tak — domän, webbhotell och professionell e-post — med en leverantör och en kontaktpunkt.",
+    "p4": "Detta tillvägagångssätt hjälper företag att:",
+    "bullets": [
+      "Undvika oväntade prishöjningar vid förnyelse",
+      "Förenkla administrationen",
+      "Upprätthålla en förutsägbar budget",
+      "Skala utan prisöverraskningar"
+    ],
+    "cta": "UTFORSKA VÅR PRISFILOSOFI",
+    "ctaLink": "/price-philosophy"
+  },
+  "testimonials": {
+    "heading": "Vad våra kunder säger",
+    "subtitle": "Gå med tusentals nöjda kunder",
+    "items": [
+      {
+        "quote": "Sedan vi bytte till WebblyHosting har vår webbplatshastighet fördubblats och vi har inte upplevt en enda minuts nedtid. Kundsupporten är fenomenal.",
+        "name": "Sarah Jenkins",
+        "position": "VD",
+        "company": "TechStart Inc",
+        "image": "/images/about/testimonial-1.png",
+        "rating": 5
+      },
+      {
+        "quote": "Migreringsprocessen var sömlös. Deras team hanterade allt medan jag sov, och vi vaknade till en snabbare, säkrare server. Absolut värt det.",
+        "name": "David Chen",
+        "position": "E-handelschef",
+        "company": "Global Retail",
+        "image": "/images/about/testimonial-2.png",
+        "rating": 5
+      },
+      {
+        "quote": "Som en byrå som hanterar 50+ kundwebbplatser är stabilitet avgörande. WebblyHosting ger prestandan vi behöver och verktygen som gör vårt jobb enklare.",
+        "name": "Elena Rodriguez",
+        "position": "Grundare",
+        "company": "Creative Digital",
+        "image": "/images/about/testimonial-3.png",
+        "rating": 5
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Redo att Skala Upp Din Webbplats?",
+    "subheading": "Gå med tusentals företag som litar på WebblyHosting för sin online-närvaro. Kom igång idag och upplev skillnaden.",
+    "button": "Kom Igång Nu",
+    "buttonLink": "/pricing"
+  },
+  "contact": {
+    "heading": "Behöver Du Hjälp Att Välja Rätt Plan?",
+    "subheading": "Få expertrådgivning",
+    "email": "Support@webblyhosting.com",
+    "phone": ""
+  }
+}

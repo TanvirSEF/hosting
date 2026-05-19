@@ -1,0 +1,364 @@
+{
+  "hero": {
+    "brandName": "E-COMMERCE HOSTING",
+    "mainTitle": "Powerful, Secure, and Scalable Web Hosting for Online Stores",
+    "pricing": {
+      "from": "From",
+      "price": "€6.99",
+      "unit": "/mo",
+      "offer": ""
+    },
+    "features": {
+      "domain": "WooCommerce-optimized",
+      "hosting": "Free SSL & secure checkout",
+      "support": "Fast product & cart loading",
+      "reliability": "Reliable & scalable hosting"
+    },
+    "cta": "View Plans & Pricing",
+    "ctaLink": "#pricing",
+    "guarantee": "30-day money-back guarantee"
+  },
+  "stats": {
+    "clients": {
+      "number": "2021",
+      "suffix": "  ",
+      "label": "Founded"
+    },
+    "countries": {
+      "number": "99",
+      "suffix": ".9%",
+      "label": "Uptime"
+    },
+    "experience": {
+      "number": "24",
+      "suffix": "/7",
+      "label": "Support"
+    },
+    "websites": {
+      "number": "30",
+      "suffix": "",
+      "label": "Days Money Back Guarantee"
+    }
+  },
+  "pricing": {
+    "heading": "Choose Your E-commerce Plan That Suits Your Brand",
+    "subheading": "Flexible plans designed to grow with your online store",
+    "mostPopular": "Most Popular",
+    "cta": "Get Started",
+    "firstYear": "Billed Annually",
+    "standardRate": "Standard Rate",
+    "billedAnnually": "Same price year after year – no surprises",
+    "from": "",
+    "youSave": "You save",
+    "orderLinkBase": "/order/hosting?plan=",
+    "plans": [
+      {
+        "name": "Starter Store",
+        "description": "Perfect for new online stores",
+        "price": "$3.99",
+        "unit": "/mo",
+        "yearly": "$39 yearly",
+        "orLabel": "or",
+        "features": [
+          "1 Online Store",
+          "10 GB NVMe Storage",
+          "Free SSL Certificate",
+          "WooCommerce Pre-installed"
+        ]
+      },
+      {
+        "name": "Business Store",
+        "description": "Ideal for growing e-commerce",
+        "price": "$7.99",
+        "unit": "/mo",
+        "yearly": "$79 yearly",
+        "orLabel": "or",
+        "highlight": true,
+        "features": [
+          "Unlimited Online Stores",
+          "50 GB NVMe Storage",
+          "Free SSL Certificate",
+          "Staging Environment"
+        ]
+      },
+      {
+        "name": "Enterprise Store",
+        "description": "Maximum power for high-volume sales",
+        "price": "$14.99",
+        "unit": "/mo",
+        "yearly": "$149 yearly",
+        "orLabel": "or",
+        "features": [
+          "Unlimited Online Stores",
+          "Unlimited NVMe Storage",
+          "Free SSL Certificate",
+          "Priority E-commerce Support"
+        ]
+      }
+    ]
+  },
+  "features": {
+    "tagline": "Fast, Secure, and Built to Sell",
+    "heading": "Our E-commerce Hosting Features",
+    "description": "WebblyHosting E-commerce hosting is designed specifically for online stores. It delivers fast loading, stable checkout performance, and strong security for daily sales. You get optimized infrastructure, store-focused tools, and managed hosting support—all in one place.",
+    "tabs": {
+      "performance": "Performance & Speed",
+      "ease": "Easy Store Management",
+      "security": "Security & Reliability"
+    },
+    "content": {
+      "performance": [
+        {
+          "title": "WooCommerce-optimized Servers",
+          "description": "Servers are tuned specifically for WooCommerce workloads. Product pages, carts, and checkout processes run smoothly without delays."
+        },
+        {
+          "title": "SSD / NVMe Storage",
+          "description": "High-speed storage ensures faster product loading, quicker database queries, and smoother order processing every time."
+        },
+        {
+          "title": "Fast Product & Checkout Loading",
+          "description": "Resources are balanced to support online stores. Your shop stays responsive even during busy shopping hours."
+        },
+        {
+          "title": "Optimized Caching for Stores",
+          "description": "Optimized server settings and caching keep product pages and checkout flows fast and responsive."
+        },
+        {
+          "title": "Traffic-ready for Sales & Campaigns",
+          "description": "Handles promotional traffic, sales events, and daily visitors with confidence."
+        },
+        {
+          "title": "Stable Performance During Peak Orders",
+          "description": "Built-in caching improves store speed and reduces server load for better shopping experiences."
+        }
+      ],
+      "ease": [
+        {
+          "title": "One-click WooCommerce Setup",
+          "description": "Launch your online store quickly with simple WooCommerce setup options."
+        },
+        {
+          "title": "WordPress + WooCommerce Auto Install",
+          "description": "Install WordPress and WooCommerce together without manual configuration."
+        },
+        {
+          "title": "Simple Control Panel",
+          "description": "Manage products, databases, domains, and settings from one easy dashboard."
+        },
+        {
+          "title": "Product & Database Management",
+          "description": "Easily manage product data, orders, and store databases."
+        },
+        {
+          "title": "Domain & Subdomain Control",
+          "description": "Add and manage store domains or subdomains with ease."
+        },
+        {
+          "title": "Staging for Store Updates",
+          "description": "Test new products, themes, or updates safely before going live."
+        }
+      ],
+      "security": [
+        {
+          "title": "Free SSL for Secure Checkout",
+          "description": "Protect customer data and transactions with HTTPS encryption at no extra cost."
+        },
+        {
+          "title": "Malware Scanning & Cleanup",
+          "description": "Automatic scans help detect and remove threats to keep your store secure."
+        },
+        {
+          "title": "Web Application Firewall",
+          "description": "Blocks malicious traffic and common attacks before they reach your store."
+        },
+        {
+          "title": "Daily Server Monitoring",
+          "description": "Servers are monitored 24/7 to ensure stable store performance and quick issue resolution."
+        },
+        {
+          "title": "Account Isolation",
+          "description": "Each store runs in an isolated environment to prevent cross-site issues."
+        },
+        {
+          "title": "High Uptime for Stores",
+          "description": "Built for reliability so your online store stays open and ready to sell at all times."
+        }
+      ]
+    }
+  },
+  "creationSteps": {
+    "tagline": "E-commerce Hosting Made to Scale",
+    "heading": "Launch Your Online Store with Confidence",
+    "steps": [
+      {
+        "title": "Build Smarter, Sell Faster",
+        "description": "Get WooCommerce-optimized hosting designed for smooth product browsing, fast checkout, and reliable daily sales. Your store runs efficiently from launch to growth."
+      },
+      {
+        "title": "Easy WooCommerce Setup",
+        "description": "Launch your online store quickly with one-click WooCommerce installation and pre-configured settings. No technical setup or manual configuration required."
+      },
+      {
+        "title": "Free With Every Plan",
+        "description": "WooCommerce comes included with your hosting plan at no extra cost. Start selling online without paying extra for essential eCommerce features."
+      }
+    ]
+  },
+  "management": {
+    "tagline": "No Setup. No Complexity. Just Selling",
+    "heading": "Easy E-commerce Hosting Management",
+    "cards": {
+      "monitoring": {
+        "title": "Automatic WooCommerce & Core Updates",
+        "description": "Your store stays updated automatically. We manage WordPress and WooCommerce core updates for security and stability."
+      },
+      "patch": {
+        "title": "Daily Store Backups & Restore",
+        "description": "Automatic daily backups protect products, orders, and customer data. Restore your store anytime."
+      },
+      "backups": {
+        "title": "Performance Monitoring",
+        "description": "Continuous monitoring ensures smooth operation and consistent store speed."
+      },
+      "support": {
+        "title": "Cache & Speed Optimization",
+        "description": "Built-in caching and performance tools help your store load faster with minimal effort."
+      }
+    }
+  },
+  "whyChoose": {
+    "heading": "Why WebblyHosting",
+    "tagline": "Reliable Hosting for Serious Sellers",
+    "tabs": {
+      "support": {
+        "title": "Customer Support",
+        "description": "Our eCommerce hosting experts are available 24/7 to assist you. Whether you're setting up your store, managing orders, or handling performance issues, you can count on fast, knowledgeable, and friendly support whenever you need help."
+      },
+      "privacy": {
+        "title": "Privacy & Security",
+        "description": "We protect your online store and customer data with strong security measures. You get free SSL certificates, advanced firewalls, malware scanning, and continuous monitoring to keep transactions and sensitive information safe at all times."
+      },
+      "pricing": {
+        "title": "Affordable Pricing",
+        "description": "Get powerful WooCommerce hosting at a price that makes sense for your business. Our plans are transparent, easy to understand, and free from hidden fees—so you can focus on growing sales without worrying about extra costs."
+      }
+    }
+  },
+  "useCases": {
+    "heading": "Top Use Cases for E-commerce Hosting",
+    "tagline": "From Startups to Growing Stores",
+    "description": "E-commerce hosting is perfect for online stores of all sizes, from small startups to established brands ready to scale.",
+    "cards": [
+      {
+        "title": "Small Online Stores",
+        "description": "E-commerce hosting is ideal for small online stores starting their journey. It delivers fast product loading, smooth checkout, and reliable uptime without complex setup."
+      },
+      {
+        "title": "Product-Based Businesses",
+        "description": "Product-based businesses benefit from E-commerce hosting for managing catalogs, pricing, and orders efficiently. Optimized servers ensure product pages load quickly and shopping carts stay responsive."
+      },
+      {
+        "title": "Digital Product Stores",
+        "description": "E-commerce hosting works perfectly for selling digital products like downloads, courses, and licenses. Fast performance and secure checkout ensure customers can purchase and access files smoothly."
+      },
+      {
+        "title": "Startup E-commerce Brands",
+        "description": "Startup eCommerce brands use our hosting to launch quickly and grow confidently. It handles early traffic, marketing campaigns, and promotions without performance issues."
+      },
+      {
+        "title": "Dropshipping Stores",
+        "description": "Dropshipping stores rely on E-commerce hosting for speed and stability. Fast-loading product pages and reliable checkout flows improve customer experience and conversions."
+      },
+      {
+        "title": "Local Online Shops",
+        "description": "Local shops selling products online benefit from E-commerce hosting for reliable performance and secure payments. Whether it's a bakery, boutique, or local retailer, stores stay fast and accessible."
+      },
+      {
+        "title": "Subscription-Based Stores",
+        "description": "E-commerce hosting is well-suited for subscription-based businesses offering recurring products or services. It supports membership plugins, recurring billing, and customer management smoothly."
+      },
+      {
+        "title": "Growing Online Stores",
+        "description": "Growing online stores need hosting that can handle increasing traffic and orders. E-commerce hosting provides stable performance during sales, promotions, and peak shopping times."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "FAQs About E-commerce Hosting",
+    "questions": [
+      {
+        "question": "What is E-commerce Hosting?",
+        "answer": "E-commerce hosting is a type of web hosting optimized specifically for online stores. It is built to handle product pages, carts, checkout processes, and customer data efficiently. With E-commerce hosting, server performance, security, and updates are managed for you. It's a reliable choice for online stores that need fast speed, stable checkout, and secure transactions without technical complexity."
+      },
+      {
+        "question": "What are the benefits of E-commerce Hosting?",
+        "answer": "Store-Optimized Performance: E-commerce hosting uses servers tuned for online store workloads. Product pages load faster, carts stay responsive, and checkout runs smoothly—even during high traffic. Easy to Manage: You don't need technical expertise. WebblyHosting manages server maintenance, updates, and performance so you can focus on managing products and sales. Secure Payments & Data: Free SSL certificates, firewalls, malware scanning, and monitoring protect customer data and transactions at all times. Scalable for Growth: E-commerce hosting supports growing product catalogs, increasing traffic, and higher order volumes. Built for Selling: From fast product loading to reliable order processing, everything is optimized to improve the shopping experience and conversion rates."
+      },
+      {
+        "question": "Who should use E-commerce Hosting?",
+        "answer": "E-commerce hosting is ideal for anyone running an online store. It's best for small and medium online stores, product-based businesses, digital product sellers, startup eCommerce brands, subscription-based stores, and dropshipping stores. If your website focuses on selling products or services online, E-commerce hosting gives you better speed, stability, and security than regular hosting."
+      },
+      {
+        "question": "Is E-commerce Hosting good for startup stores?",
+        "answer": "Yes, E-commerce hosting is an excellent choice for startup stores. It's beginner-friendly, easy to manage, and designed for selling from day one. You can launch quickly, handle early traffic smoothly, and scale your hosting as your store grows without changing platforms or dealing with technical setup."
+      },
+      {
+        "question": "How do I choose the right E-commerce plan for my needs?",
+        "answer": "To choose the right E-commerce hosting plan, consider: Store Size (number of products, pages, and categories you plan to manage), Traffic Volume (expected daily visitors and sales activity), Performance Needs (faster loading for product pages and checkout), and Future Growth (choose a plan that allows easy upgrades as sales increase). WebblyHosting makes it easy to compare E-commerce plans so you can select the one that fits your store's performance, security, and budget needs."
+      },
+      {
+        "question": "Is E-commerce hosting secure for payments?",
+        "answer": "Yes, E-commerce hosting is secure for payments. WebblyHosting includes free SSL certificates for encrypted checkout, web application firewalls, malware scanning, and continuous monitoring. These features protect customer information, payment data, and your store from threats without extra configuration."
+      },
+      {
+        "question": "Can I migrate my existing online store?",
+        "answer": "Yes, you can migrate your existing online store. Products, orders, customer data, and content can be transferred safely. WebblyHosting ensures a smooth migration process so your store stays online and functional during the move."
+      },
+      {
+        "question": "When should I upgrade my E-commerce hosting?",
+        "answer": "You should upgrade your E-commerce hosting when your store grows and needs more resources. Common signs include slower loading times, higher traffic, more products, or increased order volume. Upgrading gives your store better performance, stability, and room to scale."
+      },
+      {
+        "question": "What is the difference between WordPress Hosting and E-commerce Hosting?",
+        "answer": "WordPress hosting is optimized for content-based websites like blogs and business sites. E-commerce hosting is optimized specifically for online stores. It provides better performance for product pages, carts, and checkout, along with enhanced security for payments and customer data. E-commerce hosting is the better choice for serious online stores."
+      },
+      {
+        "question": "How can I get started with E-commerce Hosting on your platform?",
+        "answer": "Getting started with E-commerce hosting at WebblyHosting is simple: Visit our Website and browse E-commerce hosting plans and choose the one that fits your store. Sign Up and complete the signup process and connect a domain or register a new one. Launch Your Store using one-click WooCommerce installation and start adding products. Manage with Ease using the control panel to manage products, orders, and domains. We handle server maintenance and security. With WebblyHosting, you can launch your online store confidently, backed by 24/7 expert support."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Start Selling Online Today",
+    "subheading": "Launch your online store with WooCommerce-optimized hosting. Fast checkout, secure payments, and reliable performance for growing businesses.",
+    "button": "Open Your Store Now",
+    "buttonLink": "#pricing"
+  },
+  "contact": {
+    "heading": "Need Help Choosing the Right Plan?",
+    "subheading": "Get expert advice",
+    "description1": "Book a short call with our team. One of WebblyHosting's specialists will help you choose the right hosting package based on your website, business goals, and budget. We want to make your decision simple and stress-free.",
+    "description2": "By submitting your details, you agree to WebblyHosting contacting you for support and guidance regarding your hosting needs.",
+    "emailLabel": "Email:",
+    "phoneLabel": "",
+    "email": "support@webblyhosting.com",
+    "phone": "",
+    "info": {
+      "social": {
+        "title": "Share"
+      }
+    }
+  },
+  "contactForm": {
+    "nameLabel": "Name",
+    "firstNamePlaceholder": "First Name",
+    "lastNamePlaceholder": "Last Name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Your Email",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Your Message",
+    "submitButton": "Get Started",
+    "sending": "Sending..."
+  }
+}

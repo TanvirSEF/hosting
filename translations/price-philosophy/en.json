@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "title": "Price Philosophy",
+    "description": "Our pricing philosophy"
+  },
+  "hero": {
+    "brandName": "WebblyHosting's Pricing Philosophy",
+    "mainTitle": "Transparent Pricing Built on Trust, Not Tricks",
+    "paragraph1": "At WebblyHosting, we follow a different philosophy — Sustainable Integrity Pricing.",
+    "paragraph2": "Unlike many other hosting providers, we don't use low introductory rates that jump up after the first year. Our pricing is stable, clear, and built on trust. You pay one fair price, and it stays the same every year.",
+    "features": {
+      "feature1": "No sudden renewals.",
+      "feature2": "No hidden costs.",
+      "feature3": "No pricing surprises."
+    },
+    "conclusion": "Just honest, predictable hosting designed for real businesses.",
+    "cta": "VIEW PLANS & PRICING",
+    "ctaLink": "/pricing",
+    "guarantee": "30-day money-back guarantee"
+  },
+  "stats": {
+    "clients": {
+      "number": "2021",
+      "suffix": " ",
+      "label": "Founded"
+    },
+    "countries": {
+      "number": "99.9 %",
+      "suffix": ".9%",
+      "label": "Uptime"
+    },
+    "experience": {
+      "number": "24",
+      "suffix": "/7",
+      "label": "Support"
+    },
+    "websites": {
+      "number": "30 ",
+      "suffix": "",
+      "label": "Days Money Back Guarantee"
+    }
+  },
+  "problem": {
+    "tagline": "THE PROBLEM WITH OTHERS",
+    "paragraph1": "Many hosting companies lure customers with very low first-year prices, sometimes up to 90% off. However, when it's time to renew, prices can double or even triple. This practice creates confusion and makes long-term budget planning difficult.",
+    "paragraph2": "At WebblyHosting, we believe businesses deserve better. That's why we offer clear and honest pricing from day one. There are no temporary discounts meant to trap you later. What you see is what you pay. Always.",
+    "heading": "No Sales. No Gimmicks.",
+    "headingGradient": "Just Honest Pricing."
+  },
+  "promise": {
+    "tagline": "Our Promise",
+    "title": "Same Price, Every Year",
+    "description1": "We don't run seasonal promotions, limited-time deals, or Black Friday campaigns. Instead, we provide a fair fixed price that remains consistent year after year.",
+    "description2": "This means you can:",
+    "bullets": [
+      "Plan your budget with confidence",
+      "Avoid unexpected renewal fees",
+      "Maintain long-term cost stability",
+      "Focus on growth instead of pricing changes"
+    ],
+    "footer": "With WebblyHosting, predictability comes standard.",
+    "cta1": "GET STARTED NOW",
+    "cta2": "View Plans & Pricing",
+    "cards": [
+      {
+        "title": "Everything in One Place",
+        "description1": "Managing multiple providers for domain, hosting, and email can quickly become complicated.",
+        "description2": "We simplify everything by bringing your entire digital infrastructure under one roof.",
+        "footer": "One platform. One provider. One simple experience."
+      },
+      {
+        "title": "Simplified Administration",
+        "bullets": [
+          "One provider",
+          "One invoice",
+          "One support team",
+          "One point of contact"
+        ],
+        "footer": "No more juggling different dashboards or renewal dates."
+      },
+      {
+        "title": "Built for Growth",
+        "description1": "Whether you're a freelancer, startup, or enterprise, our platform grows with your business. Our infrastructure is designed to scale while maintaining stable and predictable pricing. You expand.",
+        "footer": "Your costs remain controlled."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Focus on Your Business.\nWe'll Handle the Rest.",
+    "subheading": "WebblyHosting is designed to remove complexity from your digital presence. We handle your domain, hosting, and professional email — all in one place, with transparent pricing you can trust.\n\nNo confusion. No surprises.\nJust reliable hosting built for long-term success.",
+    "button": "GET START NOW",
+    "buttonLink": "/pricing"
+  },
+  "contact": {
+    "heading": "Need Help Choosing the Right Plan?",
+    "subheading": "Get expert advice",
+    "description1": "Book a short call with our team. One of WebblyHosting's specialists will help you choose the right hosting package based on your website, business goals, and budget. We want to make your decision simple and stress-free.",
+    "description2": "By submitting your details, you agree to WebblyHosting contacting you for support and guidance regarding your hosting needs.",
+    "emailLabel": "Email:",
+    "email": "support@webblyhosting.com",
+    "info": {
+      "social": {
+        "title": "Follow Us"
+      }
+    }
+  }
+}

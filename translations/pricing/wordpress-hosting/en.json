@@ -1,0 +1,240 @@
+{
+  "hero": {
+    "badge": "WordPress Hosting",
+    "title": "Managed <span class='text-[#8C52FF]'>WordPress Hosting</span>",
+    "subtitle": "Built for speed, security, and scalability. Get started with 1-click WordPress installation.",
+    "cta": "See Plans",
+    "moneyBack": "30-Day Money-Back Guarantee",
+    "navigationItems": [
+      {
+        "name": "Web Hosting",
+        "href": "/pricing",
+        "popular": false
+      },
+      {
+        "name": "VPS Hosting",
+        "href": "/pricing/vps-hosting",
+        "popular": false
+      },
+      {
+        "name": "WordPress Hosting",
+        "href": "/pricing/wordpress-hosting",
+        "popular": true
+      },
+      {
+        "name": "Domains",
+        "href": "/pricing/domains",
+        "popular": false
+      }
+    ]
+  },
+  "pricing": {
+    "title": "WordPress Hosting Plans",
+    "subtitle": "Optimized for WordPress performance with 1-click installation",
+    "mostPopular": "MOST POPULAR",
+    "cta": "Get Started",
+    "firstYear": "Billed Annually",
+    "standardRate": "Standard Rate",
+    "billedAnnually": "Same price year after year – no surprises",
+    "from": "",
+    "youSave": "You save",
+    "orderLinkBase": "/order/hosting?plan=",
+    "perMonth": "/mo",
+    "selectPlan": "Choose Plan",
+    "features": {
+      "ssl": "Free SSL Unlimited",
+      "email": "Free Email",
+      "managed": "Managed WordPress",
+      "acceleration": "WordPress Acceleration",
+      "wpcli": "WP-CLI & Git Integration",
+      "autoUpdates": "Auto Updates",
+      "prioritySupport": "Priority Support",
+      "dailyBackups": "Daily Backups"
+    }
+  },
+  "hostingTypes": {
+    "title": "Find the right WordPress hosting for you",
+    "getStarted": "Get started",
+    "labels": {
+      "websites": "Websites",
+      "performance": "Performance",
+      "storage": "Storage",
+      "managedWp": "Managed WP",
+      "included": "Included"
+    },
+    "performanceLevels": {
+      "standard": "Standard",
+      "increased": "Increased",
+      "maximum": "Maximum"
+    },
+    "planMetrics": [
+      {
+        "key": "starter",
+        "iconKey": "starter",
+        "performanceLevel": "Low",
+        "websites": "2",
+        "storage": "50"
+      },
+      {
+        "key": "business",
+        "iconKey": "business",
+        "performanceLevel": "Medium",
+        "websites": "4",
+        "storage": "150"
+      },
+      {
+        "key": "pro",
+        "iconKey": "pro",
+        "performanceLevel": "High",
+        "websites": "10",
+        "storage": "300"
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Compare WordPress Plans",
+    "subtitle": "Find the perfect plan for your WordPress site",
+    "popular": "Popular",
+    "getStarted": "Get Started",
+    "topFeatures": "Top Features",
+    "topFeaturesIcon": "Star",
+    "wordpress": "WordPress Features",
+    "wordpressIcon": "Code",
+    "managedWp": "Managed WordPress",
+    "save": "Save {percent}%",
+    "perMonthSuffix": "/mo",
+    "support": "Support & Security",
+    "supportIcon": "Headphones",
+    "choose": "Choose",
+    "cancelAnytime": "Cancel anytime",
+    "topFeaturesList": [
+      {
+        "feature": "Websites",
+        "plan1": "2 Website",
+        "plan2": "4 Websites",
+        "plan3": "10 Websites "
+      },
+      {
+        "feature": "Storage",
+        "plan1": "50 GB ",
+        "plan2": "150 GB",
+        "plan3": "300 GB "
+      },
+      {
+        "feature": "1-click WordPress installation",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "Staging Environment",
+        "plan1": "false",
+        "plan2": "true",
+        "plan3": "true"
+      }
+    ],
+    "supportFeatures": [
+      {
+        "feature": "DDoS protection",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "SSL certificate",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "24/7 Support",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      }
+    ],
+    "wordpressFeatures": [
+      {
+        "feature": "Advanced Web Application Firewall",
+        "plan1": "false",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "Brute Force Protection",
+        "plan1": "false",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "Malware Scanning & Removal",
+        "plan1": "false",
+        "plan2": "true",
+        "plan3": "true"
+      }
+    ]
+  },
+  "enjoyAllThis": {
+    "title1": "Everything you need",
+    "title2": "for WordPress success",
+    "features": {
+      "ssl": "Free SSL Certificates",
+      "backups": "Automatic Backups"
+    }
+  },
+  "faq": {
+    "title": "WordPress Hosting FAQ",
+    "items": [
+      {
+        "question": "What is managed WordPress hosting?",
+        "answer": "Managed WordPress hosting is a concierge service where all technical aspects of running WordPress are managed by the host. This includes security, speed, WordPress updates, daily backups, website uptime, and scalability."
+      },
+      {
+        "question": "Do you offer free migration?",
+        "answer": "Yes, we offer free migration for your existing WordPress site. Our team will handle the transfer process to ensure zero downtime and seamless transition."
+      },
+      {
+        "question": "Is SSL included with WordPress hosting?",
+        "answer": "Yes! All our WordPress hosting plans come with unlimited Free SSL certificates to keep your website and visitors secure."
+      },
+      {
+        "question": "Can I install any WordPress plugins?",
+        "answer": "Absolutely! You have full freedom to install any WordPress plugin or theme you need for your website. We support all WordPress functionality."
+      },
+      {
+        "question": "How is WordPress hosting different from regular web hosting?",
+        "answer": "WordPress hosting is optimized specifically for WordPress sites with pre-configured settings, caching, and security measures designed for WordPress. It includes automatic updates, staging environments, and WordPress-specific tools."
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Need Help Choosing the Right Plan?",
+    "subheading": "Get expert advice",
+    "description1": "Book a short call with our team. One of WebblyHosting's specialists will help you choose the right hosting package based on your website, business goals, and budget. We want to make your decision simple and stress-free.",
+    "description2": "By submitting your details, you agree to WebblyHosting contacting you for support and guidance regarding your hosting needs.",
+    "emailLabel": "Email:",
+    "phoneLabel": "Phone:",
+    "email": "Webblymedia@gmail.se",
+    "phone": "+1-800-123-4567",
+    "info": {
+      "social": {
+        "title": "Share"
+      }
+    }
+  },
+  "contactForm": {
+    "nameLabel": "Name",
+    "firstNamePlaceholder": "First Name",
+    "lastNamePlaceholder": "Last Name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Your Email",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Your Message",
+    "submitButton": "Get Started",
+    "sending": "Sending..."
+  },
+  "features": {
+    "title": "WordPress Features",
+    "subtitle": "Everything you need for your WordPress site"
+  }
+}

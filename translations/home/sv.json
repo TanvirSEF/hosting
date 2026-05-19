@@ -1,0 +1,521 @@
+{
+  "contactForm": {
+    "nameLabel": "Namn",
+    "firstNamePlaceholder": "Förnamn",
+    "lastNamePlaceholder": "Efternamn",
+    "emailLabel": "E-post",
+    "emailPlaceholder": "Din E-post",
+    "messageLabel": "Meddelande",
+    "messagePlaceholder": "Ditt Meddelande",
+    "submitButton": "Kom Igång",
+    "sending": "Skickar..."
+  },
+  "metadata": {
+    "title": "WebblyHosting",
+    "description": "Professionella Webbhotell-tjänster"
+  },
+  "navbar": {
+    "pricing": "Priser",
+    "aboutUs": "Om Oss",
+    "services": {
+      "title": "Tjänster",
+      "hosting": "Webbhotell",
+      "domains": "Domäner",
+      "sharedHosting": {
+        "title": "Delat Webbhotell",
+        "description": "Prisvärd hosting för alla webbplatser"
+      },
+      "vps": {
+        "title": "VPS Hosting",
+        "description": "Högpresterande virtuella privata servrar."
+      },
+      "wordpress": {
+        "title": "WordPress Hosting",
+        "description": "Optimerad för WordPress-webbplatser"
+      },
+      "ecommerce": {
+        "title": "E-handels Hosting",
+        "description": "Kraftfull hosting för nätbutiker"
+      },
+      "domainSearch": {
+        "title": "Domänsökning",
+        "description": "Hitta ditt perfekta domännamn"
+      },
+      "domainTransfer": {
+        "title": "Domänöverföring",
+        "description": "Överför din domän till oss"
+      }
+    },
+    "support": {
+      "title": "Support",
+      "ticket": {
+        "title": "Supportärende",
+        "description": "Skicka in ett supportärende för hjälp."
+      },
+      "contact": {
+        "title": "Kontakta oss",
+        "description": "Kom i kontakt med vårt team."
+      },
+      "liveChat": {
+        "title": "Livechatt",
+        "description": "Chatta med vårt supportteam i realtid."
+      }
+    },
+    "resources": {
+      "title": "Resurser",
+      "documentation": {
+        "title": "Dokumentation",
+        "description": "Kompletta guider och API-referenser för alla funktioner."
+      },
+      "blog": {
+        "title": "Webbly Insights",
+        "description": "Senaste artiklarna och uppdateringar från vårt team."
+      },
+      "guides": {
+        "title": "Guider",
+        "description": "Steg-för-steg handledningar och bästa praxis."
+      },
+      "api": {
+        "title": "API-referens",
+        "description": "Omfattande API-dokumentation."
+      }
+    },
+    "auth": {
+      "signIn": "Logga in",
+      "getStarted": "Kom igång"
+    },
+    "userMenu": {
+      "dashboard": "Kontrollpanel",
+      "adminDashboard": "Adminpanel",
+      "settings": "Inställningar",
+      "logout": "Logga ut"
+    },
+    "mobile": {
+      "menu": "Meny"
+    }
+  },
+  "footer": {
+    "copyright": "© {year} WebblyHosting. Alla rättigheter förbehållna.",
+    "hosting": {
+      "title": "Webbhotell",
+      "sharedHosting": "Delat Webbhotell",
+      "wordpressHosting": "WordPress Hosting",
+      "vpsHosting": "VPS Hosting",
+      "ecommerceHosting": "E-handels Hosting",
+      "pricing": "Priser"
+    },
+    "domains": {
+      "title": "Domäner",
+      "domainSearch": "Domänsökning",
+      "domainTransfer": "Domänöverföring"
+    },
+    "support": {
+      "title": "Företag",
+      "about": "Om Oss",
+      "contact": "Kontakt",
+      "blog": "Blogg",
+      "guides": "Guider"
+    },
+    "policy": {
+      "privacy": "Integritetspolicy",
+      "terms": "Användarvillkor",
+      "cookie": "Cookie-Policy"
+    }
+  },
+  "hero": {
+    "brandName": "WebblyHosting",
+    "mainTitle": "Stärk Din Onlinenärvaro Med Förtroende",
+    "pricing": {
+      "from": "Från",
+      "price": "42.90 sek",
+      "unit": "/mån",
+      "offer": ""
+    },
+    "features": {
+      "domain": "Gratis Domän",
+      "hosting": "Kraftfull Hosting",
+      "support": "Pålitlig Support"
+    },
+    "cta": "Se Planer & Priser",
+    "ctaLink": "/pricing",
+    "guarantee": "30 dagars pengarna-tillbaka-garanti"
+  },
+  "stats": {
+    "clients": {
+      "number": "2021",
+      "suffix": "  ",
+      "label": "Grundad"
+    },
+    "countries": {
+      "number": "99",
+      "suffix": ".9%",
+      "label": "Drifttid"
+    },
+    "experience": {
+      "number": "24",
+      "suffix": "/7",
+      "label": "Support"
+    },
+    "websites": {
+      "number": "30",
+      "suffix": "",
+      "label": "Dagar Pengarna Tillbaka Garanti"
+    }
+  },
+  "domainSearch": {
+    "heading": "Hitta Ditt Domännamn",
+    "description": "En Fantastisk Webbplats Börjar Med En Bra Domän. Säkra Ditt Namn Innan Någon Annan Gör Det. Ditt Perfekta Namn Är Bara En Sökning Bort!",
+    "button": "Sök",
+    "buttonLink": "/domain-search"
+  },
+  "pricing": {
+    "heading": "Välj planen som passar ditt varumärke",
+    "subheading": "Välj din plan efter dina behov",
+    "mostPopular": "Mest populär",
+    "cta": "Kom igång",
+    "firstYear": "Första året",
+    "standardRate": "Standardpris",
+    "billedAnnually": "Faktureras årligen",
+    "from": "Från",
+    "youSave": "Du sparar"
+  },
+  "pricingPhilosophy": {
+    "tagline": "Vår Prisfilosofi",
+    "heading": "Planera dina företagskostnader med fullt förtroende",
+    "p1": "De flesta webbhotell lockar dig med extremt låga rabatter första året, för att sedan höja priserna dramatiskt vid förnyelse. På WebblyHosting gör vi saker annorlunda.",
+    "p2": "Vi erbjuder <bold>transparent, fast prissättning som förblir densamma varje år.</bold>",
+    "p3": "Inga lockpriser. Inga dolda avgifter. Inga oväntade förnyelser. Detta innebär att vi hanterar din domän, webbhotell och e-post — allt på ett ställe.",
+    "bullets": [
+      "Samma pris varje år",
+      "Inga försäljningsknep",
+      "Allt-i-ett digital infrastruktur",
+      "Byggt för långsiktig företagstillväxt"
+    ],
+    "cta": "UTFORSKA VÅR PRISFILOSOFI",
+    "ctaLink": "/price-philosophy"
+  },
+  "services": {
+    "tagline": "Hosting Som Fungerar. Prestanda Du Kan Lita På",
+    "heading": "Våra webbhotellstjänster",
+    "description": "WebblyHostings plattform är utformad för att erbjuda prestanda, hastighet, säkerhet och skalbarhet på toppnivå med hjälp av AI-drivna funktioner.",
+    "categories": [
+      "Delat Webbhotell",
+      "VPS Hosting",
+      "E-handels Hosting",
+      "WordPress Hosting",
+      "WooCommerce Hosting"
+    ],
+    "cards": [
+      {
+        "title": "Enkel Hosting Som Levererar Hastighet Med Säkerhet",
+        "features": [
+          "Gratis SSL-Certifikat",
+          "Plesk Kontrollpanel",
+          "1-Klicks App-Installationer",
+          "LiteSpeed Cache-Optimering",
+          "99,9% Drifttidsgaranti",
+          "Obegränsad Bandbredd",
+          "Snabb NVMe-Lagring",
+          "Gratis Webbplatsmigrering"
+        ],
+        "buttonLink": "/shared-hosting",
+        "buttonText": ""
+      },
+      {
+        "title": "Skalbar Kraft Som Växer Med Kontroll Du Äger",
+        "features": [
+          "Gratis SSL-Certifikat",
+          "Plesk Kontrollpanel",
+          "1-Klicks App-Installationer",
+          "LiteSpeed Cache-Optimering",
+          "99,9% Drifttidsgaranti",
+          "Obegränsad Bandbredd",
+          "Snabb NVMe-Lagring",
+          "Gratis Webbplatsmigrering"
+        ],
+        "buttonLink": "/vps-hosting",
+        "buttonText": ""
+      },
+      {
+        "title": "Högkapacitets-Hosting. Byggd För Aktiva Byråer.",
+        "features": [
+          "Gratis SSL-Certifikat",
+          "Plesk Kontrollpanel",
+          "1-Klicks App-Installationer",
+          "LiteSpeed Cache-Optimering",
+          "99,9% Drifttidsgaranti",
+          "Obegränsad Bandbredd",
+          "Snabb NVMe-Lagring",
+          "Gratis Webbplatsmigrering"
+        ],
+        "buttonLink": "/ecommerce-hosting",
+        "buttonText": ""
+      },
+      {
+        "title": "WordPress-Optimerad. Hastighet Och Säkerhet Kombinerat.",
+        "features": [
+          "Gratis SSL-Certifikat",
+          "Plesk Kontrollpanel",
+          "1-Klicks App-Installationer",
+          "LiteSpeed Cache-Optimering",
+          "99,9% Drifttidsgaranti",
+          "Obegränsad Bandbredd",
+          "Snabb NVMe-Lagring",
+          "Gratis Webbplatsmigrering"
+        ],
+        "buttonLink": "/wordpress-hosting",
+        "buttonText": ""
+      },
+      {
+        "title": "WooCommerce-Redo. Snabb, Stabil & Försäljningsfokuserad.",
+        "features": [
+          "Gratis SSL-Certifikat",
+          "Plesk Kontrollpanel",
+          "1-Klicks App-Installationer",
+          "LiteSpeed Cache-Optimering",
+          "99,9% Drifttidsgaranti",
+          "Obegränsad Bandbredd",
+          "Snabb NVMe-Lagring",
+          "Gratis Webbplatsmigrering"
+        ],
+        "buttonLink": "/ecommerce-hosting",
+        "buttonText": ""
+      }
+    ],
+    "cta": "Se Planer"
+  },
+  "speed": {
+    "heading": "Hastighet som placerar WebblyHosting före konkurrenterna",
+    "description": "Hos WebblyHosting är hastighet inte bara ett löfte – det är vår standard. Oberoende prestandatester från flera benchmarking-verktyg visar konsekvent att WebblyHosting levererar snabbare laddningstider än många ledande leverantörer. Med våra NVMe-drivna servrar, optimerad cachning och högupptid-nätverk laddar webbplatser hos WebblyHosting ofta på under 0.35 sekunder. Medan andra värdar kämpar med ojämn prestanda fokuserar vi på verklig, mätbar hastighet som företag kan lita på varje dag.",
+    "legend": "Jämförelse av laddningstid (Lägre är bättre)",
+    "competitors": [
+      {
+        "name": "WebblyHosting",
+        "time": 0.35,
+        "highlight": true
+      },
+      {
+        "name": "Kinsta",
+        "time": 0.65,
+        "highlight": false
+      },
+      {
+        "name": "WP Engine",
+        "time": 0.8,
+        "highlight": false
+      },
+      {
+        "name": "SiteGround",
+        "time": 1.2,
+        "highlight": false
+      },
+      {
+        "name": "Dream Host",
+        "time": 1.5,
+        "highlight": false
+      },
+      {
+        "name": "Hostinger",
+        "time": 2.1,
+        "highlight": false
+      }
+    ]
+  },
+  "blog": {
+    "heading": "Senaste Från Vår Blogg",
+    "subheading": "Expertguider, tips och insikter för att hjälpa dig bygga och växa din online närvaro. Från hosting till webbutveckling, vi har dig täckt."
+  },
+  "features": {
+    "performance": {
+      "tagline": "Prestanda",
+      "heading": "Byggd För Hastighet Och Tillförlitlighet",
+      "subheading": "NVMe-lagring läser och skriver snabbare än standardenheter. Dina sidor laddas snabbare – besökare stannar längre.",
+      "tabs": [
+        {
+          "id": 1,
+          "title": "NVMe SSD-lagring",
+          "description": "Direktanslutna solid state-enheter eliminerar flaskhalsar från äldre roterande diskar. Varje begäran hanteras i trådhastighet.",
+          "image": "/images/home/features/performance.png"
+        },
+        {
+          "id": 2,
+          "title": "Globalt CDN och komprimering",
+          "description": "HTTP/2 och GZIP-komprimering minskar filstorlekar innan överföring. Innehållsleveransnätverk placerar din webbplats närmare besökarna.",
+          "image": "/images/home/features/performance.png"
+        },
+        {
+          "id": 3,
+          "title": "Drifttid du kan lita på",
+          "description": "99,9% drifttid med verklig övervakning och SLA. Vi övervakar servrarna så du slipper",
+          "image": "/images/home/features/performance.jpg"
+        }
+      ]
+    },
+    "development": {
+      "tagline": "Utveckling",
+      "heading": "Verktyg Byggda För Skapare",
+      "subheading": "Kom igång på några minuter med WordPress-installation via ett klick. Med testmiljöer (staging) kan du testa allt innan du publicerar.",
+      "tabs": [
+        {
+          "id": 1,
+          "title": "WordPress på ett enkelt sätt!",
+          "description": "Installera WordPress med ett enda klick. Automatiska uppdateringar av kärnfilerna håller din sajt säker utan krångel.",
+          "image": "/images/home/features/development.png"
+        },
+        {
+          "id": 2,
+          "title": "Kontroll för utvecklare",
+          "description": "SSH-åtkomst, Git-deployment och valbar PHP-version ger dig full kontroll. Databashanterare ingår också.",
+          "image": "/images/home/features/development.png"
+        },
+        {
+          "id": 3,
+          "title": "Staging och testning",
+          "description": "Klona din webbplats till en testmiljö och testa ändringar på ett säkert sätt. Publicera till din live-sajt först när du är redo.",
+          "image": "/images/home/features/development.png"
+        }
+      ]
+    },
+    "security": {
+      "tagline": "Säkerhet",
+      "heading": "Skydd Som Körs I Bakgrunden",
+      "subheading": "Gratis SSL-certifikat krypterar all trafik. Dagliga säkerhetskopior innebär att du aldrig är mer än 24 timmar från en fullständig återställning.",
+      "tabs": [
+        {
+          "id": 1,
+          "title": "SSL och kryptering",
+          "description": "Varje webbplats får ett gratis SSL-certifikat. Besökarna ser låsikonen och sökmotorerna rankar din sida högre.",
+          "image": "/images/home/features/security.png"
+        },
+        {
+          "id": 2,
+          "title": "Säkerhetskopiering och DDoS-skydd",
+          "description": "Dagliga, automatiserade säkerhetskopior skyddar mot dataförlust. DDoS-skydd och skanning efter skadlig kod körs 24/7.",
+          "image": "/images/home/features/security.png"
+        },
+        {
+          "id": 3,
+          "title": "Tvåfaktorsautentisering",
+          "description": "Säkra ditt konto med 2FA. Valfria automatiska uppdateringar ser till att både WordPress och dina tillägg (plugins) alltid är uppdaterade.",
+          "image": "/images/home/features/security.png"
+        }
+      ]
+    }
+  },
+  "comparison": {
+    "tagline": "Vår jämförelse",
+    "heading": "Hur Vi Står Oss",
+    "subheading": "WebblyHosting levererar kvalitet till rätt pris, utan dolda påslag.",
+    "tableHeader": "Funktion",
+    "competitors": [
+      {
+        "name": "WebblyHosting",
+        "price": "44.00 sek/mån "
+      },
+      {
+        "name": "Hostinger",
+        "price": "$2,99/mån intro"
+      },
+      {
+        "name": "Miss Hosting",
+        "price": "€140/mo"
+      }
+    ],
+    "features": [
+      {
+        "name": "Gratis domän inkluderad",
+        "webbly": "true",
+        "hostinger": "Begränsad"
+      },
+      {
+        "name": "NVMe-lagring standard",
+        "webbly": "true",
+        "hostinger": "true"
+      },
+      {
+        "name": "Ja",
+        "webbly": "true",
+        "hostinger": "true"
+      },
+      {
+        "name": "24/7 livechatt-support",
+        "webbly": "true",
+        "hostinger": "false"
+      },
+      {
+        "name": "Ja",
+        "webbly": "true",
+        "hostinger": "false"
+      }
+    ],
+    "cta": "Se Planer & Priser",
+    "ctaLink": "/pricing"
+  },
+  "faq": {
+    "heading": "Vanliga Frågor",
+    "questions": [
+      {
+        "question": "Vad är webbhotell?",
+        "answer": "Webbhotell är en tjänst som gör det möjligt för både privatpersoner och företag att publicera sina webbplatser på nätet. Ett webbhotell tillhandahåller de servrar som krävs för att lagra webbplatsens filer och göra dem tillgängliga för besökare dygnet runt. Utan ett webbhotell kan en webbplats inte visas på internet. WebblyHosting är en ledande leverantör av webbhotell som åtnjuter stort förtroende från bloggare, småföretag, WordPress-användare, onlinebutiksägare och e-handlare."
+      },
+      {
+        "question": "Erbjuder ni ett gratis domännamn?",
+        "answer": "Ja, vi erbjuder ett gratis domännamn med utvalda hostingplaner för det första året. Detta hjälper dig att komma igång snabbt utan extra kostnader."
+      },
+      {
+        "question": "Hur kan jag registrera ett domännamn?",
+        "answer": "Du kan registrera ett domännamn direkt genom ditt WebblyHosting-konto. Sök helt enkelt efter ditt önskade domännamn, kontrollera tillgänglighet och slutför registreringsprocessen."
+      },
+      {
+        "question": "Hur säkerställer ni avancerad säkerhet?",
+        "answer": "Vi tillhandahåller gratis SSL-certifikat, regelbundna säkerhetsuppdateringar, DDoS-skydd och automatiserade säkerhetskopior för att hålla din webbplats säker och skyddad."
+      },
+      {
+        "question": "Får jag ett gratis SSL-certifikat för det första året?",
+        "answer": "Ja, alla våra hostingplaner inkluderar ett gratis SSL-certifikat för att säkra din webbplats och skydda dina besökares data."
+      },
+      {
+        "question": "Får jag e-post med min hostingplan?",
+        "answer": "Ja, professionella e-postkonton ingår i alla hostingplaner, vilket gör att du kan skapa anpassade e-postadresser med ditt domännamn."
+      },
+      {
+        "question": "Vad är er 30-dagars pengarna-tillbaka-garanti?",
+        "answer": "Om du inte är nöjd med vår tjänst inom de första 30 dagarna ger vi full återbetalning—inga frågor ställs."
+      },
+      {
+        "question": "Erbjuder ni 24/7 onlinesupport?",
+        "answer": "Ja, vårt expertsupportteam är tillgängligt 24/7 via livechatt och e-post för att hjälpa dig med eventuella frågor eller problem."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Redo att skala upp din webbplats?",
+    "subheading": "Gör som tusentals nöjda kunder och lita på WebblyHosting för hastighet, säkerhet och tillförlitlighet. Upplev skillnaden redan idag.",
+    "button": "KOM IGÅNG NU",
+    "buttonLink": "/pricing"
+  },
+  "contact": {
+    "heading": "Behöver Du Hjälp Att Välja Rätt Plan?",
+    "subheading": "Få expertrådgivning",
+    "description1": "Boka ett kort samtal med vårt team. En av WebblyHostings specialister hjälper dig att välja rätt webbhotellspaket utifrån din webbplats, dina affärsmål och din budget. Vi vill göra ditt beslut enkelt och helt utan stress.",
+    "description2": "Genom att skicka in dina uppgifter godkänner du att WebblyHosting kontaktar dig för support och vägledning gällande dina behov av webbhotellstjänster.",
+    "emailLabel": "E-post:",
+    "phoneLabel": "",
+    "email": "Support@webblyhosting.com",
+    "phone": "",
+    "info": {
+      "social": {
+        "title": "Dela"
+      }
+    }
+  },
+  "discordTicketSuccess": {
+    "title": "Meddelande mottaget",
+    "subtitle": "Ett privat supportärende har skapats åt dig.",
+    "connectTitle": "Anslut Discord för att visa ditt ärende",
+    "connectDescription": "Vi behöver veta vem du är för att ge dig tillgång till den privata kanalen.",
+    "connectButtonText": "Anslut Discord & Visa Ärende",
+    "connectFooter": "Detta kommer automatiskt att gå med i vår server och öppna ditt ärende.",
+    "sendAnother": "Skicka ett till meddelande"
+  }
+}

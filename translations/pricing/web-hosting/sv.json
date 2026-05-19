@@ -1,0 +1,226 @@
+{
+  "hero": {
+    "badge": "Webbhotell",
+    "title": "Snabbt & Säkert <span class='text-[#8C52FF]'>Webbhotell</span>",
+    "subtitle": "Allt du behöver för att skapa din webbplats. Upp till 75% rabatt på hosting + gratis domän.",
+    "cta": "Kom igång",
+    "moneyBack": "30 dagars pengarna-tillbaka-garanti",
+    "navigationItems": [
+      {
+        "name": "Webbhotell",
+        "href": "/pricing",
+        "popular": false
+      },
+      {
+        "name": "VPS Hosting",
+        "href": "/pricing/vps-hosting",
+        "popular": false
+      },
+      {
+        "name": "WordPress Hosting",
+        "href": "/pricing/wordpress-hosting",
+        "popular": true
+      },
+      {
+        "name": "Domäner",
+        "href": "/pricing/domains",
+        "popular": false
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Välj ditt webbhotellspaket",
+    "subtitle": "Välj det perfekta paketet för dina behov",
+    "mostPopular": "MEST POPULÄR",
+    "cta": "Kom igång",
+    "firstYear": "Faktureras årligen",
+    "standardRate": "Standardpris",
+    "billedAnnually": "Samma pris år efter år – inga överraskningar",
+    "from": "",
+    "youSave": "Du sparar",
+    "orderLinkBase": "/order/hosting?plan=",
+    "renewAt": "Förnyas till",
+    "perMonth": "/mån",
+    "selectPlan": "Välj paket",
+    "features": {
+      "websites": "{count, plural, =1 {1 Webbplats} other {# Webbplatser}}",
+      "storage": "{amount} SSD-lagring",
+      "bandwidth": "{amount} Bandbredd",
+      "ssl": "Gratis SSL obegränsat",
+      "backup": "Veckovis säkerhetskopiering",
+      "email": "Gratis e-post",
+      "cdn": "Gratis CDN"
+    }
+  },
+  "hostingTypes": {
+    "title": "Hitta rätt hosting för dig",
+    "getStarted": "Kom igång",
+    "labels": {
+      "websites": "Webbplatser",
+      "performance": "Prestanda",
+      "storage": "Lagring",
+      "ssl": "SSL",
+      "unlimited": "Obegränsat"
+    },
+    "performanceLevels": {
+      "standard": "Standard",
+      "increased": "Ökad",
+      "maximum": "Maximal"
+    },
+    "fallbackValues": {
+      "websites": "100",
+      "storage": "100"
+    }
+  },
+  "comparison": {
+    "title": "Jämför våra paket",
+    "subtitle": "Se enkelt vad varje paket kostar och vad du får för pengarna.",
+    "popular": "Populär",
+    "getStarted": "Kom igång",
+    "topFeatures": "Toppfunktioner",
+    "mailboxes": "E-postkonton per webbplats",
+    "freeDomain": "Gratis domän",
+    "managedWp": "Hanterad hosting för WordPress",
+    "migration": "Gratis automatisk webbplatsmigrering",
+    "save": "Spara {percent}%",
+    "perMonthSuffix": "/mån",
+    "security": "Säkerhet",
+    "support": "Service och support",
+    "choose": "Välj",
+    "cancelAnytime": "Avbryt när som helst",
+    "topFeaturesList": [
+      {
+        "feature": "E-postkonton per webbplats",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "Gratis domän",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "1-klick WordPress-installation",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      }
+    ],
+    "securityFeatures": [
+      {
+        "feature": "Avancerad brandvägg",
+        "plan1": "false",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "DDoS-skydd",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "Malware-skanning",
+        "plan1": "false",
+        "plan2": "true",
+        "plan3": "true"
+      }
+    ],
+    "supportFeatures": [
+      {
+        "feature": "Daily backups",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "Plesk kontrollpanel",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "24/7 support",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      }
+    ]
+  },
+  "enjoyAllThis": {
+    "title1": "Njut av allt detta.",
+    "title2": "Utan extra kostnad.",
+    "features": {
+      "ssl": "Obegränsade SSL-säkerhetscertifikat",
+      "domain": "Gratis domän (med årsplaner)",
+      "backups": "Automatiska säkerhetskopior och uppdateringar",
+      "email": "E-postadresser",
+      "traffic": "Obegränsad webbtrafik"
+    }
+  },
+  "faq": {
+    "title": "Vanliga frågor",
+    "items": [
+      {
+        "question": "Vad är webbhotell?",
+        "answer": "Webbhotell är en tjänst som gör det möjligt för både företag och privatpersoner att publicera webbplatser på nätet. En webbhotellsleverantör tillhandahåller den teknik och de tjänster som krävs för att din webbplats ska vara tillgänglig för besökare världen över."
+      },
+      {
+        "question": "Hur väljer jag ett paket?",
+        "answer": "Tänk på din webbplats behov. Om du precis har börjat är Startpaketet perfekt. För företag eller webbplatser med hög trafik erbjuder våra Pro- eller Business-paket mer resurser och funktioner."
+      },
+      {
+        "question": "Kan jag uppgradera mitt paket senare?",
+        "answer": "Absolut! Du kan uppgradera ditt hostingpaket när som helst via vår kontrollpanel allt eftersom din webbplats växer."
+      },
+      {
+        "question": "Ingår SSL?",
+        "answer": "Ja! Alla våra hostingpaket kommer med obegränsade gratis SSL-certifikat för att hålla din webbplats och besökare säkra."
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Behöver Du Hjälp Att Välja Rätt Plan?",
+    "subheading": "Få expertrådgivning",
+    "description1": "Boka ett kort samtal med vårt team. En av WebblyHostings specialister hjälper dig att välja rätt webbhotellspaket utifrån din webbplats, dina affärsmål och din budget. Vi vill göra ditt beslut enkelt och helt utan stress.",
+    "description2": "Genom att skicka in dina uppgifter godkänner du att WebblyHosting kontaktar dig för support och vägledning gällande dina behov av webbhotellstjänster.",
+    "emailLabel": "E-post:",
+    "phoneLabel": "Telefon:",
+    "email": "Webblymedia@gmail.se",
+    "phone": "+1-800-123-4567",
+    "info": {
+      "social": {
+        "title": "Dela"
+      }
+    }
+  },
+  "contactForm": {
+    "nameLabel": "Namn",
+    "firstNamePlaceholder": "Förnamn",
+    "lastNamePlaceholder": "Efternamn",
+    "emailLabel": "E-post",
+    "emailPlaceholder": "Din E-post",
+    "messageLabel": "Meddelande",
+    "messagePlaceholder": "Ditt Meddelande",
+    "submitButton": "Kom Igång",
+    "sending": "Skickar..."
+  },
+  "features": {
+    "title": "Varför välja vårt webbhotell?",
+    "subtitle": "Vi erbjuder de bästa funktionerna för din webbplats",
+    "performance": {
+      "title": "Maximal prestanda",
+      "description": "Upp till 10x snabbare sidladdningar med vår skräddarsydda infrastruktur."
+    },
+    "security": {
+      "title": "Förbättrad säkerhet",
+      "description": "Håll din webbplats säker med våra avancerade säkerhetsfunktioner."
+    },
+    "support": {
+      "title": "Support dygnet runt",
+      "description": "Vårt team finns här för att hjälpa dig dygnet runt med alla problem."
+    }
+  }
+}

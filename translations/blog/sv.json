@@ -1,0 +1,247 @@
+{
+  "articles": "Artiklar",
+  "featuredLabel": "Utvald",
+  "featured": [
+    {
+      "id": 1,
+      "title": "Hur du väljer rätt webbhotell",
+      "description": "Lär dig de viktigaste faktorerna att tänka på när du väljer ett webbhotell för ditt företag.",
+      "image": "/images/home/blog/blog1.png"
+    },
+    {
+      "id": 2,
+      "title": "10 sätt att snabba upp din WordPress-sajt",
+      "description": "Upptäck beprövade tekniker för att optimera din WordPress-prestanda.",
+      "image": "/images/home/blog/blog2.png"
+    }
+  ],
+  "recent": [
+    {
+      "id": 3,
+      "title": "Den kompletta guiden till domännamn",
+      "description": "Allt du behöver veta om att välja och hantera domännamn.",
+      "image": "/images/home/blog/blogrest.png"
+    },
+    {
+      "id": 4,
+      "title": "Bästa praxis för webbplatssäkerhet",
+      "description": "Viktiga säkerhetsåtgärder för att skydda din webbplats mot hot.",
+      "image": "/images/home/blog/blogrest.png"
+    },
+    {
+      "id": 5,
+      "title": "VPS vs delad hosting jämförelse",
+      "description": "Vilken hostingtyp passar dina behov? Vi bryter ner det.",
+      "image": "/images/home/blog/blogrest.png"
+    }
+  ],
+  "readMore": "Läs Mer",
+  "sidebar": {
+    "categories": "Kategorier",
+    "popularPosts": "Populära Inlägg",
+    "newsletter": {
+      "title": "Håll dig uppdaterad",
+      "description": "Få de senaste guiderna och tipsen direkt till din inkorg.",
+      "placeholder": "Ange din e-post",
+      "button": "Prenumerera"
+    }
+  },
+  "loadMore": "Ladda Fler",
+  "noPostsFound": "Inga inlägg hittades",
+  "backToBlog": "Tillbaka till Blogg",
+  "sharePost": "Dela detta inlägg",
+  "relatedPosts": "Relaterade Inlägg",
+  "author": "Skriven av",
+  "published": "Publicerad",
+  "updated": "Senast uppdaterad",
+  "tableOfContents": "Innehållsförteckning",
+  "minRead": "min läsning",
+  "demoCategories": [
+    {
+      "id": "hosting",
+      "name": "Hosting",
+      "count": 12
+    },
+    {
+      "id": "wordpress",
+      "name": "WordPress",
+      "count": 8
+    },
+    {
+      "id": "domains",
+      "name": "Domäner",
+      "count": 5
+    },
+    {
+      "id": "tutorials",
+      "name": "Guider",
+      "count": 15
+    },
+    {
+      "id": "security",
+      "name": "Säkerhet",
+      "count": 6
+    }
+  ],
+  "demoPosts": [
+    {
+      "slug": "how-to-choose-web-hosting",
+      "title": "Hur du väljer rätt webbhotell för ditt företag",
+      "excerpt": "Att välja rätt webbhotell är avgörande för din framgång online. Lär dig om de viktigaste faktorerna att överväga, från drifttidsgarantier till skalbarhet.",
+      "image": "/images/blog/hosting-guide.png",
+      "category": "Hosting",
+      "date": "28 dec 2025",
+      "readTime": "8 min läsning",
+      "featured": true
+    },
+    {
+      "slug": "wordpress-performance-optimization",
+      "title": "10 sätt att snabba upp din WordPress-webbplats",
+      "excerpt": "En långsam webbplats kan skada din SEO och användarupplevelse. Upptäck beprövade tekniker för att optimera prestandan på din WordPress-sajt.",
+      "image": "/images/blog/wordpress-speed.png",
+      "category": "WordPress",
+      "date": "25 dec 2025",
+      "readTime": "6 min läsning"
+    },
+    {
+      "slug": "domain-name-guide",
+      "title": "Den kompletta guiden till att välja domännamn",
+      "excerpt": "Ditt domännamn är din identitet online. Lär dig bästa praxis för att välja ett minnesvärt domännamn som hjälper ditt företag att sticka ut.",
+      "image": "/images/blog/domain-guide.png",
+      "category": "Domäner",
+      "date": "22 dec 2025",
+      "readTime": "5 min läsning"
+    },
+    {
+      "slug": "ssl-certificate-importance",
+      "title": "Varför din webbplats behöver ett SSL-certifikat",
+      "excerpt": "SSL-certifikat är avgörande för webbplatssäkerhet och SEO. Förstå hur SSL fungerar och varför det är kritiskt för att bygga förtroende hos besökare.",
+      "image": "/images/blog/ssl-security.png",
+      "category": "Säkerhet",
+      "date": "20 dec 2025",
+      "readTime": "4 min läsning"
+    },
+    {
+      "slug": "vps-vs-shared-hosting",
+      "title": "VPS vs Delad hosting: Vad passar dig bäst?",
+      "excerpt": "Förvirrad mellan VPS och delad hosting? Vi bryter ner skillnaderna, för- och nackdelar för att hjälpa dig välja det bästa alternativet.",
+      "image": "/images/blog/vps-comparison.png",
+      "category": "Hosting",
+      "date": "18 dec 2025",
+      "readTime": "7 min läsning"
+    },
+    {
+      "slug": "website-backup-strategies",
+      "title": "Viktiga strategier för webbplatsbackup 2025",
+      "excerpt": "Låt inte dataförlust förstöra ditt företag. Lär dig om automatiserade backuplösningar och bästa praxis för att hålla din webbplatsdata säker.",
+      "image": "/images/blog/backup-guide.png",
+      "category": "Säkerhet",
+      "date": "15 dec 2025",
+      "readTime": "5 min läsning"
+    },
+    {
+      "slug": "website-migration-guide",
+      "title": "Komplett guide för webbplatsmigrering",
+      "excerpt": "Flyttar du din webbplats till ett nytt webbhotell? Följ vår steg-för-steg-guide för en smidig migrering utan att förlora data eller SEO-ranking.",
+      "image": "/images/blog/hosting-guide.png",
+      "category": "Guider",
+      "date": "12 dec 2025",
+      "readTime": "10 min läsning"
+    },
+    {
+      "slug": "dns-management-tutorial",
+      "title": "DNS-hantering: En nybörjarguide",
+      "excerpt": "Att förstå DNS är avgörande för webbplatshantering. Lär dig hur du konfigurerar DNS-poster, felsöker problem och optimerar prestanda.",
+      "image": "/images/blog/domain-guide.png",
+      "category": "Guider",
+      "date": "10 dec 2025",
+      "readTime": "8 min läsning"
+    },
+    {
+      "slug": "cpanel-beginners-guide",
+      "title": "cPanel för nybörjare: Komplett handledning",
+      "excerpt": "Ny på cPanel? Denna omfattande guide täcker allt du behöver veta för att hantera ditt hostingkonto som ett proffs.",
+      "image": "/images/blog/wordpress-speed.png",
+      "category": "Guider",
+      "date": "8 dec 2025",
+      "readTime": "12 min läsning"
+    }
+  ],
+  "demoPopularPosts": [
+    {
+      "slug": "how-to-choose-web-hosting",
+      "title": "Hur du väljer rätt webbhotell",
+      "image": "/images/blog/hosting-guide.png",
+      "date": "28 dec 2025"
+    },
+    {
+      "slug": "wordpress-performance-optimization",
+      "title": "10 sätt att snabba upp WordPress",
+      "image": "/images/blog/wordpress-speed.png",
+      "date": "25 dec 2025"
+    },
+    {
+      "slug": "ssl-certificate-importance",
+      "title": "Varför du behöver SSL-certifikat",
+      "image": "/images/blog/ssl-security.png",
+      "date": "20 dec 2025"
+    }
+  ],
+  "heading": "Senaste från Webbly Insights",
+  "subheading": "Expertguider, tips och insikter som hjälper dig att växa online. Från hosting till webbutveckling – vi ger dig verktygen för att lyckas.",
+  "hero": {
+    "title": "Webbly Insights",
+    "description": "Din sida där du får de senaste nyheterna för din digitala närvaro"
+  },
+  "loading": "Laddar blogginlägg...",
+  "latestPosts": "Senaste Inlägg",
+  "empty": {
+    "title": "Inga inlägg hittades",
+    "description": "Det finns inga inlägg i denna kategori än. Kom tillbaka snart!"
+  },
+  "fallbackImage": "/images/blog/hosting-guide.png",
+  "defaultReadTime": "5 min läsning",
+  "fallbackCategoryIcon": "📄",
+  "routes": {
+    "blogBase": "/blog",
+    "categoryBase": "/blog/category",
+    "postBase": "/blog"
+  },
+  "categories": {
+    "all": "Alla Inlägg"
+  },
+  "categoryNames": {
+    "hosting": "Hosting",
+    "wordpress": "WordPress",
+    "domains": "Domäner",
+    "tutorials": "Guider",
+    "guides": "Guider",
+    "security": "Säkerhet"
+  },
+  "cta": {
+    "heading": "Redo att ta nästa steg online?",
+    "subheading": "Bygg snabbare, säkrare och bättre webbplatser med WebblyHosting.",
+    "trustedBy": "Pålitlig hosting för <strong class='text-[#8C52FF]'>växande företag</strong> och entreprenörer.",
+    "viewPlans": "VISA PAKET",
+    "webHosting": {
+      "title": "Webbhotell",
+      "description": "Snabbt och säkert webbhotell för små och medelstora sajter.",
+      "link": "/shared-hosting"
+    },
+    "wordpressHosting": {
+      "title": "WordPress Hosting",
+      "description": "Optimerad hosting för WordPress-sajter.",
+      "link": "/wordpress-hosting"
+    },
+    "vpsHosting": {
+      "title": "VPS Hosting",
+      "description": "Kraftfulla virtuella servrar för växande företag.",
+      "link": "/vps"
+    },
+    "ecommerceHosting": {
+      "title": "E-handelshosting",
+      "description": "Optimerad hosting för onlinebutiker.",
+      "link": "/ecommerce-hosting"
+    }
+  }
+}

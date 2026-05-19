@@ -1,0 +1,70 @@
+{
+  "plans": [
+    {
+      "whmcsProductId": 4,
+      "name": "Starter",
+      "tagline": "",
+      "description": "",
+      "features": [
+        "2 vCores / 4 GB RAM",
+        "100 GB NVMe SSD storage",
+        "1-click WordPress Toolkit",
+        "Git integration",
+        " 1 Gbps port speed",
+        "Unlimited bandwidth (fair use)",
+        "Free SSL certificate",
+        "Daily backups included",
+        "DDoS protection included",
+        "99.9% uptime guarantee",
+        "Free domain registration/transfer",
+        "Full root access + Plesk control panel INCLUDED",
+        "Human support, no AI bot"
+      ]
+    },
+    {
+      "whmcsProductId": 5,
+      "name": "Pro Plan",
+      "tagline": "",
+      "description": "",
+      "features": [
+        "4 vCores / 8 GB RAM",
+        "250 GB NVMe SSD storage",
+        " 1 Gbps dedicated port",
+        "Redis caching pre-configured",
+        "Git integration",
+        "Cloudflare proxy included",
+        "Unlimited bandwidth (fair use)",
+        "Free SSL certificate",
+        "Daily backups included",
+        "DDoS protection included",
+        "99.9% uptime guarantee",
+        "Free domain registration/transfer",
+        "Full root access + Plesk control panel INCLUDED",
+        "Human support, no AI bot"
+      ]
+    },
+    {
+      "whmcsProductId": 6,
+      "name": "Business Plan",
+      "tagline": "",
+      "description": "",
+      "features": [
+        "8 vCores / 16 GB RAM ",
+        "500 GB NVMe SSD storage",
+        " 10 Gbps network",
+        " 1 Gbps dedicated port",
+        "Docker containers support",
+        "Real-time resource monitoring ",
+        "Git integration ",
+        "Unlimited bandwidth ",
+        "Free SSL certificate",
+        "Daily backups included",
+        "DDoS protection included",
+        "99.9% uptime guarantee",
+        "Free domain registration/transfer",
+        "Full root access + Plesk control panel INCLUDED",
+        "Human support, no AI bot"
+      ]
+    }
+  ]
+}

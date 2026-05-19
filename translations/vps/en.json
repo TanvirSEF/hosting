@@ -1,0 +1,317 @@
+{
+  "hero": {
+    "brandName": "VPS HOSTING",
+    "mainTitle": "Power, Control, and Flexibility With a Virtual Private Server",
+    "pricing": {
+      "from": "From",
+      "price": "€13.99",
+      "unit": "/mo",
+      "offer": ""
+    },
+    "features": {
+      "domain": "AMD EPYC processors",
+      "hosting": "NVMe SSD storage",
+      "support": "DDoS protection + SSL"
+    },
+    "cta": "VIEW PLANS & PRICING",
+    "ctaLink": "#pricing",
+    "guarantee": "30-day money-back guarantee"
+  },
+  "stats": {
+    "clients": {
+      "number": "2021",
+      "suffix": "  ",
+      "label": "Founded"
+    },
+    "countries": {
+      "number": "99",
+      "suffix": ".9%",
+      "label": "Uptime"
+    },
+    "experience": {
+      "number": "24",
+      "suffix": "/7",
+      "label": "Support"
+    },
+    "websites": {
+      "number": "30",
+      "suffix": "  ",
+      "label": "Days Money Back Guarantee"
+    }
+  },
+  "pricing": {
+    "heading": "Select The Plan That Suits Your Brand",
+    "subheading": "Choose Your Plan According to Your Need",
+    "mostPopular": "Most Popular",
+    "cta": "Get started",
+    "firstYear": "Billed Annually",
+    "standardRate": "Standard Rate",
+    "billedAnnually": "Same price year after year – no surprises",
+    "from": "",
+    "youSave": "You save",
+    "orderLinkBase": "/order/hosting?plan=",
+    "plans": [
+      {
+        "name": "Starter plan",
+        "description": "Lorem ipsum dolor sit amet",
+        "price": "$29",
+        "unit": "/mo",
+        "yearly": "$299 yearly",
+        "orLabel": "or"
+      },
+      {
+        "name": "Premium plan",
+        "description": "Lorem ipsum dolor sit amet",
+        "price": "$29",
+        "unit": "/mo",
+        "yearly": "$299 yearly",
+        "orLabel": "or",
+        "highlight": true,
+        "features": [
+          "Feature text goes here",
+          "Feature text goes here",
+          "Feature text goes here",
+          "Feature text goes here"
+        ]
+      },
+      {
+        "name": "Business plan",
+        "description": "Lorem ipsum dolor sit amet",
+        "price": "$29",
+        "unit": "/mo",
+        "yearly": "$299 yearly",
+        "orLabel": "or",
+        "features": [
+          "Feature text goes here",
+          "Feature text goes here",
+          "Feature text goes here",
+          "Feature text goes here"
+        ]
+      }
+    ]
+  },
+  "features": {
+    "tagline": "More Power. More Freedom",
+    "heading": "Our VPS Hosting Features",
+    "description": "A powerful VPS environment built for developers, businesses, and growing projects. Everything you need to run high-performance applications with speed, control, and reliability. Enjoy dedicated resources, flexible scaling, and infrastructure with a virtual private server.",
+    "tabs": {
+      "performance": "Performance & Scalability",
+      "control": "Control & Access",
+      "security": "Security & Reliability"
+    },
+    "content": {
+      "performance": [
+        {
+          "title": "AMD EPYC CPUs",
+          "description": "High-performance cores deliver fast processing and low latency. Your VPS stays responsive, even under heavy load."
+        },
+        {
+          "title": "NVMe SSD Storage",
+          "description": "Ultra-fast storage speeds up databases, apps, and system tasks. Experience quicker boot times and smoother performance."
+        },
+        {
+          "title": "Unmetered Bandwidth",
+          "description": "Transfer data freely without worrying about limits or surprise charges."
+        },
+        {
+          "title": "Scale Resources Anytime",
+          "description": "Upgrade CPU, RAM, or storage as your needs grow. No downtime. No rebuilds."
+        },
+        {
+          "title": "Traffic Spike Ready",
+          "description": "Handle sudden traffic surges with confidence. Performance stays stable during peak usage."
+        },
+        {
+          "title": "Optimized Server Stack",
+          "description": "Carefully tuned server configurations ensure consistent speed, stability, and efficient resource usage."
+        }
+      ],
+      "control": [
+        {
+          "title": "Full Root Access",
+          "description": "Get complete control over your server environment. Install custom software and configure settings exactly how you want."
+        },
+        {
+          "title": "Dedicated IP",
+          "description": "Includes a dedicated IP address for better reputation and control over your network identity."
+        },
+        {
+          "title": "Control Panel Options",
+          "description": "Choose from popular control panels like cPanel, Plesk, or CyberPanel for easy management."
+        },
+        {
+          "title": "Operating System Choice",
+          "description": "Deploy with your preferred OS: Ubuntu, Debian, CentOS, AlmaLinux, and more."
+        },
+        {
+          "title": "VNC Access",
+          "description": "Emergency console access to your server even if SSH is down."
+        },
+        {
+          "title": "API Access",
+          "description": "Automate management tasks and integrate with your own systems using our robust API."
+        }
+      ],
+      "security": [
+        {
+          "title": "DDoS Protection",
+          "description": "Advanced mitigation keeps your server online and accessible even during attacks."
+        },
+        {
+          "title": "Automated Backups",
+          "description": "Schedule automatic snapshots to protect your data and restore quickly if needed."
+        },
+        {
+          "title": "Firewall Management",
+          "description": "Configure custom firewall rules to secure your ports and block unwanted traffic."
+        },
+        {
+          "title": "Private Networking",
+          "description": "Connect multiple VPS instances securely on a private network for internal communication."
+        },
+        {
+          "title": "24/7 Monitoring",
+          "description": "Proactive monitoring ensures hardware health and network stability around the clock."
+        },
+        {
+          "title": "ISO Certified Data Centers",
+          "description": "Hosted in secure, tier-3+ facilities with redundant power and cooling."
+        }
+      ]
+    }
+  },
+  "creationSteps": {
+    "tagline": "Performance, Speed, and Control",
+    "heading": "Create Your VPS the Way You Need",
+    "steps": [
+      {
+        "title": "Premium performance",
+        "description": "Experience powerful speed with modern, high-efficiency processors."
+      },
+      {
+        "title": "Data at full speed",
+        "description": "Your data loads instantly with ultra-fast, reliable NVMe storage."
+      },
+      {
+        "title": "Complete control",
+        "description": "Enjoy freedom and security with fully isolated virtual private servers."
+      }
+    ]
+  },
+  "management": {
+    "tagline": "Easy VPS Management, Zero Complexity",
+    "heading": "Manage Your VPS Without the Hassle",
+    "cards": {
+      "monitoring": {
+        "title": "Monitoring and alerts",
+        "description": "Track server health in real time. Get instant alerts before issues impact performance or uptime."
+      },
+      "patch": {
+        "title": "Patch and update",
+        "description": "Keep your VPS secure with timely patches. Updates run smoothly without breaking your workflow."
+      },
+      "backups": {
+        "title": "Backups and recovery",
+        "description": "Automatic backups protect your data. Restore your server quickly whenever you need it."
+      },
+      "support": {
+        "title": "24/7 expert support",
+        "description": "Our VPS experts are available day and night. Get fast help whenever you need guidance."
+      }
+    }
+  },
+  "whyChoose": {
+    "heading": "Why WebblyHosting",
+    "tagline": "Support, Privacy, and Security With Affordability",
+    "tabs": {
+      "support": {
+        "title": "Customer Support",
+        "description": "Our Support Team is ready 24/7 to assist with any issue you might have. You can rely on them to provide the support you need."
+      },
+      "privacy": {
+        "title": "Privacy & Security",
+        "description": "We prioritize your data privacy with advanced encryption and strict security protocols to keep your information safe."
+      },
+      "pricing": {
+        "title": "Affordable Pricing",
+        "description": "Get premium VPS hosting features at competitive rates. No hidden fees, just transparent and affordable pricing."
+      }
+    }
+  },
+  "useCases": {
+    "heading": "Top Use Cases for VPS Hosting",
+    "tagline": "Versatile Solutions for Every Need",
+    "description": "Discover how our high-performance VPS hosting can power your specific workload with reliability and speed.",
+    "cards": [
+      {
+        "title": "Ecommerce-Ready Hosting",
+        "description": "Handle high traffic spikes and secure transactions with dedicated resources ensuring zero downtime for your store."
+      },
+      {
+        "title": "Game Server Hosting",
+        "description": "Low latency and high-performance processors make our VPS ideal for hosting lag-free multiplayer game servers."
+      },
+      {
+        "title": "Web Application Deployment",
+        "description": "Perfect environment for Node.js, Python, or Ruby apps with full root access and customizable environments."
+      },
+      {
+        "title": "Data Processing & Storage",
+        "description": "Securely process large datasets and store sensitive information with our isolated and encrypted VPS solutions."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions about VPS",
+    "questions": [
+      {
+        "question": "What is a VPS?",
+        "answer": "A Virtual Private Server (VPS) is a virtualized server that mimics a dedicated server environment within a shared server. It provides dedicated resources like CPU and RAM."
+      },
+      {
+        "question": "How is VPS distinct from Shared Hosting?",
+        "answer": "Unlike shared hosting where resources are shared among many users, a VPS offers dedicated resources and greater control, ensuring your website performance is isolated from others."
+      },
+      {
+        "question": "Do I get root access?",
+        "answer": "Yes, our VPS hosting plans come with full root access, giving you complete control over your server environment to install customizations and configure settings."
+      },
+      {
+        "question": "Can I upgrade my VPS plan?",
+        "answer": "Absolutely. You can easily scale your resources up or down as your business needs change, ensuring you always have the performance you require."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Experience Premium Performance?",
+    "subheading": "Get started with our high-speed, secure, and reliable VPS hosting today.",
+    "button": "Launch your VPS Now",
+    "buttonLink": "#pricing"
+  },
+  "contact": {
+    "heading": "Need Help Choosing the Right Plan?",
+    "subheading": "Get expert advice",
+    "description1": "Book a short call with our team. One of WebblyHosting's specialists will help you choose the right hosting package based on your website, business goals, and budget. We want to make your decision simple and stress-free.",
+    "description2": "By submitting your details, you agree to WebblyHosting contacting you for support and guidance regarding your hosting needs.",
+    "emailLabel": "Email:",
+    "phoneLabel": "",
+    "email": "support@webblyhosting.com",
+    "phone": "",
+    "info": {
+      "social": {
+        "title": "Share"
+      }
+    }
+  },
+  "contactForm": {
+    "nameLabel": "Name",
+    "firstNamePlaceholder": "First Name",
+    "lastNamePlaceholder": "Last Name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Your Email",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Your Message",
+    "submitButton": "Get Started",
+    "sending": "Sending..."
+  }
+}

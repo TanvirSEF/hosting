@@ -1,0 +1,51 @@
+/* CTA Section Infinite Scroll Animations */
+
+/* Scroll down animation - starts at -50% and moves to 0% */
+@keyframes scroll-down {
+  0% {
+    transform: translateY(-50%);
+  }
+
+  100% {
+    transform: translateY(0%);
+  }
+}
+
+/* Scroll up animation - starts at 0% and moves to -50% */
+@keyframes scroll-up {
+  0% {
+    transform: translateY(0%);
+  }
+
+  100% {
+    transform: translateY(-50%);
+  }
+}
+
+.scrollDown {
+  animation: scroll-down 30s linear infinite;
+  transform: translateY(-50%);
+  will-change: transform;
+  backface-visibility: hidden;
+}
+
+.scrollUp {
+  animation: scroll-up 25s linear infinite;
+  transform: translateY(0%);
+  will-change: transform;
+  backface-visibility: hidden;
+}
+
+.scrollDownFast {
+  animation: scroll-down 20s linear infinite;
+  transform: translateY(-50%);
+  will-change: transform;
+  backface-visibility: hidden;
+}
+
+.scrollUpFast {
+  animation: scroll-up 25s linear infinite;
+  transform: translateY(0%);
+  will-change: transform;
+  backface-visibility: hidden;
+}

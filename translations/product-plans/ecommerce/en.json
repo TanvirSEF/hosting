@@ -1,0 +1,72 @@
+{
+  "plans": [
+    {
+      "whmcsProductId": 10,
+      "name": "Starter",
+      "tagline": "",
+      "description": "",
+      "features": [
+        "2 WooCommerce websites",
+        "50 GB NVMe SSD storage",
+        "Nginx caching enabled",
+        "Unlimited bandwidth (fair use)",
+        "Free SSL certificate",
+        "Daily backups included",
+        "Unlimited professional email accounts",
+        "Easy control panel ",
+        "1-click WordPress installation",
+        "DDoS protection included",
+        "99.9% uptime guarantee",
+        "Free domain registration/transfer",
+        "Human support, no AI bot"
+      ]
+    },
+    {
+      "whmcsProductId": 11,
+      "name": "Pro Plan",
+      "tagline": "",
+      "description": "",
+      "features": [
+        "4 WooCommerce websites",
+        "150 GB NVMe SSD storage",
+        "Cloudflare CDN integration",
+        "Redis Object Cache",
+        "WooCommerce staging environment",
+        "Unlimited bandwidth ",
+        "Free SSL certificate",
+        "Daily backups included",
+        "Unlimited professional email accounts",
+        "Easy control panel",
+        "1-click WordPress installation",
+        "DDoS protection included",
+        "99.9% uptime guarantee",
+        "Free domain registration/transfer",
+        "Human support, no AI bot"
+      ]
+    },
+    {
+      "whmcsProductId": 12,
+      "name": "Business Plan",
+      "tagline": "",
+      "description": "",
+      "features": [
+        "10 WooCommerce websites",
+        "300 GB NVMe SSD storage",
+        "PHP 8.3 + PHP-FPM optimization",
+        " Daily malware scanning (VirusTotal)",
+        "Advanced WAF & fraud protection",
+        "Real-time performance monitoring",
+        "Unlimited bandwidth",
+        "Free SSL certificate",
+        "Daily backups included",
+        "Unlimited professional email accounts",
+        "Easy control panel ",
+        "1-click WordPress installation",
+        "DDoS protection included",
+        "99.9% uptime guarantee",
+        "Free domain registration/transfer",
+        "Human support, no AI bot"
+      ]
+    }
+  ]
+}

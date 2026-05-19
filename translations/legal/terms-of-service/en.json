@@ -1,0 +1,146 @@
+{
+  "breadcrumb": {
+    "home": "Home",
+    "legal": "Legal"
+  },
+  "lastUpdated": "Last Updated",
+  "sidebar": {
+    "title": "Legal Documents"
+  },
+  "contact": {
+    "title": "Questions About These Terms?",
+    "description": "If you have any questions or concerns about these terms or our services, please don't hesitate to reach out to our team.",
+    "button": "Contact Us"
+  },
+  "links": {
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "cookiePolicy": "Cookie Policy"
+  },
+  "title": "Terms of Service",
+  "pageLastUpdated": "31 December 2025",
+  "introduction": "Welcome to WebblyHosting. These Terms of Service govern your use of our website, products, and services. By accessing or using our services, you agree to be bound by these terms. Please read them carefully before proceeding.",
+  "sections": [
+    {
+      "title": "Acceptance of Terms",
+      "content": "By creating an account, purchasing a service, or otherwise using WebblyHosting services, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service. If you do not agree to these terms, you may not use our services."
+    },
+    {
+      "title": "Description of Services",
+      "content": "WebblyHosting provides web hosting, domain registration, and related internet services. Our services include but are not limited to:",
+      "subsections": [
+        {
+          "title": "Hosting Services",
+          "content": [
+            "Shared hosting plans",
+            "VPS (Virtual Private Server) hosting",
+            "WordPress optimized hosting",
+            "E-commerce hosting solutions",
+            "Email hosting services"
+          ]
+        },
+        {
+          "title": "Domain Services",
+          "content": [
+            "Domain name registration",
+            "Domain transfers",
+            "DNS management",
+            "Domain privacy protection"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Account Registration",
+      "content": [
+        "You must provide accurate and complete registration information",
+        "You are responsible for maintaining the security of your account credentials",
+        "You must be at least 18 years old to create an account",
+        "One person or entity may not maintain multiple free accounts",
+        "You are responsible for all activities that occur under your account"
+      ]
+    },
+    {
+      "title": "Payment Terms",
+      "content": "All payments are due at the time of purchase or renewal. We accept major credit cards and other payment methods as indicated on our website.",
+      "subsections": [
+        {
+          "title": "Billing",
+          "content": "Services are billed in advance on a monthly, annual, or multi-year basis depending on your selected plan. All fees are non-refundable except as expressly stated in our Refund Policy."
+        },
+        {
+          "title": "Automatic Renewal",
+          "content": "Unless you disable auto-renewal, your services will automatically renew at the then-current rates. You may disable auto-renewal at any time through your account dashboard."
+        },
+        {
+          "title": "Late Payments",
+          "content": "Failure to pay fees when due may result in suspension or termination of your services. We reserve the right to charge late fees and collection costs."
+        }
+      ]
+    },
+    {
+      "title": "Acceptable Use Policy",
+      "content": "You agree not to use our services for any unlawful or prohibited activities. The following are strictly prohibited:",
+      "subsections": [
+        {
+          "title": "Prohibited Content",
+          "content": [
+            "Illegal content or activities",
+            "Content that infringes intellectual property rights",
+            "Malware, viruses, or malicious code",
+            "Spam or unsolicited bulk email",
+            "Adult content without proper safeguards",
+            "Content promoting violence or hate speech"
+          ]
+        },
+        {
+          "title": "Prohibited Activities",
+          "content": [
+            "Attempting to gain unauthorized access to systems",
+            "Interfering with network services",
+            "Excessive resource usage affecting other users",
+            "Mining cryptocurrency without authorization",
+            "Running proxy or VPN services without approval"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Service Level Agreement",
+      "content": "We strive to maintain 99.9% uptime for all hosting services. In the event of downtime exceeding this guarantee, eligible customers may receive service credits as outlined in our SLA documentation. Scheduled maintenance and circumstances beyond our control are excluded from uptime calculations."
+    },
+    {
+      "title": "Data Backup and Security",
+      "content": [
+        "We perform regular backups but recommend maintaining your own backups",
+        "You are responsible for the security of your content and applications",
+        "We implement industry-standard security measures",
+        "We are not liable for data loss due to customer negligence or third-party attacks"
+      ]
+    },
+    {
+      "title": "Intellectual Property",
+      "content": "All content, trademarks, and intellectual property on our website and services remain the property of WebblyHosting or our licensors. You retain ownership of content you upload but grant us a license to host and display it as necessary to provide our services."
+    },
+    {
+      "title": "Limitation of Liability",
+      "content": "To the maximum extent permitted by law, WebblyHosting shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including loss of profits, data, or business opportunities. Our total liability shall not exceed the amount paid by you for services in the twelve months preceding the claim."
+    },
+    {
+      "title": "Termination",
+      "content": "Either party may terminate services at any time. We reserve the right to suspend or terminate accounts that violate these terms without notice. Upon termination, you must cease all use of our services, and we may delete your data after a reasonable retention period."
+    },
+    {
+      "title": "Modifications to Terms",
+      "content": "We may modify these Terms of Service at any time. Material changes will be communicated via email or through our website. Your continued use of services after changes become effective constitutes acceptance of the modified terms."
+    },
+    {
+      "title": "Governing Law",
+      "content": "These Terms of Service shall be governed by and construed in accordance with applicable laws. Any disputes arising from these terms shall be resolved through binding arbitration or in the courts of competent jurisdiction."
+    },
+    {
+      "title": "Contact Information",
+      "content": "For questions about these Terms of Service, please contact us at legal@webblyhosting.com or through our support channels."
+    }
+  ]
+}

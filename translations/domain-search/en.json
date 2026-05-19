@@ -1,0 +1,277 @@
+{
+  "hero": {
+    "title": "Search for and claim your domain name",
+    "subtitle": "Discover and register your unique domain to get business email free",
+    "searchPlaceholder": "Your Digital Identity Starts Here",
+    "searchButton": "Search",
+    "searching": "Searching...",
+    "errorEmpty": "Please enter a domain name",
+    "errorInvalid": "Please enter a valid domain name",
+    "errorFailed": "Failed to check domain availability",
+    "resultsHeading": "Search Results for \"{query}\"",
+    "availableLabel": "Available for registration",
+    "registeredLabel": "Already registered",
+    "priceSuffix": "/year",
+    "statusAvailable": "Available",
+    "statusTaken": "Taken",
+    "resultsFor": "Results for",
+    "clearSearch": "Clear search",
+    "statusLineTaken": "Taken",
+    "statusLineAvailable": "Available",
+    "suggestionsHeading": "Suggested domains",
+    "yr": "yr",
+    "renew": "Renew",
+    "addToCart": "Add to Cart",
+    "add": "Add",
+    "pricingInfo": "Prices shown are for 1 year registration. Renewals may differ.",
+    "priceUnavailable": "Price unavailable",
+    "unavailable": "Unavailable",
+    "registerNow": "Register Now",
+    "searchAgain": "Search for another domain",
+    "noResults": "No results found. Please try again.",
+    "addonDnsTitle": "DNS Management",
+    "addonDnsDesc": "Advanced DNS control for your domain records",
+    "addonEmailTitle": "Email Forwarding",
+    "addonEmailDesc": "Forward emails from your domain to any address",
+    "addonIdProtectTitle": "ID Protection",
+    "addonIdProtectDesc": "Keep your personal information private in WHOIS",
+    "toastAddedTitle": "{domain} added to cart",
+    "toastAddedDesc": "Registration for {years} year(s) at {price}",
+    "inCart": "In Cart",
+    "cart": "In Cart",
+    "suggestions": [
+      "yourdomain.com",
+      "mybusiness.io",
+      "startup.tech",
+      "mystore.shop",
+      "company.co",
+      "brand.online"
+    ],
+    "tlds": [
+      {
+        "tld": ".com",
+        "oldPrice": "us$19",
+        "newPrice": "us$0.03"
+      },
+      {
+        "tld": ".net",
+        "oldPrice": "us$19",
+        "newPrice": "us$0.03"
+      },
+      {
+        "tld": ".org",
+        "oldPrice": "us$19",
+        "newPrice": "us$0.03"
+      },
+      {
+        "tld": ".io",
+        "oldPrice": "us$19",
+        "newPrice": "us$0.03"
+      },
+      {
+        "tld": ".co",
+        "oldPrice": "us$19",
+        "newPrice": "us$0.03"
+      }
+    ]
+  },
+  "stats": {
+    "clients": {
+      "number": "2021",
+      "suffix": "  ",
+      "label": "Founded"
+    },
+    "countries": {
+      "number": "99",
+      "suffix": ".9%",
+      "label": "Uptime"
+    },
+    "experience": {
+      "number": "24",
+      "suffix": "/7",
+      "label": "Support"
+    },
+    "websites": {
+      "number": "30",
+      "suffix": "  ",
+      "label": "Days Money Back Guarantee"
+    }
+  },
+  "pricing": {
+    "heading": "Choose Your Domain Package",
+    "subheading": "Find the perfect domain package that fits your business needs",
+    "mostPopular": "Most Popular",
+    "cta": "Get Started",
+    "ctaLink": "/domain-search",
+    "plans": [
+      {
+        "name": "Basic Domain",
+        "description": "Perfect for personal projects",
+        "price": "$9.99",
+        "unit": "/year",
+        "yearly": "$9.99/year",
+        "orLabel": "",
+        "features": [
+          "1 Domain Registration",
+          "Free WHOIS Privacy",
+          "DNS Management",
+          "Domain Forwarding"
+        ]
+      },
+      {
+        "name": "Business Domain",
+        "description": "Ideal for growing businesses",
+        "price": "$14.99",
+        "unit": "/year",
+        "yearly": "$14.99/year",
+        "orLabel": "",
+        "highlight": true,
+        "features": [
+          "1 Domain Registration",
+          "Free WHOIS Privacy",
+          "DNS Management",
+          "Free Business Email"
+        ]
+      },
+      {
+        "name": "Premium Domain",
+        "description": "For enterprises and brands",
+        "price": "$24.99",
+        "unit": "/year",
+        "yearly": "$24.99/year",
+        "orLabel": "",
+        "features": [
+          "1 Premium Domain",
+          "Free WHOIS Privacy",
+          "Advanced DNS Management",
+          "Priority Support"
+        ]
+      }
+    ]
+  },
+  "whyChoose": {
+    "tagline": "Domains",
+    "heading": "Why choose domain from WebblyHosting",
+    "description": "WebblyHosting domain registration is built for simplicity and reliability. It's perfect for beginners, small websites, and businesses that want fast speed, strong security, and easy control. You get a balanced server environment, modern infrastructure, and expert support—all at an affordable price.",
+    "cards": [
+      {
+        "heading": "Secure & Private",
+        "text": "Free WHOIS privacy protection keeps your personal information safe. Your domain registration details stay hidden from public databases."
+      },
+      {
+        "heading": "Easy Management",
+        "text": "Intuitive control panel makes DNS management simple. Point your domain anywhere, set up subdomains, and manage records with ease."
+      },
+      {
+        "heading": "Reliable Infrastructure",
+        "text": "Enterprise-grade DNS servers ensure your domain is always accessible. Fast propagation and 99.99% uptime guaranteed."
+      }
+    ]
+  },
+  "useCases": {
+    "tagline": "Use Cases",
+    "heading": "Perfect domains for every need",
+    "description": "Find the ideal domain extension for your business, blog, or project",
+    "cards": [
+      {
+        "tagline": "Business",
+        "heading": "Professional Branding",
+        "text": "Establish credibility with a .com or .co domain that clients trust.",
+        "image": "/images/domain-search/image1.png"
+      },
+      {
+        "tagline": "Startups",
+        "heading": "Tech & Innovation",
+        "text": "Stand out with modern extensions like .io, .tech, or .ai.",
+        "image": "/images/domain-search/image2.png"
+      },
+      {
+        "tagline": "E-commerce",
+        "heading": "Online Stores",
+        "text": "Boost sales with .shop, .store, or .market domains that customers remember.",
+        "image": "/images/domain-search/image3.png"
+      },
+      {
+        "tagline": "Creative",
+        "heading": "Portfolio & Blogs",
+        "text": "Showcase your work with .design, .art, or .blog extensions.",
+        "image": "/images/domain-search/image4.png"
+      },
+      {
+        "tagline": "Local",
+        "heading": "Regional Presence",
+        "text": "Connect with local audiences using country-specific domains like .se, .de, or .uk.",
+        "image": "/images/domain-search/image5.png"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "questions": [
+      {
+        "question": "What is a domain name?",
+        "answer": "A domain name is your website's address on the internet (like webblyhosting.com). It's how visitors find and access your website. WebblyHosting offers a wide variety of domain extensions to help you create the perfect online identity for your business or personal brand."
+      },
+      {
+        "question": "Do you offer free domain name?",
+        "answer": "Free Domain-For as Long as You Stay With Us! \n Yes! Your domain name is on us as long as you renew your hosting package. This applies to most popular domain extensions. Depending on which extension you choose, your domain is either completely free of charge for the duration of your time as a customer or available at our competitive standard rates."
+      },
+      {
+        "question": "How can I register a domain name?",
+        "answer": "Registering a domain is simple! Use our search tool above to check if your desired domain is available. If it is, add it to your cart and complete the checkout process. Your domain will be registered within minutes and you'll have full control through our easy-to-use management panel."
+      },
+      {
+        "question": "How do you ensure domain security?",
+        "answer": "We provide free WHOIS privacy protection with every domain, keeping your personal information hidden from public databases. We also offer domain lock to prevent unauthorized transfers, two-factor authentication, and DNSSEC support for added security."
+      },
+      {
+        "question": "Will I get a free SSL certificate?",
+        "answer": "Yes! Every domain registered with WebblyHosting comes with a free SSL certificate for the first year. This ensures your website has the secure HTTPS protocol, which builds trust with visitors and improves your search engine rankings."
+      },
+      {
+        "question": "Can I transfer my domain to WebblyHosting?",
+        "answer": "Absolutely! We make domain transfers easy. Simply unlock your domain at your current registrar, obtain the authorization code, and initiate the transfer through our platform. We'll guide you through each step, and transfers typically complete within 5-7 days."
+      },
+      {
+        "question": "What is your 30-day money-back guarantee?",
+        "answer": "We offer a 30-day money-back guarantee on all hosting services. If you're not completely satisfied within the first 30 days, we'll refund your hosting fees—no questions asked. Please note that domain registration fees are non-refundable as domains are registered with ICANN."
+      },
+      {
+        "question": "Do you offer 24/7 online support?",
+        "answer": "Yes! Our expert support team is available 24/7 via live chat, email, and phone. Whether you need help with domain configuration, DNS settings, or any other questions, we're here to assist you around the clock."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to claim your perfect domain?",
+    "subheading": "Join thousands of businesses who trust WebblyHosting for their domain and hosting needs. Start your online journey today.",
+    "button": "Search Domains Now",
+    "buttonLink": "/domain-search"
+  },
+  "contact": {
+    "heading": "Need Help Choosing the Right Plan?",
+    "subheading": "Get expert advice",
+    "description1": "Book a short call with our team. One of WebblyHosting's specialists will help you choose the right domain package based on your business goals and budget. We want to make your decision simple and stress-free.",
+    "description2": "By submitting your details, you agree to WebblyHosting contacting you for support and guidance regarding your domain needs.",
+    "emailLabel": "Email:",
+    "phoneLabel": "",
+    "email": "support@webblyhosting.com",
+    "phone": "",
+    "info": {
+      "social": {
+        "title": "Share"
+      }
+    }
+  },
+  "contactForm": {
+    "nameLabel": "Name",
+    "firstNamePlaceholder": "First Name",
+    "lastNamePlaceholder": "Last Name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Your Email",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Your Message",
+    "submitButton": "Get Started",
+    "sending": "Sending..."
+  }
+}

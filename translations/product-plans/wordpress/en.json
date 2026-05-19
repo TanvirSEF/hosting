@@ -1,0 +1,73 @@
+{
+  "plans": [
+    {
+      "whmcsProductId": 7,
+      "name": "Starter",
+      "tagline": "",
+      "description": "",
+      "features": [
+        " 2 WordPress websites",
+        "50 GB NVMe SSD storage",
+        "Standard Page Cache",
+        "Auto WP-core updates",
+        "1-click WordPress installation",
+        "Unlimited Professional Email Accounts",
+        "Unmetered bandwidth (fair use)",
+        "Free SSL certificate",
+        "Daily backups included",
+        "Simple/User-Friendly Control Panel",
+        "DDoS protection included",
+        "99.9% uptime guarantee",
+        "Free domain registration/transfer ",
+        "Human support (no AI bot)"
+      ]
+    },
+    {
+      "whmcsProductId": 8,
+      "name": "Pro Plan",
+      "tagline": "",
+      "description": "",
+      "features": [
+        "4 WordPress websites",
+        "150 GB NVMe SSD storage",
+        "Advanced Object Cache ",
+        "Staging + auto plugin-updates",
+        "WP-specifik firewall",
+        "1-click WordPress installation",
+        "Unlimited Professional Email Accounts",
+        "Unmetered bandwidth (fair use)",
+        "Free SSL certificate",
+        "Daily backups included",
+        "Simple/User-Friendly Control Panel",
+        "DDoS protection included",
+        "99.9% uptime guarantee",
+        "Free domain registration/transfer",
+        "Human support (no AI bot)"
+      ]
+    },
+    {
+      "whmcsProductId": 9,
+      "name": "Business Plan",
+      "tagline": "",
+      "description": "",
+      "features": [
+        "10 WordPress websites",
+        "300 GB NVMe SSD storage",
+        "Ultimate Performance (Global CDN included)",
+        "Full Staging & Snapshots",
+        "Managed Malware Scanner",
+        "Advanced WAF Protection",
+        "1-click WordPress installation",
+        "Unlimited Professional Email Accounts",
+        "Unmetered bandwidth",
+        "Free SSL certificate",
+        "Daily backups included",
+        "Simple/User-Friendly Control Panel",
+        "DDoS protection included",
+        "99.9% uptime guarantee",
+        "Free domain registration/transfer",
+        "Human support (no AI bot)"
+      ]
+    }
+  ]
+}

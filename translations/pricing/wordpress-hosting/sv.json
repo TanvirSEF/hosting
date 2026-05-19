@@ -1,0 +1,221 @@
+{
+  "hero": {
+    "badge": "WordPress Hosting",
+    "title": "Hanterad <span class='text-[#8C52FF]'>WordPress Hosting</span>",
+    "subtitle": "Byggd för hastighet, säkerhet och skalbarhet. Kom igång med 1-klicks WordPress-installation.",
+    "cta": "Se planer",
+    "moneyBack": "30 dagars pengarna-tillbaka-garanti",
+    "navigationItems": [
+      {
+        "name": "Webbhotell",
+        "href": "/pricing",
+        "popular": false
+      },
+      {
+        "name": "VPS Hosting",
+        "href": "/pricing/vps-hosting",
+        "popular": false
+      },
+      {
+        "name": "WordPress Hosting",
+        "href": "/pricing/wordpress-hosting",
+        "popular": true
+      },
+      {
+        "name": "Domäner",
+        "href": "/pricing/domains",
+        "popular": false
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Wordpress Hosting Paket",
+    "subtitle": "Optimerade för WordPress-prestanda med 1-klicksinstallation",
+    "mostPopular": "MEST POPULÄR",
+    "cta": "KOM IGÅNG",
+    "firstYear": "Faktureras årligen",
+    "standardRate": "Standardpris",
+    "billedAnnually": "Samma pris år efter år – inga överraskningar",
+    "from": "",
+    "youSave": "Du sparar",
+    "orderLinkBase": "/order/hosting?plan=",
+    "perMonth": "/mån",
+    "selectPlan": "VÄLJ PAKET",
+    "features": {
+      "ssl": "Gratis SSL Obegränsat",
+      "email": "Gratis E-post",
+      "managed": "Hanterad WP",
+      "acceleration": "WordPress Acceleration",
+      "wpcli": "WP-CLI & Git Integration",
+      "autoUpdates": "Auto-uppdateringar",
+      "prioritySupport": "Prioriterad Support",
+      "dailyBackups": "Dagliga säkerhetskopior"
+    }
+  },
+  "hostingTypes": {
+    "title": "Hitta rätt WordPress hosting för dig",
+    "getStarted": "KOM IGÅNG",
+    "labels": {
+      "websites": "Webbplatser",
+      "performance": "Prestanda",
+      "storage": "Lagring",
+      "managedWp": "Hanterad WP",
+      "included": "Inkluderad"
+    },
+    "performanceLevels": {
+      "standard": "Standard",
+      "increased": "Ökad",
+      "maximum": "Maximal"
+    }
+  },
+  "comparison": {
+    "title": "Jämför WordPress Planer",
+    "subtitle": "Hitta den perfekta planen för din WordPress-sajt",
+    "popular": "Populär",
+    "getStarted": "KOM IGÅNG",
+    "topFeatures": "Toppfunktioner",
+    "managedWp": "Hanterad WordPress",
+    "save": "Spara {percent}%",
+    "perMonthSuffix": "/mån",
+    "support": "Support & Säkerhet",
+    "choose": "VÄLJ",
+    "cancelAnytime": "Avbryt när som helst",
+    "topFeaturesList": [
+      {
+        "feature": "Webbplatser",
+        "plan1": "2 Webbplats",
+        "plan2": "4 Webbplatser",
+        "plan3": "10 Webbplatser"
+      },
+      {
+        "feature": "Lagring",
+        "plan1": "50 GB",
+        "plan2": "150 GB",
+        "plan3": "300 GB"
+      },
+      {
+        "feature": "Hanterad WordPress",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "Staging-miljö",
+        "plan1": "false",
+        "plan2": "true",
+        "plan3": "true"
+      }
+    ],
+    "supportFeatures": [
+      {
+        "feature": "DDoS skydd",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "SSL-certifikat",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "24/7 Prioriterad Support",
+        "plan1": "true",
+        "plan2": "true",
+        "plan3": "true"
+      }
+    ],
+    "wordpressFeatures": [
+      {
+        "feature": "Avancerad Web Application Firewall",
+        "plan1": "false",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "Brute Force Skydd",
+        "plan1": "false",
+        "plan2": "true",
+        "plan3": "true"
+      },
+      {
+        "feature": "Malware Skanning & Borttagning",
+        "plan1": "false",
+        "plan2": "true",
+        "plan3": "true"
+      }
+    ]
+  },
+  "enjoyAllThis": {
+    "title1": "Allt du behöver",
+    "title2": "för WordPress-framgång",
+    "features": {
+      "ssl": "Gratis SSL-certifikat",
+      "backups": "Automatiska säkerhetskopior"
+    }
+  },
+  "faq": {
+    "title": "WordPress Hosting FAQ",
+    "items": [
+      {
+        "question": "Vad är hanterad WordPress hosting?",
+        "answer": "Hanterad WordPress-hosting är en concierge-tjänst där vi hanterar alla tekniska aspekter av din WordPress-sida. Detta inkluderar säkerhet, optimering för högsta hastighet, WordPress-uppdateringar, dagliga säkerhetskopior samt övervakning av drifttid och skalbarhet."
+      },
+      {
+        "question": "Erbjuder ni gratis migrering?",
+        "answer": "Ja, vi erbjuder gratis migrering för din befintliga WordPress-sajt. Vårt team hanterar överföringsprocessen för att säkerställa noll driftstopp och sömlös övergång."
+      },
+      {
+        "question": "Ingår SSL med WordPress hosting?",
+        "answer": "Ja! Alla våra WordPress-paket inkluderar kostnadsfria SSL-certifikat för alla dina domäner, så att både din webbplats och dina besökare förblir säkra."
+      },
+      {
+        "question": "Kan jag installera vilka WordPress-plugins som helst?",
+        "answer": "Absolut! Du har full frihet att installera vilken WordPress-plugin eller tema du behöver för din webbplats. Vi stöder all WordPress-funktionalitet."
+      },
+      {
+        "question": "Hur skiljer sig WordPress hosting från vanlig webbhosting?",
+        "answer": "WordPress-hosting är optimerad specifikt för WordPress-webbplatser med förkonfigurerade inställningar, caching och säkerhetsåtgärder skräddarsydda för just WordPress. Det inkluderar även funktioner som automatiska uppdateringar, staging-miljöer (testmiljöer) och WordPress-specifika verktyg som gör din administration enklare."
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Behöver Du Hjälp Att Välja Rätt Plan?",
+    "subheading": "Få expertrådgivning",
+    "description1": "Boka ett kort samtal med vårt team. En av WebblyHostings specialister hjälper dig att välja rätt webbhotellspaket utifrån din webbplats, dina affärsmål och din budget. Vi vill göra ditt beslut enkelt och helt utan stress.",
+    "description2": "Genom att skicka in dina uppgifter godkänner du att WebblyHosting kontaktar dig för support och vägledning gällande dina behov av webbhotellstjänster.",
+    "emailLabel": "E-post:",
+    "phoneLabel": "Telefon:",
+    "email": "Webblymedia@gmail.se",
+    "phone": "+1-800-123-4567",
+    "info": {
+      "social": {
+        "title": "Dela"
+      }
+    }
+  },
+  "contactForm": {
+    "nameLabel": "Namn",
+    "firstNamePlaceholder": "Förnamn",
+    "lastNamePlaceholder": "Efternamn",
+    "emailLabel": "E-post",
+    "emailPlaceholder": "Din e-post",
+    "messageLabel": "Meddelande",
+    "messagePlaceholder": "Ditt meddelande",
+    "submitButton": "Kom igång",
+    "sending": "Skickar..."
+  },
+  "features": {
+    "title": "WordPress Funktioner",
+    "subtitle": "Allt du behöver för din WordPress-sajt",
+    "security": {
+      "title": "WordPress Säkerhet",
+      "description": "Förbättrade säkerhetsregler specifikt för WordPress."
+    },
+    "staging": {
+      "title": "Staging-verktyg",
+      "description": "Testa ändringar säkert innan du publicerar dem på din live-sajt."
+    }
+  }
+}

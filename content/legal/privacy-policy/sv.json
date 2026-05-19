@@ -1,0 +1,1462 @@
+{
+  "title": "Integritetspolicy",
+  "pageLastUpdated": "31 december 2025",
+  "introduction": {
+    "type": "root",
+    "children": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "type": "text",
+            "text": "Detta integritetsmeddelande för WebblyHosting (\"vi\", \"oss\" eller \"vår\") beskriver hur och varför vi får tillgång till, samlar in, lagrar, använder och/eller delar (\"behandlar\") din personliga information när du använder våra tjänster (\"Tjänster\"), inklusive när du:"
+          }
+        ]
+      },
+      {
+        "type": "ul",
+        "children": [
+          {
+            "type": "li",
+            "children": [
+              {
+                "type": "lic",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Besöker vår webbplats webblyhosting.com eller någon av våra webbplatser som länkar till detta integritetsmeddelande."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "children": [
+              {
+                "type": "lic",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Använder vår hostingplattform och relaterade tjänster (såsom delat webbhotell, WordPress-hosting, e-handelshosting och VPS-hosting)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "children": [
+              {
+                "type": "lic",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Interagerar med oss på andra relaterade sätt, inklusive försäljning, kundsupport, marknadsföring eller evenemang."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "breadcrumb": {
+    "home": "Hem",
+    "legal": "Juridisk"
+  },
+  "lastUpdated": "Senast uppdaterad",
+  "sidebar": {
+    "title": "Juridiska dokument"
+  },
+  "links": {
+    "privacyPolicy": "Integritetspolicy",
+    "termsOfService": "Användarvillkor",
+    "cookiePolicy": "Cookie-policy"
+  },
+  "contact": {
+    "title": "Frågor om denna policy?",
+    "description": "Om du har några frågor eller bekymmer om denna policy eller hur vi hanterar dina uppgifter, tveka inte att kontakta vårt team.",
+    "button": "Kontakta oss"
+  },
+  "sections": [
+    {
+      "title": "Sammanfattning – viktiga punkter",
+      "content": "",
+      "subsections": [
+        {
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Vi behandlar personuppgifter som du tillhandahåller oss när du skapar ett konto, lägger en order, använder våra Tjänster eller kontaktar support."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Vi samlar inte medvetet in känsliga personuppgifter."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Vi samlar primärt in uppgifter direkt från dig samt via cookies och tekniska loggar på vår webbplats och hostingplattform."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Vi behandlar dina uppgifter för att tillhandahålla och förbättra våra Tjänster, hantera fakturering, förhindra bedrägerier och missbruk, säkra vår infrastruktur och följa tillämplig lag (inklusive GDPR om du är i EU/EES)."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Vi kan dela dina uppgifter med utvalda tjänsteleverantörer (till exempel betalningsgateways, domänregister, datacenter och tekniska partners) när det är nödvändigt för att leverera Tjänsterna."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Vi implementerar lämpliga tekniska och organisatoriska åtgärder för att skydda dina uppgifter, men inget system kan vara 100% säkert."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Beroende på var du befinner dig kan du ha rättigheter som tillgång, rättelse, radering, begränsning, invändning och dataportabilitet enligt tillämplig dataskyddslagstiftning (inklusive GDPR för EU/EES-användare)."
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Vilka personuppgifter samlar vi in?",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vi samlar in personuppgifter som du frivilligt tillhandahåller oss när du registrerar dig för Tjänsterna, lägger en order, hanterar din hosting, kontaktar vår support, prenumererar på våra nyhetsbrev eller på annat sätt kommunicerar med oss."
+              }
+            ]
+          }
+        ]
+      },
+      "subsections": [
+        {
+          "title": "Personlig information",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "ul",
+                "children": [
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Namn"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Telefonnummer"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "E-postadress"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Lösenord (lagrat i krypterad form)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Kontaktpreferenser"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Kontakt- eller autentiseringsdata"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Faktureringsadress och land"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Betalningsrelaterade uppgifter (via våra betalningsleverantörer)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Domänregistreringsuppgifter (till exempel namn, adress, e-post som krävs för domänregistrering/WHOIS enligt registerregler)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Personnummer eller momsregistreringsnummer om det krävs för fakturering och skatteändamål i din jurisdiktion"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Företagsnamn och befattning (om du agerar på uppdrag av ett företag)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Känsliga uppgifter: Vi söker inte samla in eller behandla känsliga personuppgifter (såsom hälsodata, religiösa övertygelser osv.). Vänligen tillhandahåll inte sådana uppgifter via våra standardformulär eller ärenden."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Betalningsuppgifter",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Om du väljer att göra köp kan vi behandla data som behövs för att hantera din betalning (till exempel transaktions-ID, betalningsmetod, partiella kortuppgifter som tillhandahålls av betalningsgatewayen). De fullständiga kortuppgifterna behandlas vanligtvis direkt av våra betalningsserviceproviders i enlighet med deras säkerhetsstandarder."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Uppgifter kopplade till ditt hostingkonto",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "När du använder våra hostingtjänster kan vi behandla:"
+                  }
+                ]
+              },
+              {
+                "type": "ol",
+                "children": [
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Domännamn som du registrerar, överför eller pekar till vår plattform."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Konfigurationsdata för dina webbplatser, e-postkonton, databaser och DNS."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Loggdata som genereras av servrar och system, såsom åtkomstloggar, felloggar och säkerhetsloggar, vilket kan inkludera IP-adresser och tidsstämplar."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Uppgifter som samlas in automatiskt",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "När du besöker, använder eller navigerar i Tjänsterna samlar vi automatiskt in viss teknisk information. Detta avslöjar inte direkt din specifika identitet (som ditt namn) men kan inkludera:"
+                  }
+                ]
+              },
+              {
+                "type": "ol",
+                "children": [
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "IP-adress och ungefärlig plats (baserat på IP)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Webbläsartyp och version"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Enhetstyp och operativsystem"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Språkinställningar"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Hänvisande URL:er och besökta sidor"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Datum och tid för åtkomst"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Tekniska händelser (såsom fel, säkerhetshändelser, resursanvändning)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Denna information behövs primärt för att:"
+                  }
+                ]
+              },
+              {
+                "type": "ol",
+                "children": [
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Upprätthålla säkerheten och driften av våra Tjänster."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Förhindra missbruk, attacker och bedräglig aktivitet."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Utföra intern analys och rapportering för att förbättra prestanda och tillförlitlighet."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "title": "Cookies och liknande tekniker",
+          "content": {
+            "type": "root",
+            "children": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Vi använder cookies och liknande tekniker på webblyhosting.com och i vår kontrollpanel/klientområde för att:"
+                  }
+                ]
+              },
+              {
+                "type": "ol",
+                "children": [
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Komma ihåg din inloggningssession."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Spara dina preferenser och språkinställningar."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "li",
+                    "children": [
+                      {
+                        "type": "lic",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Analysera trafik och användning av vår webbplats och Tjänster."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Du kan hantera eller inaktivera cookies i dina webbläsarinställningar. Vissa nödvändiga cookies krävs dock för att webbplatsen och klientområdet ska fungera korrekt (till exempel inloggnings- och säkerhetscookies)."
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hur använder vi dina personuppgifter?",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vi behandlar dina personuppgifter för följande ändamål:"
+              }
+            ]
+          },
+          {
+            "type": "ul",
+            "children": [
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "För att skapa och hantera ditt WebblyHosting-konto och hostingtjänster."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "För att behandla beställningar, betalningar, fakturering och förnyelser."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "För att registrera, överföra och hantera domännamn via relevanta register och registratorer."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "För att tillhandahålla kundsupport och kommunicera med dig angående dina tjänster, incidenter och förfrågningar."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "För att skicka viktiga servicemeddelanden (till exempel säkerhetsmeddelanden, systemunderhåll, ändringar av villkor)."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "För att upprätthålla och förbättra säkerheten, stabiliteten och prestandan för vår infrastruktur."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "För att analysera hur våra Tjänster används så att vi kan förbättra funktioner, prestanda och användarupplevelse."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "För att följa lagliga skyldigheter (till exempel bokförings-, skatte- och dataskyddskrav)."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "För att skicka marknadsföringsmeddelanden om våra tjänster när det är tillåtet enligt lag och med möjlighet att avregistrera sig när som helst."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vi behandlar bara dina personuppgifter när vi har en giltig rättslig grund, till exempel:"
+              }
+            ]
+          },
+          {
+            "type": "ul",
+            "children": [
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Fullgörande av avtal (till exempel tillhandahållande av hostingtjänster som du beställt)."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Efterlevnad av lagliga skyldigheter."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Berättigade intressen (till exempel förbättring av våra tjänster, förebyggande av missbruk och bedrägeri, säkring av våra system) avvägda mot dina rättigheter och friheter."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Ditt samtycke, där det krävs (till exempel vissa marknadsföringskommunikationer eller icke-nödvändiga cookies)."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "När och med vem delar vi dina personuppgifter?",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vi kan dela dina personuppgifter med:"
+              }
+            ]
+          },
+          {
+            "type": "ul",
+            "children": [
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Tjänsteleverantörer och underbiträden som hjälper oss att leverera våra Tjänster (till exempel datacenter, domänregistratorer, SSL-leverantörer, e-postleverantörer, betalningsgateways, supportverktyg), under lämpliga databehandlingsavtal."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Register och ICANN-relaterade enheter när du registrerar eller hanterar domännamn, enligt krav från register/ICANN-regler."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Professionella rådgivare (såsom jurister, revisorer, granskare) där det är nödvändigt."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Offentliga myndigheter eller tillsynsorgan där det krävs enligt tillämplig lag eller som svar på giltiga rättsliga förfrågningar."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vi säljer inte dina personuppgifter till tredje part."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Om vi är involverade i en fusion, förvärv eller försäljning av hela eller delar av vår verksamhet kan dina personuppgifter överföras som en del av den transaktionen, med förbehåll för tillämpliga rättsliga skyddsåtgärder."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Internationella överföringar",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Eftersom våra kunder kan befinna sig världen över och vi kan använda infrastruktur eller tjänsteleverantörer i olika länder, kan dina personuppgifter överföras utanför ditt hemland, inklusive utanför EU/EES."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Där det krävs enligt lag (till exempel för EU/EES-registrerade under GDPR) kommer vi att säkerställa att eventuell internationell överföring baseras på en lämplig skyddsåtgärd, såsom:"
+              }
+            ]
+          },
+          {
+            "type": "ul",
+            "children": [
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Ett adekvansbeslutet från Europeiska kommissionen."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Standardavtalsklausuler (SCC) eller motsvarande avtalsskydd."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Hur skyddar vi dina uppgifter?",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vi implementerar lämpliga tekniska och organisatoriska åtgärder för att skydda dina personuppgifter, inklusive:"
+              }
+            ]
+          },
+          {
+            "type": "ul",
+            "children": [
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Åtkomstkontroller och autentisering på våra system och kontrollpaneler."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Kryptering för data under överföring (till exempel HTTPS/SSL) och, där det är lämpligt, för data i vila."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Regelbundna säkerhetsuppdateringar, övervakning och loggning."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Säkerhetskopior och redundans för att minska risken för dataförlust."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ingen elektronisk överföring via internet eller lagringssystem kan dock garanteras vara 100% säker, så vi kan inte lova eller garantera att obehöriga tredje parter aldrig kommer att kunna kringgå våra säkerhetsåtgärder."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Hur länge sparar vi dina uppgifter?",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vi behåller dina personuppgifter bara så länge som nödvändigt för de ändamål som beskrivs i detta integritetsmeddelande, inklusive:"
+              }
+            ]
+          },
+          {
+            "type": "ul",
+            "children": [
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Under din avtalsperiod och aktiva användning av våra Tjänster."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Under en rimlig period därefter för att hantera avslut, tvister, bokföring, skatt och lagliga skyldigheter."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "När vi inte längre behöver dina personuppgifter kommer vi att radera eller anonymisera dem, såvida vi inte är rättsligt skyldiga att bevara dem under en längre period."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Dina rättigheter",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Beroende på din plats och tillämplig lag (till exempel GDPR om du är i EU/EES) kan du ha några eller alla följande rättigheter:"
+              }
+            ]
+          },
+          {
+            "type": "ul",
+            "children": [
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Rätt till tillgång – att få bekräftelse och en kopia av dina personuppgifter som vi behandlar."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Rätt till rättelse – att korrigera felaktiga eller ofullständiga uppgifter."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Rätt till radering – att begära radering av dina personuppgifter under vissa omständigheter."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Rätt till begränsning – att be oss begränsa behandlingen i vissa situationer."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Rätt att invända – att invända mot viss behandling baserad på berättigade intressen eller mot direktmarknadsföring."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Rätt till dataportabilitet – att ta emot dina uppgifter i ett strukturerat, vanligt använt, maskinläsbart format och att överföra dem till en annan personuppgiftsansvarig där det är tekniskt möjligt."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Rätt att återkalla samtycke – där behandlingen är baserad på samtycke kan du återkalla det när som helst (utan att påverka behandling som skedde innan återkallandet)."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Du har också rätt att lämna in ett klagomål till din lokala dataskyddsmyndighet om du anser att dina rättigheter har kränkts."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Hur utövar du dina rättigheter?",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "För att utöva dina rättigheter eller ställa frågor om detta integritetsmeddelande, vänligen kontakta oss på:"
+              }
+            ]
+          },
+          {
+            "type": "ul",
+            "children": [
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "E-post: legal@webblyhosting.com"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "li",
+                "children": [
+                  {
+                    "type": "lic",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Postadress: Webbly Media Digital Solutions SL, C. Buselas 3, 29649 Mijas, Malaga, Spanien"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vi kan behöva verifiera din identitet innan vi svarar på din begäran. Vi svarar inom de tidsfrister som krävs av tillämplig dataskyddslagstiftning."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Om du befinner dig i EU/EES har du också rätt att lämna in ett klagomål till din nationella tillsynsmyndighet (till exempel Integritetsskyddsmyndigheten i Sverige)."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Barns integritet",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Våra Tjänster riktar sig inte till barn under 18 år, och vi samlar inte medvetet in personuppgifter från barn under denna ålder. Om du tror att ett barn under 18 år har tillhandahållit oss personuppgifter, vänligen kontakta oss så att vi kan vidta lämpliga åtgärder för att radera den informationen."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Ändringar i denna integritetspolicy",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vi kan uppdatera detta integritetsmeddelande från tid till annan, till exempel för att återspegla förändringar i våra Tjänster, lagkrav eller teknisk utveckling. När vi gör väsentliga förändringar kommer vi att meddela dig genom att uppdatera datumet \"senast uppdaterad\" på denna sida och, där det är lämpligt, via e-post eller kontrollpanelsmeddelanden."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Genom att fortsätta använda våra Tjänster efter att ett uppdaterat integritetsmeddelande har publicerats accepterar du de reviderade villkoren."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Kontakta oss",
+      "content": {
+        "type": "root",
+        "children": [
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "text": "Om du har några frågor, funderingar eller förfrågningar gällande denna integritetspolicy eller våra datarutiner, kontakta oss på: legal@webblyhosting.com. Vi är engagerade i att ta itu med dina funderingar och kommer att svara på din förfrågan inom rimlig tid."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
